@@ -1,0 +1,6 @@
+propdump version 4
+0 1157741027 0 0 0 0 0 0 0 11 0 86 0 street1.rwxcreate visible off; bump url http://mion.activeworlds.com/help/limbo.html target=aw_3d
+1 1157740997 0 0 1000 0 0 0 0 11 0 86 0 street1.rwxcreate visible off; bump url http://mion.activeworlds.com/help/limbo.html target=aw_3d
+1 1157741034 0 0 -1000 0 0 0 0 11 0 86 0 street1.rwxcreate visible off; bump url http://mion.activeworlds.com/help/limbo.html target=aw_3d
+1 1157741024 1000 0 0 0 0 0 0 11 0 86 0 street1.rwxcreate visible off; bump url http://mion.activeworlds.com/help/limbo.html target=aw_3d
+1 1157741031 -1000 0 0 0 0 0 0 11 0 86 0 street1.rwxcreate visible off; bump url http://mion.activeworlds.com/help/limbo.html target=aw_3d
