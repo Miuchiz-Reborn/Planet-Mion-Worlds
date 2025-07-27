@@ -1,13 +1,13 @@
 atdump version 4
 0 Y
 1 N
-2 Y
-3 Y
-4 Y
-5 Y
+2 N
+3 N
+4 N
+5 N
 6 Y
-7 Y
-8 Y
+7 N
+8 N
 9 N
 10 128
 11 126
@@ -17,7 +17,7 @@ atdump version 4
 15 1
 17 1
 18 1.000000
-19 30000
+19 11000
 20 
 21 1
 22 0.090000
@@ -38,7 +38,7 @@ atdump version 4
 37 1.000000
 39 N
 40 N
-41 Y
+41 N
 42 1
 43 1
 44 N
@@ -53,7 +53,7 @@ atdump version 4
 54 183
 55 1.000000
 56 g2l
-57 http://mion.activeworlds.com/map.php
+57 http://connect.miuchiz.com/map.php
 58 
 59 220
 60 Y
@@ -63,9 +63,9 @@ atdump version 4
 64 c_sun
 65 254
 66 c_sun
-67 -0.883700
-68 -0.062623
-69 0.747377
+67 -0.870000
+68 -0.050000
+69 0.740000
 70 100
 72 100
 74 86a8e2b16767aa6d630778a91e
