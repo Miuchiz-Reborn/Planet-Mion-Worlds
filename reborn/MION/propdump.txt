@@ -1030,117 +1030,167 @@ propdump version 4
 1 1189703823 19982 -14425 -55815 900 0 0 0 2 0 75 0 c5create name p10,visible off;activate visible p10 off;miuchiz: buy: 06000042
 1 1189703823 19982 -14426 -55813 900 0 0 0 2 0 52 0 c4create name p10,visible off;activate visible p10 off
 1 1189703823 19895 -14490 -55694 2700 0 0 0 3 0 28 0 a08create visible off radius=30
-1 1187900972 19532 -14415 -54140 1950 0 0 0 6 0 81 0 0c1721create visible off radius=30; activate visible za2 on, texture name=za0 bz-hair21
-1 1187900972 19668 -14415 -54144 0 0 0 0 2 0 52 0 c4create name za7,visible off;activate visible za7 off
-1 1187900972 19522 -14465 -54145 0 0 0 0 2 0 75 0 c5create name za2,visible off;activate visible za2 off;miuchiz: buy: 17000021
 1 1187900972 19770 -14090 -54969 0 0 0 0 15 0 0 0 mz-b01-b-rail1a
-1 1187900972 19599 -14430 -54106 0 0 0 0 5 0 38 0 b1711create name za0, visible off radius=30
+1 1757369582 19668 -14365 -54144 0 0 0 0 2 0 52 0 c4create name za4,visible off;activate visible za4 off
+1 1757371670 19627 -14420 -54104 0 0 0 0 6 0 196 0 0c1751create visible off radius=30; activate visible za5 on, visible za01 off, visible za02 off, visible za03 off, visible za04 off, visible za05 on, visible za06 off, visible za07 off, visible za08 off
+1 1757371631 19657 -14315 -54134 0 0 0 0 6 0 196 0 0c1741create visible off radius=30; activate visible za4 on, visible za01 off, visible za02 off, visible za03 off, visible za04 on, visible za05 off, visible za06 off, visible za07 off, visible za08 off
+1 1757369861 19668 -14365 -54144 0 0 0 0 2 0 75 0 c5create name za4,visible off;activate visible za4 off;miuchiz: buy: 17000044
 1 1187900972 19548 -14420 -54145 0 0 0 0 4 0 28 0 a06acreate visible off radius=30
-1 1187900972 19668 -14465 -54144 0 0 0 0 2 0 75 0 c5create name za8,visible off;activate visible za8 off;miuchiz: buy: 17000081
+1 1757371576 19532 -14365 -54140 1950 0 0 0 6 0 196 0 0c1721create visible off radius=30; activate visible za2 on, visible za01 off, visible za02 on, visible za03 off, visible za04 off, visible za05 off, visible za06 off, visible za07 off, visible za08 off
 1 1187900972 19548 -14320 -54145 0 0 0 0 4 0 28 0 a06acreate visible off radius=30
+1 1757369605 19668 -14415 -54144 0 0 0 0 2 0 52 0 c4create name za8,visible off;activate visible za8 off
+1 1757371846 19599 -14430 -54106 0 0 0 0 5 0 52 0 b1754create name za05, visible off radius=30, visible off
 1 1187900972 19170 -14090 -54969 0 0 0 0 15 0 0 0 mz-b01-b-rail1a
-1 1187900972 19522 -14415 -54145 0 0 0 0 2 0 75 0 c5create name za1,visible off;activate visible za1 off;miuchiz: buy: 17000011
+1 1757371850 19599 -14430 -54106 0 0 0 0 5 0 52 0 b1724create name za02, visible off radius=30, visible off
+1 1757371658 19657 -14415 -54134 0 0 0 0 6 0 196 0 0c1771create visible off radius=30; activate visible za7 on, visible za01 off, visible za02 off, visible za03 off, visible za04 off, visible za05 off, visible za06 off, visible za07 on, visible za08 off
+1 1757369541 19573 -14470 -54109 0 0 0 0 2 0 52 0 c4create name za6,visible off;activate visible za6 off
+1 1757371596 19532 -14415 -54140 1950 0 0 0 6 0 196 0 0c1731create visible off radius=30; activate visible za3 on, visible za01 off, visible za02 off, visible za03 on, visible za04 off, visible za05 off, visible za06 off, visible za07 off, visible za08 off
 1 1187900972 19070 -14090 -54669 900 0 0 0 15 0 0 0 mz-b01-b-rail1a
 1 1187900972 19570 -14090 -54969 0 0 0 0 15 0 0 0 mz-b01-b-rail1a
+1 1757369846 19522 -14465 -54145 0 0 0 0 2 0 75 0 c5create name za3,visible off;activate visible za3 off;miuchiz: buy: 17000034
 1 1187900972 19648 -14320 -54145 0 0 0 0 4 0 28 0 a06bcreate visible off radius=30
-1 1187900972 19668 -14465 -54144 0 0 0 0 2 0 52 0 c4create name za8,visible off;activate visible za8 off
+1 1757371643 19657 -14365 -54134 0 0 0 0 6 0 196 0 0c1781create visible off radius=30; activate visible za8 on, visible za01 off, visible za02 off, visible za03 off, visible za04 off, visible za05 off, visible za06 off, visible za07 off, visible za08 on
 1 1187900972 19370 -14090 -54969 0 0 0 0 15 0 0 0 mz-b01-b-rail1a
-1 1187900972 19657 -14365 -54134 0 0 0 0 6 0 81 0 0c1771create visible off radius=30; activate visible za7 on, texture name=za0 bz-hair71
+1 1757371841 19599 -14430 -54106 0 0 0 0 5 0 39 0 b1714create name za01, visible off radius=30
+1 1757369850 19573 -14470 -54109 0 0 0 0 2 0 75 0 c5create name za6,visible off;activate visible za6 off;miuchiz: buy: 17000064
+1 1757371842 19599 -14430 -54106 0 0 0 0 5 0 52 0 b1764create name za06, visible off radius=30, visible off
 1 1187900972 19070 -14090 -54269 900 0 0 0 15 0 0 0 mz-b01-b-rail1a
+1 1757369858 19668 -14415 -54144 0 0 0 0 2 0 75 0 c5create name za8,visible off;activate visible za8 off;miuchiz: buy: 17000084
+1 1757368630 19522 -14365 -54145 0 0 0 0 2 0 52 0 c4create name za1,visible off;activate visible za1 off
+1 1757369841 19522 -14365 -54145 0 0 0 0 2 0 75 0 c5create name za1,visible off;activate visible za1 off;miuchiz: buy: 17000014
 1 1187900972 19470 -14490 -54569 2700 0 0 0 16 0 0 0 mz-b01-b-mshop2b
-1 1187900972 19532 -14365 -54140 1950 0 0 0 6 0 81 0 0c1711create visible off radius=30; activate visible za1 on, texture name=za0 bz-hair11
+1 1757371848 19599 -14430 -54106 0 0 0 0 5 0 52 0 b1744create name za04, visible off radius=30, visible off
 1 1187900972 19648 -14370 -54145 0 0 0 0 4 0 28 0 a06bcreate visible off radius=30
+1 1757369683 19643 -14470 -54109 0 0 0 0 2 0 52 0 c4create name za5,visible off;activate visible za5 off
 1 1187900971 19970 -14090 -54969 0 0 0 0 15 0 0 0 mz-b01-b-rail1a
 1 1187900972 19070 -14090 -54469 900 0 0 0 15 0 0 0 mz-b01-b-rail1a
+1 1757369752 19668 -14465 -54144 0 0 0 0 2 0 52 0 c4create name za7,visible off;activate visible za7 off
 1 1187900972 19548 -14370 -54145 0 0 0 0 4 0 28 0 a06acreate visible off radius=30
-1 1187900972 19668 -14415 -54144 0 0 0 0 2 0 75 0 c5create name za7,visible off;activate visible za7 off;miuchiz: buy: 17000071
+1 1757371852 19599 -14430 -54106 0 0 0 0 5 0 52 0 b1734create name za03, visible off radius=30, visible off
+1 1757369520 19522 -14465 -54145 0 0 0 0 2 0 52 0 c4create name za3,visible off;activate visible za3 off
+1 1757369853 19643 -14470 -54109 0 0 0 0 2 0 75 0 c5create name za5,visible off;activate visible za5 off;miuchiz: buy: 17000054
 1 1187900972 19599 -14480 -54014 1800 0 0 0 2 0 28 0 a5create visible off radius=30
-1 1187900972 19522 -14415 -54145 0 0 0 0 2 0 52 0 c4create name za1,visible off;activate visible za1 off
-1 1187900972 19657 -14415 -54134 0 0 0 0 6 0 81 0 0c1781create visible off radius=30; activate visible za8 on, texture name=za0 bz-hair81
+1 1757369856 19668 -14465 -54144 0 0 0 0 2 0 75 0 c5create name za7,visible off;activate visible za7 off;miuchiz: buy: 17000074
 1 1187900972 19070 -14090 -54869 900 0 0 0 15 0 0 0 mz-b01-b-rail1a
-1 1187900972 19522 -14465 -54145 0 0 0 0 2 0 52 0 c4create name za2,visible off;activate visible za2 off
+1 1757369489 19522 -14415 -54145 0 0 0 0 2 0 52 0 c4create name za2,visible off;activate visible za2 off
+1 1757371843 19599 -14430 -54106 0 0 0 0 5 0 52 0 b1774create name za07, visible off radius=30, visible off
+1 1757371845 19599 -14430 -54106 0 0 0 0 5 0 52 0 b1784create name za08, visible off radius=30, visible off
+1 1757371544 19532 -14315 -54140 1950 0 0 0 6 0 196 0 0c1711create visible off radius=30; activate visible za1 on, visible za01 on, visible za02 off, visible za03 off, visible za04 off, visible za05 off, visible za06 off, visible za07 off, visible za08 off
 1 1187900972 19599 -14490 -54140 0 0 0 0 3 0 28 0 a06create visible off radius=30
 1 1187900972 19319 -14435 -54004 1800 0 0 0 8 0 28 0 ccashregcreate visible off radius=30
+1 1757371619 19572 -14420 -54104 -1800 0 0 0 6 0 196 0 0c1761create visible off radius=30; activate visible za6 on, visible za01 off, visible za02 off, visible za03 off, visible za04 off, visible za05 off, visible za06 on, visible za07 off, visible za08 off
+1 1757369844 19522 -14415 -54145 0 0 0 0 2 0 75 0 c5create name za2,visible off;activate visible za2 off;miuchiz: buy: 17000024
 1 1187900972 19648 -14420 -54145 0 0 0 0 4 0 28 0 a06bcreate visible off radius=30
 1 1187900972 19114 -14480 -53639 900 0 0 0 7 0 28 0 stord3bcreate visible off radius=30
-1 1187900972 19517 -14415 -53395 1800 0 0 0 2 0 52 0 c4create name zc7,visible off;activate visible zc7 off
 1 1187900972 19846 -14320 -53587 2700 0 0 0 4 0 28 0 a06bcreate visible off radius=30
-1 1187900972 19845 -14465 -53713 2700 0 0 0 2 0 75 0 c5create name zb2,visible off;activate visible zb2 off;miuchiz: buy: 17000022
+1 1757371034 19668 -14465 -53400 1800 0 0 0 2 0 52 0 c4create name zc3,visible off;activate visible zc3 off
+1 1757371234 19522 -14465 -53395 1800 0 0 0 2 0 75 0 c5create name zc7,visible off;activate visible zc7 off;miuchiz: buy: 17000073
+1 1757370533 19846 -14365 -53714 -900 0 0 0 2 0 75 0 c5create name zb1,visible off;activate visible zb1 off;miuchiz: buy: 17000015
 1 1187900972 19846 -14370 -53587 2700 0 0 0 4 0 28 0 a06bcreate visible off radius=30
 1 1187900972 19114 -14455 -53539 900 0 0 0 7 0 28 0 stord3bcreate visible off radius=30
-1 1187900972 19653 -14415 -53399 150 0 0 0 6 0 81 0 0c1721create visible off radius=30; activate visible zc2 on, texture name=zc0 bz-hair23
+1 1757372095 19840 -14365 -53704 1050 0 0 0 6 0 196 0 0c1721create visible off radius=30; activate visible zb2 on, visible zb01 off, visible zb02 on, visible zb03 off, visible zb04 off, visible zb05 off, visible zb06 off, visible zb07 off, visible zb08 off
 1 1187900972 19319 -14480 -53439 2700 0 0 0 7 0 28 0 stord3dcreate visible off radius=30
-1 1187900973 19663 -14415 -53395 1800 0 0 0 2 0 75 0 c5create name zc1,visible off;activate visible zc1 off;miuchiz: buy: 17000013
+1 1757372280 19807 -14430 -53636 2700 0 0 0 5 0 52 0 b1775create name zb07, visible off radius=30, visible off
 1 1187900972 19374 -14390 -53539 2700 0 0 0 7 0 18 0 stord3bcreate visible off
 1 1187900972 19229 -14455 -53414 1800 0 0 0 7 0 28 0 stord3bcreate visible off radius=30
+1 1757372135 19834 -14315 -53579 -900 0 0 0 6 0 195 0 0c1741create visible off radius=30;activate visible zb4 on, visible zb01 off, visible zb02 off, visible zb03 off, visible zb04 on, visible zb05 off, visible zb06 off, visible zb07 off, visible zb08 off
+1 1757371266 19617 -14470 -53427 1800 0 0 0 2 0 75 0 c5create name zc6,visible off;activate visible zc6 off;miuchiz: buy: 17000063
+1 1757370315 19845 -14415 -53714 -900 0 0 0 2 0 52 0 c4create name zb2,visible off;activate visible zb2 off
 1 1187900972 19541 -14320 -53392 1800 0 0 0 4 0 28 0 a06bcreate visible off radius=30
+1 1757372109 19840 -14415 -53704 1050 0 0 0 6 0 196 0 0c1731create visible off radius=30; activate visible zb3 on, visible zb01 off, visible zb02 off, visible zb03 on, visible zb04 off, visible zb05 off, visible zb06 off, visible zb07 off, visible zb08 off
 1 1187900972 19368 -14425 -53553 2850 0 0 0 14 0 28 0 mz-b01-i-mgz03create visible off radius=30
-1 1187900972 19663 -14465 -53395 1800 0 0 0 2 0 52 0 c4create name zc2,visible off;activate visible zc2 off
-1 1187900972 19835 -14365 -53578 2700 0 0 0 6 0 81 0 0c1771create visible off radius=30; activate visible zb7 on, texture name=zb0 bz-hair72
+1 1757370375 19844 -14365 -53568 -900 0 0 0 2 0 52 0 c4create name zb4,visible off;activate visible zb4 off
+1 1757372258 19807 -14430 -53636 2700 0 0 0 5 0 52 0 b1745create name zb04, visible off radius=30, visible off
 1 1187900972 19374 -14390 -53639 2700 0 0 0 7 0 18 0 stord3bcreate visible off
 1 1187900972 19244 -14425 -53414 1800 0 0 0 14 0 28 0 mz-b01-i-mgz01create visible off radius=30
-1 1187900973 19845 -14415 -53567 2700 0 0 0 2 0 52 0 c4create name zb7,visible off;activate visible zb7 off
-1 1187900973 19528 -14365 -53405 1800 0 0 0 6 0 81 0 0c1771create visible off radius=30; activate visible zc7 on, texture name=zc0 bz-hair73
-1 1187900972 19653 -14365 -53399 150 0 0 0 6 0 81 0 0c1711create visible off radius=30; activate visible zc1 on, texture name=zc0 bz-hair13
+1 1757371210 19668 -14365 -53399 1800 0 0 0 2 0 75 0 c5create name zc1,visible off;activate visible zc1 off;miuchiz: buy: 17000013
+1 1757370546 19844 -14365 -53568 -900 0 0 0 2 0 75 0 c5create name zb4,visible off;activate visible zb4 off;miuchiz: buy: 17000045
 1 1187900972 19374 -14480 -53739 2700 0 0 0 7 0 28 0 stord3bcreate visible off radius=30
-1 1187900972 19845 -14465 -53567 2700 0 0 0 2 0 75 0 c5create name zb8,visible off;activate visible zb8 off;miuchiz: buy: 17000082
-1 1187900972 19845 -14465 -53713 2700 0 0 0 2 0 52 0 c4create name zb2,visible off;activate visible zb2 off
+1 1757370926 19658 -14315 -53401 150 0 0 0 6 0 81 0 0c1711create visible off radius=30; activate visible zc1 on, texture name=zc0 bz-hair11
 1 1187900972 19224 -14425 -53414 1500 0 0 0 14 0 28 0 mz-b01-i-mgz02create visible off radius=30
+1 1757370276 19846 -14365 -53714 -900 0 0 0 2 0 52 0 c4create name zb1,visible off;activate visible zb1 off
 1 1187900972 19641 -14420 -53392 1800 0 0 0 4 0 28 0 a06acreate visible off radius=30
 1 1187900972 19374 -14480 -53639 2700 0 0 0 7 0 28 0 stord2ccreate visible off radius=30
 1 1187900972 19124 -14390 -53539 2700 0 0 0 7 0 18 0 stord3bcreate visible off
-1 1187900973 19807 -14430 -53636 2700 0 0 0 5 0 38 0 b1712create name zb0, visible off radius=30
-1 1187900972 19517 -14465 -53395 1800 0 0 0 2 0 75 0 c5create name zc8,visible off;activate visible zc8 off;miuchiz: buy: 17000083
+1 1757371089 19522 -14465 -53395 1800 0 0 0 2 0 52 0 c4create name zc7,visible off;activate visible zc7 off
+1 1757372055 19839 -14315 -53704 1050 0 0 0 6 0 196 0 0c1711create visible off radius=30; activate visible zb1 on, visible zb01 on, visible zb02 off, visible zb03 off, visible zb04 off, visible zb05 off, visible zb06 off, visible zb07 off, visible zb08 off
+1 1757370559 19844 -14465 -53568 -900 0 0 0 2 0 75 0 c5create name zb7,visible off;activate visible zb7 off;miuchiz: buy: 17000075
 1 1187900972 19120 -14425 -53510 900 0 0 0 14 0 28 0 mz-b01-i-mgz03create visible off radius=30
+1 1757370429 19809 -14470 -53593 -900 0 0 0 2 0 52 0 c4create name zb5,visible off;activate visible zb5 off
+1 1757371179 19618 -14420 -53432 0 0 0 0 6 0 81 0 0c1761create visible off radius=30; activate visible zc6 on, texture name=zc0 bz-hair61
 1 1187900972 19324 -14480 -53999 2700 0 0 0 17 0 28 0 mz-b01-f-count01bcreate visible off radius=30
+1 1757370356 19809 -14470 -53663 -900 0 0 0 2 0 52 0 c4create name zb6,visible off;activate visible zb6 off
+1 1757370539 19845 -14465 -53714 -900 0 0 0 2 0 75 0 c5create name zb3,visible off;activate visible zb3 off;miuchiz: buy: 17000035
 1 1187900972 19114 -14480 -53539 900 0 0 0 7 0 28 0 stord3bcreate visible off radius=30
 1 1187900972 19070 -14490 -53829 900 0 0 0 18 0 51 0 mz-b01-b-mshop-dr2activate rotate 0 -15 0 time=1 wait=8 global smooth
+1 1757372157 19834 -14415 -53579 -900 0 0 0 6 0 196 0 0c1771create visible off radius=30; activate visible zb7 on, visible zb01 off, visible zb02 off, visible zb03 off, visible zb04 off, visible zb05 off, visible zb06 off, visible zb07 on, visible zb08 off
 1 1187900972 19641 -14370 -53392 1800 0 0 0 4 0 28 0 a06acreate visible off radius=30
+1 1757370411 19844 -14465 -53568 -900 0 0 0 2 0 52 0 c4create name zb7,visible off;activate visible zb7 off
 1 1187900972 19590 -14490 -53396 1800 0 0 0 3 0 28 0 a06create visible off radius=30
+1 1757371215 19668 -14415 -53400 1800 0 0 0 2 0 75 0 c5create name zc2,visible off;activate visible zc2 off;miuchiz: buy: 17000023
 1 1187900972 19139 -14480 -53439 1800 0 0 0 7 0 28 0 stord3dcreate visible off radius=30
 1 1187900972 19590 -14480 -53511 0 0 0 0 2 0 28 0 a5create visible off radius=30
 1 1187900972 19374 -14425 -53533 2550 0 0 0 14 0 28 0 mz-b01-i-mgz01create visible off radius=30
 1 1187900972 19846 -14320 -53687 2700 0 0 0 4 0 28 0 a06acreate visible off radius=30
+1 1757371106 19563 -14420 -53432 1800 0 0 0 6 0 81 0 0c1751create visible off radius=30; activate visible zc5 on, texture name=zc0 bz-hair51
 1 1187900972 19124 -14390 -53639 2700 0 0 0 7 0 18 0 stord3bcreate visible off
+1 1757372239 19807 -14430 -53636 2700 0 0 0 5 0 52 0 b1725create name zb02, visible off radius=30, visible off
 1 1187900972 19070 -14490 -53709 2700 0 0 0 18 0 50 0 mz-b01-b-mshop-dr2activate rotate 0 15 0 time=1 wait=8 global smooth
+1 1757371237 19522 -14415 -53395 1800 0 0 0 2 0 75 0 c5create name zc8,visible off;activate visible zc8 off;miuchiz: buy: 17000083
 1 1187900972 19846 -14370 -53687 2700 0 0 0 4 0 28 0 a06acreate visible off radius=30
 1 1187900972 19070 -14090 -53069 900 0 0 0 15 0 0 0 mz-b01-b-rail1a
 1 1187900973 19470 -14490 -53769 2700 0 0 0 16 0 0 0 mz-b01-b-mshop2b
+1 1757372291 19807 -14430 -53636 2700 0 0 0 5 0 52 0 b1755create name zb05, visible off radius=30, visible off
 1 1187900972 19846 -14420 -53587 2700 0 0 0 4 0 28 0 a06bcreate visible off radius=30
 1 1187900972 19641 -14320 -53392 1800 0 0 0 4 0 28 0 a06acreate visible off radius=30
 1 1187900973 19541 -14420 -53392 1800 0 0 0 4 0 28 0 a06bcreate visible off radius=30
 1 1187900972 19294 -14390 -53439 1800 0 0 0 7 0 18 0 stord3bcreate visible off
+1 1757371029 19658 -14415 -53402 150 0 0 0 6 0 81 0 0c1731create visible off radius=30; activate visible zc3 on, texture name=zc0 bz-hair31
+1 1757372298 19807 -14430 -53636 2700 0 0 0 5 0 52 0 b1765create name zb06, visible off radius=30, visible off
 1 1187900972 19124 -14390 -53439 2700 0 0 0 7 0 18 0 stord3bcreate visible off
-1 1187900972 19841 -14415 -53703 1050 0 0 0 6 0 81 0 0c1721create visible off radius=30; activate visible zb2 on, texture name=zb0 bz-hair22
 1 1187900972 19590 -14430 -53426 1800 0 0 0 5 0 38 0 b1713create name zc0, visible off radius=30
+1 1757372123 19804 -14420 -53664 900 0 0 0 6 0 196 0 0c1761create visible off radius=30; activate visible zb6 on, visible zb01 off, visible zb02 off, visible zb03 off, visible zb04 off, visible zb05 off, visible zb06 on, visible zb07 off, visible zb08 off
+1 1757370549 19844 -14415 -53568 -900 0 0 0 2 0 75 0 c5create name zb8,visible off;activate visible zb8 off;miuchiz: buy: 17000085
 1 1187900972 19374 -14390 -53739 2700 0 0 0 7 0 18 0 stord3bcreate visible off
-1 1187900972 19517 -14465 -53395 1800 0 0 0 2 0 52 0 c4create name zc8,visible off;activate visible zc8 off
+1 1757371239 19522 -14365 -53395 1800 0 0 0 2 0 75 0 c5create name zc4,visible off;activate visible zc4 off;miuchiz: buy: 17000043
+1 1757371113 19547 -14470 -53427 1800 0 0 0 2 0 52 0 c4create name zc5,visible off;activate visible zc5 off
+1 1757371218 19668 -14465 -53400 1800 0 0 0 2 0 75 0 c5create name zc3,visible off;activate visible zc3 off;miuchiz: buy: 17000033
 1 1187900972 19541 -14370 -53392 1800 0 0 0 4 0 28 0 a06bcreate visible off radius=30
-1 1187900972 19663 -14465 -53395 1800 0 0 0 2 0 75 0 c5create name zc2,visible off;activate visible zc2 off;miuchiz: buy: 17000023
+1 1757370543 19809 -14470 -53663 -900 0 0 0 2 0 75 0 c5create name zb6,visible off;activate visible zb6 off;miuchiz: buy: 17000065
+1 1757371045 19533 -14315 -53402 1800 0 0 0 6 0 81 0 0c1741create visible off radius=30; activate visible zc4 on, texture name=zc0 bz-hair41
 1 1187900972 19344 -14480 -53639 900 0 0 0 7 0 28 0 stord3bcreate visible off radius=30
+1 1757372270 19807 -14430 -53636 2700 0 0 0 5 0 52 0 b1785create name zb08, visible off radius=30, visible off
 1 1187900972 19715 -14480 -53636 900 0 0 0 2 0 28 0 a5create visible off radius=30
 1 1187900972 19374 -14480 -53539 2700 0 0 0 7 0 28 0 stord3bcreate visible off radius=30
-1 1187900972 19528 -14415 -53405 1800 0 0 0 6 0 81 0 0c1781create visible off radius=30; activate visible zc8 on, texture name=zc0 bz-hair83
+1 1757370965 19658 -14365 -53402 150 0 0 0 6 0 81 0 0c1721create visible off radius=30; activate visible zc2 on, texture name=zc0 bz-hair21
 1 1187900972 19194 -14390 -53439 1800 0 0 0 7 0 18 0 stord3bcreate visible off
 1 1187900972 19379 -14480 -53999 2700 0 0 0 17 0 28 0 mz-b01-f-count01acreate visible off radius=30
-1 1187900972 19517 -14415 -53395 1800 0 0 0 2 0 75 0 c5create name zc7,visible off;activate visible zc7 off;miuchiz: buy: 17000073
-1 1187900972 19845 -14415 -53567 2700 0 0 0 2 0 75 0 c5create name zb7,visible off;activate visible zb7 off;miuchiz: buy: 17000072
+1 1757371224 19547 -14470 -53427 1800 0 0 0 2 0 75 0 c5create name zc5,visible off;activate visible zc5 off;miuchiz: buy: 17000053
+1 1757371070 19522 -14415 -53395 1800 0 0 0 2 0 52 0 c4create name zc8,visible off;activate visible zc8 off
+1 1757372224 19807 -14430 -53636 2700 0 0 0 5 0 39 0 b1715create name zb01, visible off radius=30
 1 1187900972 19846 -14420 -53687 2700 0 0 0 4 0 28 0 a06acreate visible off radius=30
+1 1757372171 19804 -14420 -53609 -900 0 0 0 6 0 196 0 0c1751create visible off radius=30; activate visible zb5 on, visible zb01 off, visible zb02 off, visible zb03 off, visible zb04 off, visible zb05 on, visible zb06 off, visible zb07 off, visible zb08 off
+1 1757370971 19668 -14415 -53400 1800 0 0 0 2 0 52 0 c4create name zc2,visible off;activate visible zc2 off
 1 1187900972 19070 -14090 -53269 900 0 0 0 15 0 0 0 mz-b01-b-rail1a
 1 1187900972 19374 -14480 -53439 2700 0 0 0 7 0 28 0 stord2ccreate visible off radius=30
-1 1187900972 19663 -14415 -53395 1800 0 0 0 2 0 52 0 c4create name zc1,visible off;activate visible zc1 off
-1 1187900972 19835 -14415 -53578 2700 0 0 0 6 0 81 0 0c1781create visible off radius=30; activate visible zb8 on, texture name=zb0 bz-hair82
 1 1187900972 19470 -14490 -53769 2700 0 0 0 19 0 0 0 mz-b01-b-mshoptop1b
+1 1757370952 19668 -14365 -53399 1800 0 0 0 2 0 52 0 c4create name zc1,visible off;activate visible zc1 off
 1 1187900972 19840 -14490 -53636 2700 0 0 0 3 0 28 0 a06create visible off radius=30
+1 1757371157 19617 -14470 -53427 1800 0 0 0 2 0 52 0 c4create name zc6,visible off;activate visible zc6 off
 1 1187900972 19470 -14490 -53769 0 0 0 2 0 0 0 51 000000410000404100000041000000000000000000803f1200ffffff000100c409000000000000000000000000000000000000
+1 1757370536 19845 -14415 -53714 -900 0 0 0 2 0 75 0 c5create name zb2,visible off;activate visible zb2 off;miuchiz: buy: 17000025
 1 1187900972 19374 -14455 -53739 2700 0 0 0 7 0 28 0 stord3bcreate visible off radius=30
-1 1187900972 19845 -14415 -53713 2700 0 0 0 2 0 52 0 c4create name zb1,visible off;activate visible zb1 off
 1 1187900972 19374 -14390 -53439 2700 0 0 0 7 0 18 0 stord3bcreate visible off
 1 1187900972 19374 -14455 -53539 2700 0 0 0 7 0 28 0 stord3bcreate visible off radius=30
-1 1187900972 19845 -14465 -53567 2700 0 0 0 2 0 52 0 c4create name zb8,visible off;activate visible zb8 off
+1 1757371051 19522 -14365 -53395 1800 0 0 0 2 0 52 0 c4create name zc4,visible off;activate visible zc4 off
+1 1757370561 19809 -14470 -53593 -900 0 0 0 2 0 75 0 c5create name zb5,visible off;activate visible zb5 off;miuchiz: buy: 17000055
 1 1187900972 19229 -14480 -53414 1800 0 0 0 7 0 28 0 stord3bcreate visible off radius=30
-1 1187900972 19845 -14415 -53713 2700 0 0 0 2 0 75 0 c5create name zb1,visible off;activate visible zb1 off;miuchiz: buy: 17000012
-1 1187900972 19841 -14365 -53703 1050 0 0 0 6 0 81 0 0c1711create visible off radius=30; activate visible zb1 on, texture name=zb0 bz-hair12
+1 1757372252 19807 -14430 -53636 2700 0 0 0 5 0 52 0 b1735create name zb03, visible off radius=30, visible off
+1 1757370392 19844 -14415 -53568 -900 0 0 0 2 0 52 0 c4create name zb8,visible off;activate visible zb8 off
+1 1757370334 19845 -14465 -53714 -900 0 0 0 2 0 52 0 c4create name zb3,visible off;activate visible zb3 off
+1 1757372146 19834 -14365 -53579 -900 0 0 0 6 0 196 0 0c1781create visible off radius=30; activate visible zb8 on, visible zb01 off, visible zb02 off, visible zb03 off, visible zb04 off, visible zb05 off, visible zb06 off, visible zb07 off, visible zb08 on
+1 1757371062 19533 -14365 -53402 1800 0 0 0 6 0 81 0 0c1781create visible off radius=30; activate visible zc8 on, texture name=zc0 bz-hair81
+1 1757371081 19533 -14415 -53402 1800 0 0 0 6 0 81 0 0c1771create visible off radius=30; activate visible zc7 on, texture name=zc0 bz-hair71
 1 1187900973 19840 -14490 -53941 2700 0 0 0 3 0 0 0 a08
 1 1155310921 19470 -14490 -52169 2700 0 0 0 16 0 0 0 mz-b01-b-mshop1a
 1 1155332148 19070 -14090 -52869 900 0 0 0 15 0 0 0 mz-b01-b-rail1a
@@ -1365,7 +1415,6 @@ propdump version 4
 1 1155577898 20120 -14490 -57969 900 0 0 0 14 0 0 0 mz-b01-p-palm1
 2 1156344433 20870 -14500 -57369 1800 0 0 0 16 0 19 0 mz-b01-b-swalk16create color 2a2a2a
 1 1155426342 20870 -14490 -57969 900 0 0 0 14 0 0 0 mz-b01-p-palm1
-1 1189703823 20690 -14365 -56008 900 0 0 0 2 0 50 0 c4create name z3,visible off;activate visible z3 off
 1 1189703823 20073 -14390 -56051 1650 0 0 0 6 0 28 0 0b0652create visible off radius=20
 1 1189703823 20190 -14480 -56114 1800 0 0 0 18 0 50 0 MZ-B01-B-mshop-dr1activate rotate 0 15 0 time=1 wait=2 global smooth
 1 1189703823 20040 -14525 -56074 1800 0 0 0 12 0 28 0 mz-b01-f-sd3create visible off radius=20
@@ -1375,7 +1424,6 @@ propdump version 4
 1 1189703823 20440 -14500 -56024 1800 0 0 0 12 0 28 0 mz-b01-f-sd3create visible off radius=20
 1 1189703823 20300 -14500 -56250 1800 0 0 0 14 0 60 0 mz-b01-b-msgn1create picture objects.miuchiz.com/signs/b_sign_tottopic.jpg
 1 1189703823 20350 -14480 -56114 0 0 0 0 18 0 51 0 MZ-B01-B-mshop-dr1activate rotate 0 -15 0 time=1 wait=2 global smooth
-1 1189703823 20690 -14365 -56008 900 0 0 0 2 0 73 0 c5create name z3,visible off;activate visible z3 off;miuchiz: buy: 17000031
 1 1189703823 20465 -14525 -56059 1800 0 0 0 12 0 28 0 mz-b01-f-sd3create visible off radius=20
 1 1189703823 20441 -14410 -56034 1650 0 0 0 6 0 28 0 0b0642create visible off radius=20
 1 1189703823 20690 -14415 -56008 900 0 0 0 2 0 73 0 c5create name z4,visible off;activate visible z4 off;miuchiz: buy: 17000041
@@ -1385,15 +1433,15 @@ propdump version 4
 1 1189703823 20040 -14435 -56084 1800 0 0 0 6 0 28 0 0b0632create visible off radius=20
 1 1189703823 20370 -14490 -56669 900 0 0 0 19 0 0 0 mz-b01-b-streetlamp
 1 1189703824 20258 -14345 -55659 1800 900 0 0 3 0 17 0 wl6create visible no
-1 1189703823 20690 -14415 -55518 900 0 0 0 2 0 50 0 c4create name y1,visible off;activate visible y1 off
 1 1189703824 20695 -14490 -55619 900 0 0 0 3 0 28 0 a06create visible off radius=40
 1 1189703823 20845 -14480 -55914 2700 0 0 0 2 0 28 0 a5create visible off radius=30
-1 1189703823 20690 -14465 -55713 900 0 0 0 2 0 73 0 c5create name y8,visible off;activate visible y8 off;miuchiz: buy: 17000081
 1 1189703824 20100 -14426 -55595 1800 0 0 0 6 0 52 0 0b0632create visible off radius=20; activate visible p8 on
+1 1757368175 20695 -14365 -55553 2850 0 0 0 6 0 88 0 0c1751create visible off radius=20; activate visible y5 on, texture tag=201 name=y10 bz-hair52
 1 1189703824 20100 -14426 -55581 1800 0 0 0 2 0 73 0 c5create name p8,visible off;activate visible p8 off;miuchiz: buy: 06000032
+1 1757368192 20695 -14415 -55553 2850 0 0 0 6 0 88 0 0c1761create visible off radius=20; activate visible y6 on, texture tag=201 name=y10 bz-hair62
+1 1757368224 20690 -14415 -55518 900 0 0 0 2 0 73 0 c5create name y5,visible off;activate visible y5 off;miuchiz: buy: 17000051
 1 1189703823 20165 -14481 -55589 1800 0 0 0 3 0 28 0 a04create visible off radius=40
-1 1189703824 20700 -14365 -55678 900 0 0 0 6 0 88 0 0c1741create visible off radius=20; activate visible y4 on, texture tag=201 name=y10 bz-hair42
-1 1189703824 20690 -14365 -55713 900 0 0 0 2 0 50 0 c4create name y3,visible off;activate visible y3 off
+1 1757368275 20690 -14465 -55713 900 0 0 0 2 0 73 0 c5create name y7,visible off;activate visible y7 off;miuchiz: buy: 17000071
 1 1189703824 20690 -14415 -55813 900 0 0 0 2 0 73 0 c5create name z1,visible off;activate visible z1 off;miuchiz: buy: 17000011
 1 1189703824 20690 -14320 -55668 900 0 0 0 4 0 28 0 a06bcreate visible off radius=20
 1 1189703823 20517 -14426 -55819 2700 0 0 0 2 0 50 0 c7create name p1,visible off;activate visible p1 off
@@ -1402,7 +1450,6 @@ propdump version 4
 1 1189703824 20690 -14370 -55569 900 0 0 0 4 0 28 0 a06acreate visible off radius=20
 1 1189703824 20258 -14345 -55559 1800 900 0 0 3 0 17 0 wl6create visible no
 1 1189703824 20507 -14421 -55699 2700 0 0 0 6 0 52 0 0b0652create visible off radius=20; activate visible p3 on
-1 1189703823 20700 -14415 -55678 900 0 0 0 6 0 88 0 0c1781create visible off radius=20; activate visible y8 on, texture tag=201 name=y10 bz-hair82
 1 1189703824 20695 -14365 -55848 2850 0 0 0 6 0 88 0 0c1711create visible off radius=20; activate visible z1 on, texture tag=201 name=z10 bz-hair12
 1 1189703824 20455 -14490 -55399 0 0 0 0 3 0 28 0 a08create visible off radius=40
 1 1189703824 20517 -14426 -55699 2700 0 0 0 2 0 50 0 c4create name p3,visible off;activate visible p3 off
@@ -1410,15 +1457,18 @@ propdump version 4
 1 1189703824 20080 -14490 -55399 0 0 0 0 3 0 28 0 a08create visible off radius=40
 1 1189703824 20517 -14426 -55699 2700 0 0 0 2 0 73 0 c5create name p3,visible off;activate visible p3 off;miuchiz: buy: 06000052
 1 1189703823 20690 -14370 -55668 900 0 0 0 4 0 28 0 a06bcreate visible off radius=20
-1 1189703824 20690 -14465 -55713 900 0 0 0 2 0 50 0 c4create name y8,visible off;activate visible y8 off
+1 1757368182 20690 -14415 -55518 900 0 0 0 2 0 50 0 c4create name y5,visible off;activate visible y5 off
 1 1189703824 20690 -14420 -55864 900 0 0 0 4 0 28 0 a06acreate visible off radius=20
 1 1189703823 20845 -14480 -55619 2700 0 0 0 2 0 28 0 a5create visible off radius=30
-1 1189703823 20690 -14415 -55713 900 0 0 0 2 0 50 0 c4create name y4,visible off;activate visible y4 off
 1 1189703823 20420 -14426 -55594 1800 0 0 0 6 0 52 0 0b0691create visible off radius=20; activate visible p4 on
 1 1189703823 20645 -14490 -55694 900 0 0 0 3 0 28 0 a08create visible off radius=30
+1 1757368200 20690 -14465 -55518 900 0 0 0 2 0 50 0 c4create name y6,visible off;activate visible y6 off
+1 1757368210 20690 -14465 -55518 900 0 0 0 2 0 73 0 c5create name y6,visible off;activate visible y6 off;miuchiz: buy: 17000061
 1 1189703823 20305 -14426 -55581 1800 0 0 0 2 0 50 0 c7create name p6,visible off;activate visible p6 off
 1 1189703824 20365 -14481 -55589 1800 0 0 0 3 0 28 0 a04create visible off radius=40
 1 1189703824 20012 -14426 -55713 900 0 0 0 6 0 52 0 0b0641create visible off radius=20; activate visible p9 on
+1 1757368240 20700 -14365 -55678 900 0 0 0 6 0 88 0 0c1731create visible off radius=20; activate visible y3 on, texture tag=201 name=y10 bz-hair32
+1 1757368245 20690 -14415 -55713 900 0 0 0 2 0 50 0 c4create name y3,visible off;activate visible y3 off
 1 1189703824 20017 -14426 -55724 900 0 0 0 2 0 50 0 c4create name p9,visible off;activate visible p9 off
 1 1189703824 20507 -14480 -55754 2700 0 0 0 3 0 28 0 a04create visible off radius=40
 1 1189703823 20690 -14370 -55963 900 0 0 0 4 0 28 0 a06bcreate visible off radius=20
@@ -1427,11 +1477,11 @@ propdump version 4
 1 1189703823 20366 -14426 -55574 1800 0 0 0 2 0 50 0 c7create name p5,visible off;activate visible p5 off
 1 1189703824 20220 -14426 -55581 1800 0 0 0 2 0 50 0 c7create name p7,visible off;activate visible p7 off
 1 1189703824 20690 -14320 -55963 900 0 0 0 4 0 28 0 a06bcreate visible off radius=20
+1 1757368254 20690 -14415 -55713 900 0 0 0 2 0 73 0 c5create name y3,visible off;activate visible y3 off;miuchiz: buy: 17000031
 1 1189703824 20700 -14415 -55973 900 0 0 0 6 0 88 0 0c1781create visible off radius=20; activate visible z8 on, texture tag=201 name=z10 bz-hair82
 1 1189703823 20690 -14420 -55963 900 0 0 0 4 0 28 0 a06bcreate visible off radius=20
 1 1189703823 20690 -14370 -55864 900 0 0 0 4 0 28 0 a06acreate visible off radius=20
 1 1189703823 20690 -14415 -55813 900 0 0 0 2 0 50 0 c4create name z1,visible off;activate visible z1 off
-1 1189703823 20695 -14365 -55553 2850 0 0 0 6 0 88 0 0c1711create visible off radius=20; activate visible y1 on, texture tag=201 name=y10 bz-hair12
 1 1189703823 20480 -14500 -55624 1800 0 0 0 12 0 28 0 mz-b01-f-sd3create visible off radius=30
 1 1189703823 20497 -14426 -55823 2700 0 0 0 6 0 51 0 0b0682create visible off radius=20;activate visible p1 on
 1 1189703823 20225 -14426 -55595 1800 0 0 0 6 0 51 0 0b0681create visible off radius=20;activate visible p7 on
@@ -1440,34 +1490,28 @@ propdump version 4
 1 1189703823 20310 -14426 -55595 1800 0 0 0 6 0 52 0 0b0671create visible off radius=20; activate visible p6 on
 1 1189703824 20517 -14426 -55759 2700 0 0 0 2 0 50 0 c4create name p2,visible off;activate visible p2 off
 1 1189703823 20728 -14430 -55915 900 0 0 0 5 0 38 0 b1711create name z10, visible off radius=20
+1 1757368263 20700 -14415 -55678 900 0 0 0 6 0 88 0 0c1771create visible off radius=20; activate visible y7 on, texture tag=201 name=y10 bz-hair72
 1 1216409987 20270 -14490 -55819 1800 0 0 0 16 0 0 0 mz-b01-b-mshop1c
 1 1189703823 20695 -14415 -55848 2850 0 0 0 6 0 88 0 0c1721create visible off radius=20; activate visible z2 on, texture tag=201 name=z10 bz-hair22
 1 1189703824 20690 -14465 -55813 900 0 0 0 2 0 73 0 c5create name z2,visible off;activate visible z2 off;miuchiz: buy: 17000021
 1 1189703823 20270 -14490 -55069 2700 0 0 0 19 0 0 0 MZ-B01-B-shopstair2
-1 1189703823 20695 -14415 -55553 2850 0 0 0 6 0 88 0 0c1721create visible off radius=20; activate visible y2 on, texture tag=201 name=y10 bz-hair22
-1 1189703824 20690 -14465 -55518 900 0 0 0 2 0 73 0 c5create name y2,visible off;activate visible y2 off;miuchiz: buy: 17000021
 1 1189703823 20690 -14320 -55569 900 0 0 0 4 0 28 0 a06acreate visible off radius=20
-1 1189703824 20690 -14365 -55713 900 0 0 0 2 0 73 0 c5create name y3,visible off;activate visible y3 off;miuchiz: buy: 17000031
 1 1189703824 20361 -14426 -55594 1800 0 0 0 6 0 52 0 0b0692create visible off radius=20; activate visible p5 on
 1 1189703824 20920 -14490 -55394 0 0 0 0 3 0 28 0 a08create visible off radius=40
-1 1189703824 20690 -14415 -55518 900 0 0 0 2 0 73 0 c5create name y1,visible off;activate visible y1 off;miuchiz: buy: 17000011
 1 1189703823 20017 -14425 -55725 900 0 0 0 2 0 73 0 c5create name p9,visible off;activate visible p9 off;miuchiz: buy: 06000041
 1 1189703823 20517 -14426 -55759 2700 0 0 0 2 0 73 0 c5create name p2,visible off;activate visible p2 off;miuchiz: buy: 06000051
 1 1189703823 20260 -14180 -55750 0 1800 0 0 17 0 28 0 mz-a01-i-gemride2create visible off radius=30
 1 1189703823 20507 -14426 -55764 2700 0 0 0 6 0 51 0 0b0651create visible off radius=20;activate visible p2 on
 1 1189703823 20008 -14480 -55759 900 0 0 0 3 0 28 0 a04create visible off radius=40
+1 1757368269 20690 -14465 -55713 900 0 0 0 2 0 50 0 c4create name y7,visible off;activate visible y7 off
 1 1189703824 20270 -14490 -55269 2700 0 0 0 19 0 0 0 MZ-B01-B-shopstair2
 1 1189703824 20270 -14490 -55769 1800 0 0 0 16 0 0 0 mz-b01-b-mshop1c
 1 1189703823 20690 -14420 -55569 900 0 0 0 4 0 28 0 a06acreate visible off radius=20
 1 1189703824 20700 -14365 -55973 900 0 0 0 6 0 88 0 0c1741create visible off radius=20; activate visible z4 on, texture tag=201 name=z10 bz-hair42
 1 1189703824 20690 -14465 -55813 900 0 0 0 2 0 50 0 c4create name z2,visible off;activate visible z2 off
 1 1189703824 20426 -14426 -55574 1800 0 0 0 2 0 50 0 c7create name p4,visible off;activate visible p4 off
-1 1189703824 20690 -14415 -55713 900 0 0 0 2 0 73 0 c5create name y4,visible off;activate visible y4 off;miuchiz: buy: 17000041
 1 1189703824 20045 -14500 -55624 1800 0 0 0 12 0 28 0 mz-b01-f-sd3create visible off radius=30
-1 1189703824 20690 -14465 -55518 900 0 0 0 2 0 50 0 c4create name y2,visible off;activate visible y2 off
-1 1189703824 20700 -14315 -55678 900 0 0 0 6 0 88 0 0c1731create visible off radius=20; activate visible y3 on, texture tag=201 name=y10 bz-hair32
 1 1189703824 20690 -14420 -55668 900 0 0 0 4 0 28 0 a06bcreate visible off radius=20
-1 1189703824 20700 -14315 -55973 900 0 0 0 6 0 87 0 0c1731create visible off radius=20;activate visible z3 on, texture tag=201 name=z10 bz-hair32
 1 1189703824 20270 -14490 -55769 1800 0 0 0 19 0 0 0 mz-b01-b-mshoptop1c
 1 1161034123 20270 -14490 -54569 900 0 0 0 17 0 0 0 mz-b01-b-mshop00b
 1 1155332104 20670 -14090 -54469 2700 0 0 0 15 0 0 0 mz-b01-b-rail1a
@@ -1604,64 +1648,58 @@ propdump version 4
 1 1189703823 21010 -14480 -56149 1800 0 0 0 18 0 50 0 mz-b01-b-mshop-dr2activate rotate 0 15 0 time=1 wait=2 global smooth
 1 1189703823 21130 -14480 -56149 0 0 0 0 18 0 51 0 mz-b01-b-mshop-dr2activate rotate 0 -15 0 time=1 wait=2 global smooth
 1 1189703824 21470 -14090 -55069 2700 0 0 0 15 0 0 0 mz-b01-b-rail1a
+1 1757367903 21440 -14365 -55559 2700 0 0 0 6 0 88 0 0c1731create visible off radius=20; activate visible w3 on, texture tag=201 name=w10 bz-hair31
 1 1189703825 21870 -14490 -55469 900 0 0 0 15 0 0 0 mz-b01-b-rail1a
-1 1189703824 21440 -14315 -55559 2700 0 0 0 6 0 88 0 0c1731create visible off radius=20; activate visible w3 on, texture tag=201 name=w10 bz-hair31
-1 1189703824 21440 -14365 -55813 2700 0 0 0 2 0 50 0 c4create name v3,visible off;activate visible v3 off
 1 1189703824 21000 -14480 -55419 900 0 0 0 16 0 28 0 mz-b01-f-stool01create visible off radius=20
+1 1757367844 21445 -14365 -55684 1050 0 0 0 6 0 88 0 0c1751create visible off radius=20; activate visible w5 on, texture tag=201 name=w10 bz-hair51
 1 1189703824 21440 -14415 -55813 2700 0 0 0 2 0 73 0 c5create name v4,visible off;activate visible v4 off;miuchiz: buy: 17000042
 1 1189703824 21870 -14490 -55669 900 0 0 0 15 0 0 0 mz-b01-b-rail1a
 1 1189703824 21870 -14090 -55069 2700 0 0 0 15 0 0 0 mz-b01-b-rail1a
-1 1189703824 21440 -14365 -55518 2700 0 0 0 2 0 73 0 c5create name w3,visible off;activate visible w3 off;miuchiz: buy: 17000032
 1 1189703824 21450 -14420 -55969 2700 0 0 0 4 0 28 0 a06acreate visible off radius=20
 1 1189703824 21110 -14480 -55509 900 0 0 0 16 0 28 0 mz-b01-f-stool01create visible off radius=20
 1 1189703824 21450 -14320 -55569 2700 0 0 0 4 0 28 0 a06bcreate visible off radius=20
 1 1189703824 21413 -14430 -55920 2700 0 0 0 5 0 38 0 b1712create name v10, visible off radius=20
 1 1189703824 21445 -14365 -55984 1050 0 0 0 6 0 88 0 0c1711create visible off radius=20; activate visible v1 on, texture tag=201 name=v10 bz-hair11
-1 1189703824 21440 -14415 -55518 2700 0 0 0 2 0 73 0 c5create name w4,visible off;activate visible w4 off;miuchiz: buy: 17000042
 1 1189703824 21070 -14490 -55769 0 0 0 2 0 0 0 51 000000410000404100000041000000000000000000803f1200ffffff000100c409000000000000000000000000000000000000
 1 1189703825 21295 -14480 -55619 900 0 0 0 2 0 28 0 a5create visible off radius=40
 1 1189703824 21450 -14420 -55669 2700 0 0 0 4 0 28 0 a06acreate visible off radius=20
 1 1189703824 21127 -14415 -55451 1650 0 0 0 14 0 28 0 mz-b01-i-mgz01create visible off radius=20
-1 1189703824 21440 -14365 -55518 2700 0 0 0 2 0 50 0 c4create name w3,visible off;activate visible w3 off
+1 1757367940 21440 -14465 -55518 2700 0 0 0 2 0 50 0 c4create name w7,visible off;activate visible w7 off
 1 1189703824 21110 -14480 -55444 0 0 0 0 14 0 28 0 mz-b01-f-comp1create visible off radius=40
+1 1757367924 21440 -14415 -55518 2700 0 0 0 2 0 73 0 c5create name w3,visible off;activate visible w3 off;miuchiz: buy: 17000032
 1 1189703825 21110 -14390 -55394 1800 0 0 0 12 0 28 0 mz-m01-clickcreate visible off radius=40
 1 1189703824 21440 -14365 -55859 2700 0 0 0 6 0 88 0 0c1741create visible off radius=20; activate visible v4 on, texture tag=201 name=v10 bz-hair41
-1 1189703824 21440 -14365 -55559 2700 0 0 0 6 0 88 0 0c1741create visible off radius=20; activate visible w4 on, texture tag=201 name=w10 bz-hair41
 1 1189703824 21450 -14370 -55969 2700 0 0 0 4 0 28 0 a06acreate visible off radius=20
 1 1189703824 21445 -14415 -55984 1050 0 0 0 6 0 88 0 0c1721create visible off radius=20; activate visible v2 on, texture tag=201 name=v10 bz-hair21
-1 1189703824 21440 -14365 -55813 2700 0 0 0 2 0 73 0 c5create name v3,visible off;activate visible v3 off;miuchiz: buy: 17000032
+1 1757367894 21440 -14465 -55713 2700 0 0 0 2 0 73 0 c5create name w6,visible off;activate visible w6 off;miuchiz: buy: 17000062
+1 1757367958 21440 -14415 -55713 2700 0 0 0 2 0 50 0 c4create name w5,visible off;activate visible w5 off
 1 1189703824 21088 -14415 -55438 2100 0 0 0 14 0 28 0 mz-b01-i-mgz02create visible off radius=20
 1 1189703824 21450 -14320 -55669 2700 0 0 0 4 0 28 0 a06acreate visible off radius=20
-1 1189703825 21440 -14415 -55713 2700 0 0 0 2 0 50 0 c4create name w1,visible off;activate visible w1 off
+1 1757367947 21440 -14465 -55518 2700 0 0 0 2 0 73 0 c5create name w7,visible off;activate visible w7 off;miuchiz: buy: 17000072
 1 1189703824 21440 -14465 -55813 2700 0 0 0 2 0 50 0 c4create name v8,visible off;activate visible v8 off
 1 1189703824 21970 -14490 -55969 0 0 0 0 15 0 0 0 mz-b01-b-rail1a
-1 1189703825 21440 -14465 -55518 2700 0 0 0 2 0 73 0 c5create name w8,visible off;activate visible w8 off;miuchiz: buy: 17000082
 1 1189703824 21445 -14490 -55919 2700 0 0 0 3 0 28 0 a06create visible off radius=30
 1 1189703824 21870 -14090 -55269 2700 0 0 0 15 0 0 0 mz-b01-b-rail1a
-1 1189703824 21440 -14465 -55713 2700 0 0 0 2 0 73 0 c5create name w2,visible off;activate visible w2 off;miuchiz: buy: 17000022
+1 1757367934 21440 -14415 -55559 2700 0 0 0 6 0 88 0 0c1771create visible off radius=20; activate visible w7 on, texture tag=201 name=w10 bz-hair71
 1 1189703824 21440 -14415 -55813 2700 0 0 0 2 0 50 0 c4create name v4,visible off;activate visible v4 off
-1 1189703824 21445 -14365 -55684 1050 0 0 0 6 0 88 0 0c1711create visible off radius=20; activate visible w1 on, texture tag=201 name=w10 bz-hair11
 1 1189703825 21870 -14490 -55869 900 0 0 0 15 0 0 0 mz-b01-b-rail1a
 1 1189703824 21440 -14415 -55859 2700 0 0 0 6 0 88 0 0c1781create visible off radius=20; activate visible v8 on, texture tag=201 name=v10 bz-hair81
+1 1757367863 21440 -14415 -55713 2700 0 0 0 2 0 73 0 c5create name w5,visible off;activate visible w5 off;miuchiz: buy: 17000052
 1 1189703825 21450 -14420 -55869 2700 0 0 0 4 0 28 0 a06bcreate visible off radius=20
-1 1189703824 21440 -14465 -55713 2700 0 0 0 2 0 50 0 c4create name w2,visible off;activate visible w2 off
-1 1189703824 21440 -14465 -55518 2700 0 0 0 2 0 50 0 c4create name w8,visible off;activate visible w8 off
 1 1189703824 21450 -14320 -55969 2700 0 0 0 4 0 28 0 a06acreate visible off radius=20
 1 1189703824 21450 -14420 -55569 2700 0 0 0 4 0 28 0 a06bcreate visible off radius=20
 1 1189703824 21445 -14490 -55619 2700 0 0 0 3 0 28 0 a06create visible off radius=40
 1 1189703824 21470 -14090 -55269 2700 0 0 0 15 0 0 0 mz-b01-b-rail1a
 1 1189703825 21450 -14370 -55669 2700 0 0 0 4 0 28 0 a06acreate visible off radius=20
-1 1189703824 21440 -14415 -55559 2700 0 0 0 6 0 88 0 0c1781create visible off radius=20; activate visible w8 on, texture tag=201 name=w10 bz-hair81
-1 1189703824 21440 -14415 -55713 2700 0 0 0 2 0 73 0 c5create name w1,visible off;activate visible w1 off;miuchiz: buy: 17000012
+1 1757367875 21445 -14415 -55684 1050 0 0 0 6 0 88 0 0c1761create visible off radius=20; activate visible w6 on, texture tag=201 name=w10 bz-hair61
+1 1757367911 21440 -14415 -55518 2700 0 0 0 2 0 50 0 c4create name w3,visible off;activate visible w3 off
 1 1189703825 21450 -14370 -55869 2700 0 0 0 4 0 28 0 a06bcreate visible off radius=20
 1 1189703824 21450 -14320 -55869 2700 0 0 0 4 0 28 0 a06bcreate visible off radius=20
 1 1189703824 21970 -14090 -55369 1800 0 0 0 15 0 0 0 mz-b01-b-rail1a
-1 1189703824 21445 -14415 -55684 1050 0 0 0 6 0 88 0 0c1721create visible off radius=20; activate visible w2 on, texture tag=201 name=w10 bz-hair21
+1 1757367882 21440 -14465 -55713 2700 0 0 0 2 0 50 0 c4create name w6,visible off;activate visible w6 off
 1 1189703824 21295 -14480 -55919 900 0 0 0 2 0 28 0 a5create visible off radius=30
-1 1189703824 21440 -14415 -55518 2700 0 0 0 2 0 50 0 c4create name w4,visible off;activate visible w4 off
 1 1189703824 21450 -14370 -55569 2700 0 0 0 4 0 28 0 a06bcreate visible off radius=20
 1 1189703825 21220 -14480 -55419 900 0 0 0 16 0 28 0 mz-b01-f-stool01create visible off radius=20
-1 1189703824 21440 -14315 -55859 2700 0 0 0 6 0 88 0 0c1731create visible off radius=20; activate visible v3 on, texture tag=201 name=v10 bz-hair31
 1 1189703825 21070 -14490 -55769 1800 0 0 0 19 0 0 0 mz-b01-b-mshoptop3d
 1 1189703824 21070 -14490 -55769 1800 0 0 0 16 0 0 0 mz-b01-b-mshop2d
 1 1189703824 21270 -14490 -55394 0 0 0 0 3 0 28 0 a08create visible off radius=40
@@ -3510,7 +3548,7 @@ propdump version 4
 1 1756937602 26417 -14490 -56533 2310 0 0 0 8 0 71 0 wlcsgn8bcreate visible off radius=40; activate url miuchiz.com/help/fixthis.php
 1 1155576356 26270 -14240 -56370 0 0 0 3 0 0 0 203 000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000803f0000803f0000803f0000803f0000803f0000803f64000000640000000100e8030000000000000000000000000000ffffff00ffffff000000803f0000000000000000000000000000000000000000
 1 1155576356 26270 -14290 -56370 2250 0 0 0 18 0 44 0 mz-a01-b-spin-racecreate rotate 0 2 0, move 0 .2 0 smooth loop
-1 1159409860 26130 -14490 -56300 2250 0 0 0 5 65 35 0 sign3Ticket price: 5 creditz  Winnings: 25 creditz maximum players: 12create sign color=white bcolor=pink
+1 1757237627 26130 -14490 -56300 2250 0 0 0 5 64 35 0 sign3Ticket price: 5 creditz  Winnings: laps * 10 maximum players: 12create sign color=white bcolor=pink
 1 1155421013 26770 -14490 -56669 2700 0 0 0 14 0 0 0 mz-b01-p-palm1
 1 1166483059 26270 -14490 -56370 2250 0 0 0 18 0 52 0 mz-b01-b-tikbooth2create visible off radius=60; activate;~ticket:racer
 1 1155576356 26270 -14240 -56370 0 0 0 3 0 0 0 203 000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000803f0000803f0000803f0000803f0000803f0000803f64000000640000000100e8030000000000000000000000000000ffffff00ffffff000000803f0000000000000000000000000000000000000000
@@ -3637,33 +3675,33 @@ propdump version 4
 1 1166534877 27960 -14785 -43379 750 0 0 0 5 0 62 0 b1a42create visible off radius=30; activate;miuchiz: wear: 1a000042
 1 1160178145 27950 -14790 -42814 2700 0 0 0 3 0 84 0 f1ebump teleport 57.98S 25.50W -14.49a 270; activate teleport 57.98S 25.50W -14.49a 270
 1 1163691496 28666 -14440 -79560 0 0 0 0 14 0 28 0 mz-b01-f-diarycreate visible off radius=20
-1 1757006678 28972 -14485 -79173 2700 0 0 0 18 8 107 0 mz-b01-f-cupboard2For Salecreate visible off radius=20;activate lock,rotate -20 time=.73 wait=8 smooth global, solid no,miuchiz: mine
 1 1163691496 28200 -14760 -79800 0 0 0 0 14 0 0 0 mz-b01-p-palm1
 1 1163691494 28682 -14450 -79132 0 0 0 3 0 0 0 215 0000000000000000000000000000000000000000000000000000000000000000000000803e000000000000003f00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000400000004000000040000080400000804000008040fa000000fa0000000100b80b0000e8030000f4010000dc0500009fa4d7009fa4d700cdcc4c3e010d0001070005000000000000000000000000635f736f6674317661706f7200
-1 1757006678 28670 -14485 -79175 900 0 0 0 18 8 116 0 mz-b01-f-fridge01cFor Salecreate visible off radius=20;activate lock,rotate 0 14 0 time=1 wait=5 global smooth, tag vapor global,miuchiz: mine
+681 1758052033 28670 -14485 -79175 900 0 0 0 18 10 116 0 mz-b01-f-fridge01bBawoosettecreate visible off radius=20;activate lock,rotate 0 14 0 time=1 wait=5 global smooth, tag vapor global,miuchiz: mine
 1 1163691494 28657 -14425 -79057 900 0 0 0 12 0 28 0 mz-b01-f-potcreate visible off radius=20
+681 1758052033 28670 -14485 -79175 900 0 0 0 18 10 116 0 mz-b01-f-fridge01cBawoosettecreate visible off radius=20;activate lock,rotate 0 14 0 time=1 wait=5 global smooth, tag vapor global,miuchiz: mine
 1 1163691496 28605 -14400 -79535 900 0 0 0 19 0 28 0 mz-b01-f-clock_pinkcreate visible off radius=20
-1 1757006678 28801 -14310 -79010 0 0 0 0 18 8 67 0 mz-b01-f-pendant01For Salecreate visible off radius=20, name light1, visible off;miuchiz:mine
-1 1757006678 28916 -14325 -79410 0 0 0 0 18 8 75 0 mz-b01-f-pendant01For Salecreate visible off radius=20,visible off radius=20,name light1;miuchiz:mine
-1 1757006678 28940 -14420 -79595 0 0 0 0 16 8 75 0 mz-b01-f-poster6For Salecreate visible off radius=20,picture http://www.miuchiz.com/photos/img3.jpg
-1 1757006678 28952 -14485 -79172 2700 0 0 0 18 8 107 0 mz-b01-f-cupboard3For Salecreate visible off radius=20;activate lock,rotate -20 time=.83 wait=8 smooth global, solid no,miuchiz: mine
+681 1758052033 28940 -14420 -79595 0 0 0 0 16 10 75 0 mz-b01-f-poster6Bawoosettecreate visible off radius=20,picture http://www.miuchiz.com/photos/img3.jpg
+681 1758052033 28916 -14325 -79410 0 0 0 0 18 10 75 0 mz-b01-f-pendant01Bawoosettecreate visible off radius=20,visible off radius=20,name light1;miuchiz:mine
 1 1163691495 28931 -14485 -79345 0 0 0 0 12 0 28 0 mz-b01-rug01create visible off radius=20
 1 1163691496 28610 -14355 -79534 900 0 0 0 15 0 59 0 mz-b01-f-clock1create visible off radius=20,rotate 0 0 -0.01666666668 sync
 1 1163691496 28610 -14355 -79534 900 0 600 0 15 0 59 0 mz-b01-f-clock2create visible off radius=20,rotate 0 0 -0.00138888888 sync
+681 1758052033 28801 -14310 -79010 0 0 0 0 18 10 67 0 mz-b01-f-pendant01Bawoosettecreate visible off radius=20, name light1, visible off;miuchiz:mine
+681 1758052033 28972 -14485 -79173 2700 0 0 0 18 10 107 0 mz-b01-f-cupboard2Bawoosettecreate visible off radius=20;activate lock,rotate -20 time=.73 wait=8 smooth global, solid no,miuchiz: mine
+681 1758052033 28985 -14405 -79205 1800 0 0 0 17 10 76 0 mz-b01-f-poster10Bawoosettecreate visible off radius=20, picture http://www.miuchiz.com/photos/img5.jpg
 1 1163691495 28972 -14485 -79137 2700 0 0 0 18 0 28 0 mz-b01-f-cupboard1create visible off radius=20
-1 1757006678 28670 -14485 -79175 900 0 0 0 18 8 116 0 mz-b01-f-fridge01bFor Salecreate visible off radius=20;activate lock,rotate 0 14 0 time=1 wait=5 global smooth, tag vapor global,miuchiz: mine
 1 1163691496 28666 -14485 -79565 0 0 0 0 19 0 28 0 mz-b01-f-nightstandcreate visible off radius=20
-1 1757006678 28985 -14405 -79205 1800 0 0 0 17 8 76 0 mz-b01-f-poster10For Salecreate visible off radius=20, picture http://www.miuchiz.com/photos/img5.jpg
 1 1163691494 28633 -14485 -79067 900 0 0 0 14 0 28 0 mz-b01-f-rangecreate visible off radius=20
 1 1163691494 28601 -14485 -79135 900 0 0 0 18 0 28 0 mz-b01-f-fridge01acreate visible off radius=20
 45170 1166741305 28781 -14485 -79495 0 0 0 4 13 0 0 54 mz-b01-f-bed20001f80d910100001e000a000000c800000a0a0000640000000000000000000003090000000000000062656471736c65657066656d31
+681 1758052033 28952 -14485 -79172 2700 0 0 0 18 10 107 0 mz-b01-f-cupboard3Bawoosettecreate visible off radius=20;activate lock,rotate -20 time=.83 wait=8 smooth global, solid no,miuchiz: mine
 1 1163691495 28891 -14480 -79520 0 0 0 0 15 0 28 0 mz-b01-f-petbedcreate visible off radius=20
+681 1758052033 28901 -14510 -78005 1800 0 0 0 20 10 72 0 mz-p01-b-lotfence01aBawoosetteactivate lock, rotate 0 -10 0 time=2 wait=15 global smooth,miuchiz: mine
 1 1163691503 28641 -14369 -78730 0 0 0 3 0 0 0 220 cdcc4cbecdcc4cbecdcc4cbecdcc4c3ecdcc4c3ecdcc4c3e000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000344300003443000034430000000000000000000000000000000000000000000000000ad7233c0ad7233c0ad7233c8fc2f53c8fc2f53c8fc2f53c64000000640000000600c8000000e8030000000000000000000066330000663300000000803f000200020d00040000000000000000000000007033323a6d33325f73667430326665656400
 1 1163691503 28807 -14420 -78627 1200 0 0 0 16 0 28 0 mz-b01-i-comic01create visible off radius=20
 1 1163691504 28630 -14485 -78925 900 0 0 0 17 0 28 0 mz-b01-f-count01acreate visible off radius=20
 1 1163691505 28657 -14409 -78727 2850 0 0 0 21 0 42 0 mz-b01-f-aquariumfishcreate visible off radius=20, rotate 0 3 0
 1 1163691503 28911 -14485 -78449 1800 0 0 0 15 0 28 0 mz-b01-f-plant1create visible off radius=20
-1 1757006678 28901 -14510 -78005 1800 0 0 0 20 8 72 0 mz-p01-b-lotfence01aFor Saleactivate lock, rotate 0 -10 0 time=2 wait=15 global smooth,miuchiz: mine
 1 1163691503 28706 -14485 -78810 1800 0 0 4 16 0 0 54 mz-b01-f-stool010001f80d910100003200000000000000000a0a0000640000000000000000000005070000000000000073746f6f6c7173697466656d65
 1 1163691503 28815 -14485 -78615 1350 0 0 0 14 0 28 0 mz-b01-f-tablecreate visible off radius=20
 1 1163691503 28831 -14420 -78597 1500 0 0 0 14 0 28 0 mz-b01-i-mgz01create visible off radius=20
@@ -3673,13 +3711,13 @@ propdump version 4
 1 1163691504 28635 -14485 -78780 900 0 0 0 20 0 28 0 mz-b01-f-nightstand1create visible off radius=20
 1 1163693085 28055 -14500 -78990 2700 0 0 0 17 0 28 0 mz-a01-p-petunia3create visible off radius=60
 1 1163691505 28851 -14485 -78435 0 0 0 0 16 0 93 0 mz-a01-i-watrcancreate visible off radius=20;activate move 0 .6 0 wait=1, rotate 0 0 -3 time=1 wait=.6 global
+681 1758052033 28630 -14485 -79000 900 0 0 0 21 10 52 0 mz-b01-f-count01sink2Bawoosettecreate visible off radius=20;activate lock, tag sink
 1 1163691502 28641 -14339 -78740 0 0 0 3 0 0 0 226 00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000a04000000000000000000000a0400000000000002a43000000000000000000002a4300000000000000000000000000000000000000000000000000000000000000000000803f0000803f0000803f0000803f0000803f0000803fc8000000c80000000100c8000000e8030000000000000000000066330000663300000000803f000000031300040000000000000000000000006d7a2d6230312d692d6669736866642e7277786665656400
 1 1163691504 28666 -14340 -78810 0 0 0 0 18 0 28 0 mz-b01-f-pendant01create visible off radius=20
 1 1163691504 28715 -14325 -78810 0 0 0 0 18 0 28 0 mz-b01-f-pendant01create visible off radius=20
 1 1163691503 28696 -14485 -78512 1350 0 0 4 14 0 0 54 mz-b01-f-couch0001f80d9101000032002d0000000000000a0a00006400000000000000000000050700000000000000636f7563687173697466656d65
 1 1163691504 28630 -14485 -78875 900 0 0 0 17 0 28 0 mz-b01-f-count01bcreate visible off radius=20
 1 1163691502 28801 -14310 -79000 0 0 0 2 0 0 0 51 0000804000008040000080400000020000803f0000803f5800404060000100c409000000000000000000000000000000000000
-1 1757006678 28630 -14485 -79000 900 0 0 0 21 8 52 0 mz-b01-f-count01sink2For Salecreate visible off radius=20;activate lock, tag sink
 1 1163691503 28641 -14420 -79000 0 0 0 3 0 0 0 220 00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000a0c000000000000000000000a0c0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000008fc2f53ccdcc4c3d8fc2f53ccdcccc3d0000003fcdcccc3d0a000000640000000100fa000000881300000000000001000000ffffff009aa4e7000000803f000300010d00040000000000000000000000007033323a6d33325f736674303273696e6b00
 1 1163691503 28720 -14485 -78935 0 0 0 4 16 0 0 54 mz-b01-f-stool010001f80d910100003200000000000000000a0a0000640000000000000000000005070000000000000073746f6f6c7173697466656d65
 1 1163691505 28766 -14310 -78810 0 0 0 0 18 0 28 0 mz-b01-f-pendant01create visible off radius=20
@@ -3881,65 +3919,65 @@ propdump version 4
 1 1163691668 29957 -14500 -84773 900 0 0 0 17 0 28 0 mz-a01-p-petunia1create visible off radius=60
 1 1163691669 29501 -14510 -84498 0 0 0 0 17 0 0 0 MZ-B01-B-poolpath
 1 1163691668 29517 -14500 -84073 1800 0 0 0 15 0 28 0 mz-a01-p-poppy2create visible off radius=60
+681 1758052033 29154 -14440 -79530 2700 0 0 0 15 10 103 0 mz-b01-f-chest2Bawoosettecreate visible off radius=20;activate lock,rotate -20 0 0 time=.83 wait=8 global,solid no,miuchiz: mine
 1 1163691497 29004 -14400 -79095 900 0 0 0 12 0 32 0 mz-m01-dbellactivate noise dbell1.wav global
 1 1163691497 29098 -14485 -79315 0 0 0 4 15 0 0 59 mz-b01-f-chair10001f80d9101000032000a0000000000000a0a000064000000000000000000000a07000000000000006465736b2063686169727173697466656d65
-1 1757006678 29499 -14510 -79450 0 0 0 0 15 8 51 0 mz-b01-salesgn1For Salecreate sign bcolor=white color=black;miuchiz: home1
+681 1758052033 29088 -14420 -79595 0 0 0 0 16 10 75 0 mz-b01-f-poster5Bawoosettecreate visible off radius=20,picture http://www.miuchiz.com/photos/img4.jpg
+681 1758052033 29499 -14510 -79450 0 0 0 0 15 10 51 0 mz-b01-salesgn1Bawoosettecreate sign bcolor=white color=black;miuchiz: home1
 1 1163691496 29049 -14310 -79400 0 0 0 2 0 0 0 51 0000104100008040000080400000020000803f0000803f5800404060000100c409000000000000000000000000000000000000
 1 1163691497 29313 -14485 -79285 0 0 0 4 16 0 0 54 mz-b01-f-vanity20001f80d910100002d00000000000000000a0a0000640000000000000000000005070000000000000062656e63687173697466656d6d
 1 1163691498 29098 -14485 -79240 1800 0 0 0 13 0 29 0 mz-b01-f-compcreate visible off radius=20;
 1 1163691498 29299 -14275 -79400 0 0 0 0 24 0 28 0 mz-b01-f-pendantlampbluecreate visible off radius=20
-1 1757006678 29088 -14420 -79595 0 0 0 0 16 8 75 0 mz-b01-f-poster5For Salecreate visible off radius=20,picture http://www.miuchiz.com/photos/img4.jpg
 1 1163691497 29454 -14485 -79440 2700 0 0 0 16 0 54 0 mz-b01-f-closet1create visible off radius=20;activate;Miuchiz: storage
-1 1757006678 29154 -14440 -79530 2700 0 0 0 15 8 103 0 mz-b01-f-chest2For Salecreate visible off radius=20;activate lock,rotate -20 0 0 time=.83 wait=8 global,solid no,miuchiz: mine
 1 1163691497 29313 -14485 -79580 0 0 0 0 16 0 54 0 mz-b01-f-drawerscreate visible off radius=20;activate;Miuchiz: storage
+681 1758052033 29319 -14300 -79415 0 0 0 0 24 10 54 0 mz-b01-f-pendantlampblueBawoosettecreate visible off radius=20, name light1;miuchiz:mine
 1 1163691497 29313 -14485 -79200 1800 0 0 0 16 0 28 0 mz-b01-f-vanity1create visible off radius=20
 1 1163691498 29319 -14275 -79385 0 0 0 0 24 0 28 0 mz-b01-f-pendantlampbluecreate visible off radius=20
 1 1163691498 29043 -14420 -79254 1950 -900 0 0 16 0 29 0 mz-b01-i-phone01create visible off radius=20;
 1 1163691497 29154 -14485 -79530 2700 0 0 0 15 0 28 0 mz-b01-f-chest1create visible off radius=20
 1 1163691498 29596 -14660 -79855 1950 0 0 0 14 0 0 0 mz-b01-p-palm1
 1 1163691497 29448 -14485 -79275 2700 0 0 0 19 0 28 0 mz-b01-f-mannequin1create visible off radius=20
-1 1757006678 29319 -14300 -79415 0 0 0 0 24 8 54 0 mz-b01-f-pendantlampblueFor Salecreate visible off radius=20, name light1;miuchiz:mine
-1 1757006678 29293 -14485 -78753 0 0 0 0 16 8 70 0 mz-b01-f-tvdoor2For Salecreate visible off radius=20;activate lock,move 0.3 0 0 time=.8 wait=3
-1 1757006678 29293 -14443 -78728 0 0 0 0 12 8 173 0 mz-a01-btn02For Salecreate visible off radius=20;activate lock, media name=tv url=http://http://www.miuchiz.com/video/bratz/video3.wmv res=512 osd=on fx=3d radius=10 osd=no global,miuchiz: mine
+681 1758052033 29494 -14395 -78530 2700 0 0 0 16 10 75 0 mz-b01-f-poster7Bawoosettecreate picture http://www.miuchiz.com/photos/img2.jpg,visible off radius=20
+681 1758052033 29036 -14485 -78745 0 0 0 0 20 10 102 0 mz-b01-f-bookshelfd1Bawoosettecreate visible off radius=20;activate rotate -20 time=.83 wait=8 smooth global, solid no,miuchiz: mine
+681 1758052033 29009 -14395 -78804 0 0 0 0 19 10 172 0 mz-a01-b-lgtswitch1Bawoosettecreate visible off radius=20;activate lock, light color=feffcb radius=6 brightness=.25 name=light, light color=feffcb radius=4 brightness=.3 name=light1 global;miuchiz:mine
+681 1758052033 29313 -14443 -78728 0 0 0 0 12 10 173 0 mz-a01-btn02Bawoosettecreate visible off radius=20;activate lock, media name=tv url=http://http://www.miuchiz.com/video/bratz/video5.wmv res=512 osd=on fx=3d radius=10 osd=no global,miuchiz: mine
 1 1163691498 29049 -14510 -79000 0 0 0 0 19 0 0 0 MZ-B01-B-cribzint02
 1 1163691502 29000 -14510 -79000 0 0 0 0 19 0 0 0 mz-p01-b-lotfence02
 1 1163691499 29458 -14485 -78693 2700 0 0 0 17 0 28 0 mz-b01-f-cdshelf2create visible off radius=20
-1 1757006678 29313 -14443 -78728 0 0 0 0 12 8 173 0 mz-a01-btn02For Salecreate visible off radius=20;activate lock, media name=tv url=http://http://www.miuchiz.com/video/bratz/video5.wmv res=512 osd=on fx=3d radius=10 osd=no global,miuchiz: mine
-1 1757006678 29303 -14443 -78728 0 0 0 0 12 8 173 0 mz-a01-btn02For Salecreate visible off radius=20;activate lock, media name=tv url=http://http://www.miuchiz.com/video/bratz/video4.wmv res=512 osd=on fx=3d radius=10 osd=no global,miuchiz: mine
+681 1758052033 29494 -14395 -78679 2700 0 0 0 16 10 75 0 mz-b01-f-poster7Bawoosettecreate picture http://www.miuchiz.com/photos/img1.jpg,visible off radius=20
 1 1163691501 29408 -14365 -78790 0 0 0 0 14 0 28 0 mz-b01-f-clockcreate visible off radius=20
-1 1757006678 29274 -14443 -78728 0 0 0 0 12 8 173 0 mz-a01-btn02For Salecreate visible off radius=20;activate lock, media name=tv url=http://http://www.miuchiz.com/video/bratz/video1.wmv res=512 osd=on fx=3d radius=10 osd=no global,miuchiz: mine
-1 1757006678 29494 -14395 -78530 2700 0 0 0 16 8 75 0 mz-b01-f-poster7For Salecreate picture http://www.miuchiz.com/photos/img2.jpg,visible off radius=20
+681 1758052033 29274 -14443 -78728 0 0 0 0 12 10 173 0 mz-a01-btn02Bawoosettecreate visible off radius=20;activate lock, media name=tv url=http://http://www.miuchiz.com/video/bratz/video1.wmv res=512 osd=on fx=3d radius=10 osd=no global,miuchiz: mine
 1 1163691500 29059 -14408 -78773 0 0 0 0 14 0 28 0 mz-b01-i-mp301create visible off radius=20
 1 1163691498 29049 -14310 -78600 0 0 0 2 0 0 0 51 0000104100008040000080400000020000803f0000803f5800404060000100c409000000000000000000000000000000000000
-1 1757006678 29293 -14485 -78753 0 0 0 0 12 8 51 0 mz-b01-f-tv1For Salecreate visible off radius=20, name tv,miuchiz: mine
-1 1757006678 29073 -14330 -78586 0 0 0 0 18 8 52 0 mz-b01-f-pendant01For Salecreate name light,visible off radius=20;miuchiz:mine
+681 1758052033 29283 -14443 -78728 0 0 0 0 12 10 173 0 mz-a01-btn02Bawoosettecreate visible off radius=20;activate lock, media name=tv url=http://http://www.miuchiz.com/video/bratz/video2.wmv res=512 osd=on fx=3d radius=10 osd=no global,miuchiz: mine
 1 1163691500 29078 -14375 -78769 900 0 0 0 14 0 28 0 mz-b01-i-book2create visible off radius=20
-1 1757006678 29036 -14485 -78745 0 0 0 0 20 8 102 0 mz-b01-f-bookshelfd1For Salecreate visible off radius=20;activate rotate -20 time=.83 wait=8 smooth global, solid no,miuchiz: mine
-1 1757006678 29283 -14443 -78728 0 0 0 0 12 8 173 0 mz-a01-btn02For Salecreate visible off radius=20;activate lock, media name=tv url=http://http://www.miuchiz.com/video/bratz/video2.wmv res=512 osd=on fx=3d radius=10 osd=no global,miuchiz: mine
+681 1758052033 29293 -14443 -78728 0 0 0 0 12 10 173 0 mz-a01-btn02Bawoosettecreate visible off radius=20;activate lock, media name=tv url=http://http://www.miuchiz.com/video/bratz/video3.wmv res=512 osd=on fx=3d radius=10 osd=no global,miuchiz: mine
+681 1758052033 29180 -14485 -78745 0 0 0 0 20 10 101 0 mz-b01-f-bookshelfd2Bawoosettecreate visible off radius=20;activate rotate 20 time=.83 wait=8 smooth global, solid no,miuchiz: mine
 1 1163691499 29180 -14485 -78476 1500 0 0 4 14 0 0 60 mz-b01-f-chair0001f80d9101000032001e0000000000000a0a000064000000000000000000000b0700000000000000636f6d66792063686169727173697466656d65
-1 1757006678 29144 -14400 -78395 0 0 0 0 12 8 93 0 mz-m01-dbellFor Saleactivate media url=http://objects.miuchiz.com/sounds/dbell.wav fx=3d radius=20 vol=100 global
 1 1163691499 29303 -14485 -78470 1800 0 0 0 14 0 28 0 mz-b01-f-plantcreate visible off radius=20
 1 1163691500 29144 -14408 -78778 0 0 0 0 17 0 28 0 mz-b01-i-gmcnsl01create visible off radius=20
-1 1757006678 29009 -14510 -78950 900 0 0 0 16 8 74 0 mz-b01-b-hsdoor1For Saleactivate lock, rotate 0 -10 0 time=1.8 wait=15 global smooth, miuchiz:mine
+681 1758052033 29099 -14510 -78005 0 0 0 0 20 10 71 0 mz-p01-b-lotfence01aBawoosetteactivate lock, rotate 0 10 0 time=2 wait=15 global smooth,miuchiz: mine
 1 1163691500 29144 -14375 -78763 0 0 0 0 17 0 28 0 mz-b01-i-cdplyr02create visible off radius=20
-1 1757006678 29000 -14510 -78385 0 0 0 0 16 8 73 0 mz-b01-b-hsdoor1For Saleactivate lock, rotate 0 10 0 time=1.8 wait=15 global smooth,miuchiz: mine
-1 1757006678 29144 -14465 -78768 0 0 0 0 17 8 115 0 mz-b01-i-cdplyr03For Salecreate visible off radius=20;activate media http://www.miuchiz.com/audio/bratz/audio1.mp3 x=3d radius=50 loop=99999
-1 1757006678 29019 -14395 -78804 0 0 0 0 19 8 132 0 mz-a01-b-lgtswitch0For Salecreate visible off radius=20;activate lock, light brightness=0 name=light global, light brightness=0 name=light1 global;miuchiz:mine
 1 1163691499 29414 -14485 -78504 2100 0 0 4 14 0 0 60 mz-b01-f-chair0001f80d9101000032001e0000000000000a0a000064000000000000000000000b0700000000000000636f6d66792063686169727173697466656d65
 1 1163693121 29934 -14500 -78990 2700 0 0 0 17 0 28 0 mz-a01-p-petunia3create visible off radius=60
+681 1758052033 29293 -14485 -78753 0 0 0 0 12 10 51 0 mz-b01-f-tv1Bawoosettecreate visible off radius=20, name tv,miuchiz: mine
 1 1163691500 29049 -14365 -78769 900 1050 0 0 14 0 28 0 mz-b01-i-book3create visible off radius=20
+681 1758052033 29293 -14485 -78753 0 0 0 0 16 10 71 0 mz-b01-f-tvdoor1Bawoosettecreate visible off radius=20;activate lock,move -0.3 0 0 time=.8 wait=3
+681 1758052033 29000 -14510 -78385 0 0 0 0 16 10 73 0 mz-b01-b-hsdoor1Bawoosetteactivate lock, rotate 0 10 0 time=1.8 wait=15 global smooth,miuchiz: mine
 1 1163691500 29059 -14365 -78769 900 900 0 0 14 0 28 0 mz-b01-i-book1create visible off radius=20
-1 1757006678 29293 -14485 -78753 0 0 0 0 16 8 71 0 mz-b01-f-tvdoor1For Salecreate visible off radius=20;activate lock,move -0.3 0 0 time=.8 wait=3
+681 1758052033 29009 -14510 -78950 900 0 0 0 16 10 74 0 mz-b01-b-hsdoor1Bawoosetteactivate lock, rotate 0 -10 0 time=1.8 wait=15 global smooth, miuchiz:mine
 1 1163699870 29049 -14510 -79000 0 0 0 0 19 0 0 0 MZ-B01-B-cribzext01
 1 1163691501 29408 -14320 -78785 0 0 0 0 15 0 60 0 mz-b01-f-clock1create visible off radius=20, rotate 0 0 -0.01666666668 sync
-1 1757006678 29009 -14395 -78804 0 0 0 0 19 8 172 0 mz-a01-b-lgtswitch1For Salecreate visible off radius=20;activate lock, light color=feffcb radius=6 brightness=.25 name=light, light color=feffcb radius=4 brightness=.3 name=light1 global;miuchiz:mine
 1 1163691501 29408 -14320 -78785 0 0 600 0 15 0 60 0 mz-b01-f-clock2create visible off radius=20, rotate 0 0 -0.00138888888 sync
-1 1757006678 29494 -14395 -78679 2700 0 0 0 16 8 75 0 mz-b01-f-poster7For Salecreate picture http://www.miuchiz.com/photos/img1.jpg,visible off radius=20
+681 1758052033 29019 -14395 -78804 0 0 0 0 19 10 132 0 mz-a01-b-lgtswitch0Bawoosettecreate visible off radius=20;activate lock, light brightness=0 name=light global, light brightness=0 name=light1 global;miuchiz:mine
 1 1163691500 29108 -14485 -78769 0 0 0 0 19 0 28 0 mz-b01-f-bookshelf1create visible off radius=20
-1 1757006678 29180 -14485 -78745 0 0 0 0 20 8 101 0 mz-b01-f-bookshelfd2For Salecreate visible off radius=20;activate rotate 20 time=.83 wait=8 smooth global, solid no,miuchiz: mine
-1 1757006678 29099 -14510 -78005 0 0 0 0 20 8 71 0 mz-p01-b-lotfence01aFor Saleactivate lock, rotate 0 10 0 time=2 wait=15 global smooth,miuchiz: mine
+681 1758052033 29144 -14400 -78395 0 0 0 0 12 10 93 0 mz-m01-dbellBawoosetteactivate media url=http://objects.miuchiz.com/sounds/dbell.wav fx=3d radius=20 vol=100 global
+681 1758052033 29073 -14330 -78586 0 0 0 0 18 10 52 0 mz-b01-f-pendant01Bawoosettecreate name light,visible off radius=20;miuchiz:mine
+681 1758052033 29264 -14443 -78728 0 0 0 0 12 10 160 0 mz-a01-btn02Bawoosettecreate visible off radius=20;activate lock, media name=tv url=http://objects.miuchiz.com/media/m1.wmv res=512 osd=on fx=3d radius=10 osd=no global,miuchiz: mine
+681 1758052033 29293 -14485 -78753 0 0 0 0 16 10 70 0 mz-b01-f-tvdoor2Bawoosettecreate visible off radius=20;activate lock,move 0.3 0 0 time=.8 wait=3
 1 1163691502 29847 -14960 -78287 2550 0 0 0 14 0 0 0 mz-b01-p-palm1
-1 1757006678 29264 -14443 -78728 0 0 0 0 12 8 160 0 mz-a01-btn02For Salecreate visible off radius=20;activate lock, media name=tv url=http://objects.miuchiz.com/media/m1.wmv res=512 osd=on fx=3d radius=10 osd=no global,miuchiz: mine
+681 1758052033 29144 -14465 -78768 0 0 0 0 17 10 115 0 mz-b01-i-cdplyr03Bawoosettecreate visible off radius=20;activate media http://www.miuchiz.com/audio/bratz/audio1.mp3 x=3d radius=50 loop=99999
+681 1758052033 29303 -14443 -78728 0 0 0 0 12 10 173 0 mz-a01-btn02Bawoosettecreate visible off radius=20;activate lock, media name=tv url=http://http://www.miuchiz.com/video/bratz/video4.wmv res=512 osd=on fx=3d radius=10 osd=no global,miuchiz: mine
 1 1163605170 29500 -14510 -76500 2700 0 0 0 14 0 0 0 mz-b01-street1
 1 1163691571 29470 -14486 -73158 0 0 0 0 15 0 28 0 mz-b01-f-chest1create visible off radius=20
 1 1163731422 29585 -14301 -73323 900 0 0 0 24 0 41 0 mz-b01-f-pendantlampbluecreate visible off radius=20, name light1
@@ -4882,7 +4920,7 @@ propdump version 4
 1 1166630775 31797 -14475 -59983 450 0 0 0 8 0 35 0 tport15gactivate;~shopTicketTaker=MallRace~
 1 1166630792 31797 -14340 -59983 450 0 0 0 5 0 58 0 tportactivate;~shopTicketTaker=MallRace~; create rotate 0 0 -10
 1 1155420355 31770 -14490 -59469 0 0 0 0 14 0 0 0 mz-b01-p-palm1
-1 1757231315 31811 -14180 -59977 450 0 0 0 5 32 52 0 sign3MallRaceLast winner: Bawoosettecreate sign color=white bcolor=pink;~WinnerMallRace~
+1 1758037237 31811 -14180 -59977 450 0 0 0 5 30 52 0 sign3MallRaceLast winner: wrigleyccreate sign color=white bcolor=pink;~WinnerMallRace~
 1 1166632808 31545 -14290 -59738 450 0 0 0 19 0 70 0 mz-a01-b-spin-maze2create texture mz-a01-spin-mall, rotate 0 2 0, move 0 .2 0 smooth loop
 1 1166633382 31518 -14490 -59589 600 0 0 0 5 53 35 0 sign3Ticket price: 10 creditz€Winnings: #points collectedcreate sign color=white bcolor=pink
 1 1155426526 31270 -14490 -57969 2850 0 0 0 14 0 0 0 mz-b01-p-palm1
@@ -5454,10 +5492,10 @@ propdump version 4
 1 1161034030 34850 -14490 -60549 3150 0 0 0 17 0 0 0 mz-b01-b-mshop00a
 1 1161883755 34304 -14290 -60003 3150 0 0 0 19 0 44 0 mz-a01-b-spin-maze2create rotate 0 2 0, move 0 .2 0 smooth loop
 1 1166483102 34304 -14490 -60003 3150 0 0 0 18 0 66 0 mz-b01-b-tikbooth2create visible off radius=60; activate; ~shopTicketTaker=BoomMaze~
+1 1758037034 34559 -14180 -59721 3150 0 0 0 5 30 52 0 sign3BoomMazeLast winner: wrigleyccreate sign color=white bcolor=pink;~WinnerBoomMaze~
 1 1161656312 34970 -14490 -59269 2700 0 0 0 19 0 0 0 mz-b01-b-streetlamp
 1 1756937624 34797 -14490 -59559 3210 0 0 0 7 0 71 0 wlcsgn8create visible off radius=40; activate url miuchiz.com/help/fixthis.php
 1 1161656312 34329 -13790 -59974 0 0 0 3 0 0 0 218 00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000080400000804000008040000080400000804000008040e8030000e80300000100e80300000000000000000000e8030000ffff0000ffff00000000803f000000000f0000000000000000000000000000703132383a6d3132385f656d61726b00
-1 1757212491 34559 -14180 -59721 3150 0 0 0 5 30 52 0 sign3BoomMazeLast winner: Lovegeekcreate sign color=white bcolor=pink;~WinnerBoomMaze~
 1 1161909327 34565 -14340 -59735 3150 0 0 0 5 0 58 0 tportactivate;~shopTicketTaker=BoomMaze~; create rotate 0 0 -10
 1 1161903164 34565 -14475 -59735 3150 0 0 0 8 0 35 0 tport15gactivate;~shopTicketTaker=BoomMaze~
 1 1155426548 34370 -14490 -57969 900 0 0 0 14 0 0 0 mz-b01-p-palm1
@@ -5885,11 +5923,11 @@ propdump version 4
 1 1165962428 37820 -14505 -66169 1800 0 0 0 16 0 19 0 mz-b01-b-swalk16create color 2a2a2a
 1 1165962428 37820 -14505 -66969 1800 0 0 0 16 0 19 0 mz-b01-b-swalk16create color 2a2a2a
 1 1155705012 37946 -13130 -59043 0 0 15 0 2 0 49 0 sbcreate visible off, solid off, sound ambient1.wav
+1 1758598916 37657 -14180 -59331 750 0 0 0 5 34 54 0 sign3DonutCatchLast winner: Bawoosettecreate sign color=white bcolor=pink;~WinnerDonutCatch~
 1 1155578604 37370 -14490 -59969 0 0 0 0 15 0 0 0 mz-b01-b-rail1a
 1 1166472967 37642 -14340 -59329 750 0 0 0 5 0 60 0 tportactivate;~shopTicketTaker=DonutCatch~; create rotate 0 0 -10
 1 1155578603 37170 -14490 -59969 0 0 0 0 15 0 0 0 mz-b01-b-rail1a
 1 1166472967 37934 -14290 -59666 300 0 0 0 18 0 71 0 mz-a01-b-spin-tag1create texture mz-a01-spin-donut, rotate 0 2 0, move 0 .2 0 smooth loop
-1 1757212226 37657 -14180 -59331 750 0 0 0 5 34 54 0 sign3DonutCatchLast winner: Bawoosettecreate sign color=white bcolor=pink;~WinnerDonutCatch~
 1 1155578604 37770 -14490 -59969 0 0 0 0 15 0 0 0 mz-b01-b-rail1a
 1 1166472967 37968 -13790 -59683 0 0 0 3 0 0 0 218 00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000080400000804000008040000080400000804000008040e8030000e80300000100e80300000000000000000000e8030000ffff0000ffff00000000803f000000000f0000000000000000000000000000703132383a6d3132385f656d61726b00
 1 1155578604 37570 -14490 -59969 0 0 0 0 15 0 0 0 mz-b01-b-rail1a
@@ -6379,8 +6417,8 @@ propdump version 4
 1 1159650124 39485 -14345 -56588 1800 0 0 0 16 0 44 0 mz-a01-b-spin-bpcreate rotate 0 2 0, move 0 .2 0 smooth loop
 1 1166483232 39515 -14490 -56583 1800 0 0 0 18 0 48 0 mz-b01-b-tikbooth1create visible off radius=60; ~ticket:balloonpop
 1 1756936496 39746 -14390 -56574 1995 0 0 0 5 77 23 0 sign3€Ticket price: 5 creditz€Winnings: # points collected€maximum players: 6€create sign bcolor=pink
-1 1757217045 39745 -14290 -56577 1995 0 0 0 5 29 43 0 sign3BalloonPopLast winner: Squidcreate sign bcolor=pink; ~WinnerBalloonPop~
 1 1159650124 39515 -14540 -56583 1800 0 0 0 17 0 0 0 mz-a01-i-balloons
+1 1758504296 39745 -14290 -56577 1995 0 0 0 5 33 43 0 sign3BalloonPopLast winner: SugarLiescreate sign bcolor=pink; ~WinnerBalloonPop~
 1 1155420022 39770 -14490 -55669 0 0 0 0 19 0 0 0 mz-b01-b-streetlamp
 1 1155407752 39970 -14504 -55969 2700 0 0 0 16 0 19 0 mz-b01-b-swalk16create color 2a2a2a
 1 1155407756 39970 -14504 -54369 2700 0 0 0 16 0 19 0 mz-b01-b-swalk16create color 2a2a2a
@@ -9377,8 +9415,8 @@ propdump version 4
 1 1755819698 85496 -20412 48413 0 0 0 3 0 0 16 220 create link hvr1000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000040000000000000000000000040000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000803f0000803f0000803f0a0000000a0000000100f40100000000000000000000f4010000b9bcff00f41c31000000803f002100000d00040000000000000000000000007033323a6d33325f73667430336876723100
 1 1160769396 85835 -17572 65941 0 -686 900 0 16 8 38 0 mz-p01-p-dtree02ROCKFALLcreate texture mz-m01-lava1, solid off
 1 1161022760 86407 -18077 49553 900 0 0 0 15 0 0 0 mz-m01-b-home02
-1 1757199899 86830 -17780 59450 2080 0 0 0 5 32 55 0 sign3RockAttackLast winner: wrigleyccreate sign color=white bcolor=grey; ~WinnerRockAttack~
 1 1188401993 86832 -18037 59459 300 0 -15 0 8 0 27 0 tport15gactivate;~ticket:rockattack
+1 1758491231 86830 -17780 59450 2080 0 0 0 5 34 55 0 sign3RockAttackLast winner: Bawoosettecreate sign color=white bcolor=grey; ~WinnerRockAttack~
 1 1160771640 86526 -18077 59676 2100 -150 0 0 5 90 54 0 sign3Crush the rocks by clicking on them before they hit you.  Flaming rocks earn higher pointscreate sign color=white bcolor=orange;~ticket:rockfall
 1 1160771557 86837 -17907 59460 300 0 0 0 5 0 50 0 tportactivate;~ticket:rockattack; create rotate 0 0 -10
 1 1160774159 86952 -17282 59667 2100 0 0 0 9 0 45 0 brawlsgn2create texture rockattack4 mask=m_banner1_256
@@ -9434,17 +9472,16 @@ propdump version 4
 1 1166736962 88290 -17695 70664 1800 0 0 0 11 0 28 0 mz-m01-f-nscreate visible off radius=20
 1 1757006680 88466 -17596 70692 2145 0 0 0 17 8 75 0 mz-m01-f-poster11For Salecreate visible off radius=20,picture http://www.miuchiz.com/photos/img6.jpg
 1 1166481588 89532 -17418 47847 3064 0 0 0 5 10 35 0 sign3Lava Catchcreate sign color=red bcolor=yellow
-1 1757197356 89530 -17548 47848 3064 0 0 0 5 31 41 0 sign3LavaCatchLast winner: wrigleyccreate sign bcolor=red; ~WinnerLavaCatch~
 1 1188332580 89738 -16521 47704 3064 0 0 0 6 0 0 0 spire2
 1 1166481547 89525 -17671 47852 3064 0 0 0 5 52 37 0 sign3Ticket price: 5 creditz€Winnings: #points collectedcreate sign color=white bcolor=orange
 1 1166480834 89434 -17871 47933 0 -520 900 0 5 0 51 0 tportcreate sign; activate; ~RocTicketTaker=LavaCatch~€
+1 1757899157 89530 -17548 47848 3064 0 0 0 5 32 41 0 sign3LavaCatchLast winner: VaniCandycreate sign bcolor=red; ~WinnerLavaCatch~
 1 1166481807 89333 -17918 47672 3214 0 0 0 5 8 37 0 sign3Now Opencreate sign color=white bcolor=orange
 1 1188408079 89512 -17871 48036 0 -536 900 0 8 0 49 0 tport15gcreate sign; activate; ~RocTicketTaker=LavaCatch~
 1 1166481802 89658 -17918 48105 3064 0 0 0 5 8 37 0 sign3Now Opencreate sign color=white bcolor=orange
 1 1161480375 89797 -17677 56273 2314 0 0 0 16 0 0 0 mz-m01-b-block02
 1 1161913893 89273 -17472 56613 2314 0 0 0 5 9 37 0 sign3Now Open!create sign color=white bcolor=orange
 1 1161480375 89296 -17677 56900 2314 0 0 0 16 0 0 0 mz-m01-b-block02
-1 1757198082 89273 -17672 56613 2314 0 0 0 5 32 57 0 sign3JungleMazeLast winner: wrigleyccreate sign color=white bcolor=orange; ~WinnerJungleMaze~
 1 1161480426 89827 -17277 56555 2314 0 0 0 16 0 0 0 mz-m01-b-block02
 1 1162922360 89620 -15677 56965 0 0 0 3 0 0 0 218 00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000080400000804000008040000080400000804000008040e8030000e80300000100e80300000000000000000000e8030000ffff0000ffff00000000803f000000000f0000000000000000000000000000703132383a6d3132385f656d61726b00
 1 1161481199 89310 -17272 56905 514 -1800 0 0 16 0 0 0 mz-m01-b-block02
@@ -9458,6 +9495,7 @@ propdump version 4
 1 1161481125 89746 -17272 56997 514 -1800 0 0 16 0 0 0 mz-m01-b-block02
 1 1161481193 89558 -17272 56593 514 -1800 0 0 16 0 0 0 mz-m01-b-block02
 1 1166818286 89395 -17922 56711 0 -1271 900 0 5 0 59 0 tportactivate,~RocTicketTaker=JungleMaze~; create rotate 0 0 -10
+1 1758491093 89273 -17672 56613 2314 0 0 0 5 34 57 0 sign3JungleMazeLast winner: Bawoosettecreate sign color=white bcolor=orange; ~WinnerJungleMaze~
 1 1161480253 89055 -18077 56951 2314 0 0 0 16 0 0 0 mz-m01-b-block02
 1 1161482117 89330 -17282 56686 2280 150 0 0 9 0 45 0 brawlsgn2create texture junglemaze2 mask=m_banner1_256
 1 1161480252 89801 -18077 56020 2314 0 0 0 16 0 0 0 mz-m01-b-block02
@@ -9527,8 +9565,8 @@ propdump version 4
 1 1166736969 89948 -17640 70090 2250 0 0 0 13 0 42 0 mz-m01-f-aqu2create visible off radius=20,rotate 0 12 0
 1 1163648457 90351 -17918 49984 2764 0 0 0 5 9 37 0 sign3NOW OPEN!create sign color=white bcolor=orange
 1 1163647554 90583 -17671 50240 2764 0 0 0 5 52 37 0 sign3Ticket price: 5 creditz€Winnings: #points collectedcreate sign color=white bcolor=orange
+1 1758490989 90783 -17498 50216 2764 0 0 0 5 35 32 0 sign3KrakenRacerLast winner: Bawoosettecreate sign; ~WinnerKrakenRacer~
 1 1163648523 90881 -17068 50174 2764 0 0 0 5 13 35 0 sign3Kraken's Laircreate sign color=red bcolor=yellow
-1 1757144628 90783 -17498 50216 2764 0 0 0 5 35 32 0 sign3KrakenRacerLast winner: Bawoosettecreate sign; ~WinnerKrakenRacer~
 1 1164051054 90573 -17871 50371 0 -836 900 0 8 110 51 0 tport15gGet a ticket to discover Kraken's lair.  Click on me - or if you change your mind, return the ticket here too.create sign; activate; ~RocTicketTaker=KrakenRacer~
 1 1164051065 90557 -17871 50243 0 -820 900 0 5 0 53 0 tportcreate sign; activate; ~RocTicketTaker=KrakenRacer~€
 1 1163648410 90423 -17918 50584 2764 0 0 0 5 9 37 0 sign3NOW OPEN!create sign color=white bcolor=orange
@@ -11245,68 +11283,69 @@ propdump version 4
 1 1168286515 120751 -1935 126950 2700 0 0 0 7 0 0 0 fernsun
 1 1168286515 120702 -1935 126800 2700 0 0 0 17 0 0 0 mz-m01-p-hvntree2
 1 1168286515 120763 -1935 126804 3000 -150 75 0 17 0 0 0 mz-m01-p-hvntree1
+18 1757755246 121517 -10670 41644 2700 0 0 0 16 7 70 0 mz-m01-hsdoorrocKirtideactivate lock, rotate 0 10 0 time=2 wait=5 global smooth,miuchiz: mine
 1 1163704062 121542 -10670 41695 2700 0 0 0 12 0 32 0 mz-m01-dbellactivate noise dbell1.wav global
-1 1757006681 121517 -10670 41644 2700 0 0 0 16 8 70 0 mz-m01-hsdoorrocFor Saleactivate lock, rotate 0 10 0 time=2 wait=5 global smooth,miuchiz: mine
 1 1168286515 121302 -1935 126550 2700 0 0 0 7 0 28 0 fernsuncreate visible off radius=20
 1 1168286514 121802 -1935 126650 1650 0 0 0 7 0 28 0 fernsuncreate visible off radius=20
 1 1163704063 122427 -10795 40981 300 0 0 0 23 0 28 0 mz-m01-f-refrigerator1bcreate visible off radius=20
 16889 1164677165 122519 -10795 40492 2655 0 0 4 15 0 0 59 mz-m01-f-chair30001f80d91010000f6ff000000000000000a0a000064000000000000000000000908000000000000004465736b6368616972717369746d616c6500
-1 1757006681 122495 -10795 40981 300 0 0 0 23 8 116 0 mz-m01-f-refrigerator3bFor Salecreate visible off radius=20;activate lock,rotate 0 14 0 time=1 wait=5 global smooth, tag vapor global,miuchiz: mine
+18 1757755246 122498 -10695 40177 345 0 0 0 17 7 75 0 mz-m01-f-poster17Kirtidecreate visible off radius=20,picture http://www.miuchiz.com/photos/img8.jpg
 1 1163704064 122897 -10720 40157 0 0 0 0 14 0 28 0 mz-m01-f-diarycreate visible off radius=20
-1 1757006681 122427 -10695 40728 1185 0 0 0 17 8 75 0 mz-m01-f-poster17For Salecreate visible off radius=20,picture http://www.miuchiz.com/photos/img9.jpg
 1 1163704064 122897 -10795 40157 0 0 0 0 11 0 28 0 mz-m01-f-nscreate visible off radius=20
-1 1757006681 122495 -10795 40981 300 0 0 0 23 8 116 0 mz-m01-f-refrigerator2bFor Salecreate visible off radius=20;activate lock,rotate 0 14 0 time=1 wait=5 global smooth, tag vapor global,miuchiz: mine
 1 1163704064 122746 -10595 40095 0 0 0 0 16 0 28 0 mz-m01-f-shield2create visible off radius=20
 1 1163704063 122996 -10795 40956 2700 0 0 0 15 0 28 0 mz-m01-f-stool1create visible off radius=20
-1 1757006681 122498 -10695 40177 345 0 0 0 17 8 75 0 mz-m01-f-poster17For Salecreate visible off radius=20,picture http://www.miuchiz.com/photos/img8.jpg
 16889 1164677165 122746 -10795 40286 0 0 0 4 13 0 0 55 mz-m01-f-bed20001f80d9101000000000a0000000000000a0a00006400000000000000000000030a0000000000000062656471736c6565706d616c6500
+18 1757755246 122495 -10795 40981 300 0 0 0 23 7 116 0 mz-m01-f-refrigerator2bKirtidecreate visible off radius=20;activate lock,rotate 0 14 0 time=1 wait=5 global smooth, tag vapor global,miuchiz: mine
 1 1163704064 122424 -10720 40539 555 0 0 0 16 0 28 0 mz-m01-i-phone01create visible off radius=20
-1 1757006681 122996 -10695 40223 3300 0 0 0 17 8 75 0 mz-m01-f-poster17For Salecreate visible off radius=20,picture http://www.miuchiz.com/photos/img7.jpg
+18 1757755246 122427 -10695 40728 1185 0 0 0 17 7 75 0 mz-m01-f-poster17Kirtidecreate visible off radius=20,picture http://www.miuchiz.com/photos/img9.jpg
 1 1163704063 122525 -10795 40956 2700 0 0 0 15 0 28 0 mz-m01-f-stool1create visible off radius=20
 1 1163704064 122436 -10745 40997 0 0 0 3 0 0 0 215 0000000000000000000000000000000000000000000000000000000000000000000000803e000000000000003f00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000400000004000000040000080400000804000008040fa000000fa0000000100b80b0000e8030000f4010000dc0500009fa4d7009fa4d700cdcc4c3e010d0001070005000000000000000000000000635f736f6674317661706f7200
 1 1163704064 122420 -10795 40484 855 0 0 0 13 0 28 0 mz-m01-f-deskcreate visible off radius=20
+18 1757755246 122996 -10695 40223 3300 0 0 0 17 7 75 0 mz-m01-f-poster17Kirtidecreate visible off radius=20,picture http://www.miuchiz.com/photos/img7.jpg
+18 1757755246 122495 -10795 40981 300 0 0 0 23 7 116 0 mz-m01-f-refrigerator3bKirtidecreate visible off radius=20;activate lock,rotate 0 14 0 time=1 wait=5 global smooth, tag vapor global,miuchiz: mine
 1 1163704063 122695 -10795 40556 900 0 0 0 13 0 28 0 mz-m01-f-rug2create visible off radius=20
-1 1757006681 122987 -10785 41993 1935 0 0 0 16 8 103 0 mz-m01-f-stove2bFor Salecreate visible off radius=20;activate rotate 10 0 0 time=1 wait=8 smooth global, solid no,miuchiz: mine
-1 1757006681 122797 -8945 41543 2700 0 0 0 8 8 50 0 blocker1For Salecreate visible off; bump solid on, lock, solid off
 16889 1164677165 122398 -10815 41703 450 0 0 4 15 0 0 55 mz-m01-f-stool10001f80d910100001400000000000000000a0a0000640000000000000000000005080000000000000073746f6f6c717369746d616c6500
+18 1757755246 122849 -10045 41497 2565 0 0 0 5 7 42 0 b_lgtKirtidecreate name light,visible off;miuchiz:mine
 1 1163704065 122695 -9550 41497 0 0 0 2 0 0 0 51 0000404100004041000020420001010000803f0000803f5800404060000100c409000000000000000000000000000000000000
 1 1163704066 122266 -10795 41111 480 0 0 0 17 0 28 0 mz-m01-f-kitchen4create visible off radius=20
 1 1163704066 122318 -10795 41932 1350 0 0 0 16 0 28 0 mz-m01-f-table2bcreate visible off radius=20
 1 1163704064 122746 -10545 41497 0 0 0 3 0 0 0 210 000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000003442000034420000000000003442000034420000000000000000000000000000000000000000000000000000a0400000b041000000400000a0400000b041000000401027000010270000010010270000000000000000000000000000feffd200feffd2000000003f02010001070000000000000000000000000000635f736f66743100
 16889 1164677165 122551 -10815 41891 2400 0 0 4 15 0 0 55 mz-m01-f-stool10001f80d910100001400000000000000000a0a0000640000000000000000000005080000000000000073746f6f6c717369746d616c6500
+18 1757755246 122497 -10845 41497 2700 0 0 0 15 7 39 0 mz-m01-salesgn1Kirtidecreate sign bcolor=black;miuchiz: home1
 1 1163704065 122996 -10450 41497 0 0 0 2 0 0 0 51 0000004200000041000020420001010000803f0000803f5800404060000100c409000000000000000000000000000000000000
-1 1757006681 122497 -10845 41497 2700 0 0 0 15 8 39 0 mz-m01-salesgn1For Salecreate sign bcolor=black;miuchiz: home1
+18 1757755246 122797 -8945 41543 2700 0 0 0 8 7 50 0 blocker1Kirtidecreate visible off; bump solid on, lock, solid off
 1 1163704066 122746 -10545 41497 0 0 0 3 0 0 0 208 000080bf00000000000080bf0000803f000020410000803f000ad7a3bd0ad7a3bd0ad7a3bd0ad7a33d0ad7a33d0ad7a33d0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000008fc2f53c8fc2f53c8fc2f53c0ad7233c0ad7233c0ad7233c64000000640000000800d007000000000000f4010000f4010000e4e4e400ffffff000000803f02000000050000000000000000000000000000635f73756e74
 16889 1164677165 122273 -10815 41833 450 0 0 4 15 0 0 55 mz-m01-f-stool10001f80d910100001400000000000000000a0a0000640000000000000000000005080000000000000073746f6f6c717369746d616c6500
-1 1757006681 122023 -9870 41644 2700 0 0 0 16 8 57 0 mz-m01-hsdoorrocFor Saleactivate lock, rotate 0 10 0 time=2 wait=15 global smooth
+18 1757755246 122987 -10785 41993 1935 0 0 0 16 7 103 0 mz-m01-f-stove2bKirtidecreate visible off radius=20;activate rotate 10 0 0 time=1 wait=8 smooth global, solid no,miuchiz: mine
 1 1163704065 122746 -10850 41497 0 0 0 2 0 0 0 51 00000c420000f041000020420001010000803f0000803f5000ffffff000100c409000000000000000000000000000000000000
 1 1163704065 122746 -10845 41497 2700 0 0 0 17 0 0 0 mz-m01-b-homeroc1
-1 1757006681 122849 -10045 41497 2565 0 0 0 5 8 42 0 b_lgtFor Salecreate name light,visible off;miuchiz:mine
+18 1757755246 122023 -9870 41644 2700 0 0 0 16 7 57 0 mz-m01-hsdoorrocKirtideactivate lock, rotate 0 10 0 time=2 wait=15 global smooth
 1 1163704067 122417 -10705 42434 1905 1050 0 0 14 0 28 0 mz-m01-i-book4create visible off radius=20
-1 1757006681 122462 -10795 42564 1005 0 0 0 19 8 100 0 mz-m01-f-bookshelf2For Salecreate visible off radius=20;activate rotate -20 time=1 wait=8 smooth global, solid no,miuchiz: mine
 1 1163704068 122996 -10795 42256 3150 0 0 0 13 0 28 0 mz-m01-f-aqu1create visible off radius=20
+18 1757755246 122434 -10795 42413 1005 0 0 0 19 7 99 0 mz-m01-f-bookshelf3Kirtidecreate visible off radius=20;activate rotate 20 time=1 wait=8 smooth global, solid no,miuchiz: mine
 1 1163704067 122430 -10795 42496 1005 0 0 0 19 0 28 0 mz-m01-f-bookshelf1create visible off radius=20
-1 1757006681 122465 -10695 42200 450 0 0 0 17 8 75 0 mz-m01-f-poster15For Salecreate visible off radius=20,picture http://www.miuchiz.com/photos/img4.jpg
-1 1757006681 122522 -10695 42791 1500 0 0 0 17 8 75 0 mz-m01-f-poster19For Salecreate visible off radius=20,picture http://www.miuchiz.com/photos/img5.jpg
-1 1757006681 122753 -10685 42891 1800 0 0 0 17 8 76 0 mz-m01-f-poster19For Salecreate visible off radius=20,picture http://www.miuchiz.com/photos/img10.jpg
 1 1163704067 122443 -10705 42575 1905 900 0 0 14 0 28 0 mz-m01-i-book1create visible off radius=20
 1 1163704067 122414 -10705 42421 1905 900 0 0 14 0 28 0 mz-m01-i-book3create visible off radius=20
+18 1757755246 122922 -10645 42099 1800 0 0 0 19 7 102 0 mz-a01-b-lgtswitch1Kirtidecreate visible off radius=20;activate lock, light color=feffcb radius=18 name=light globa;miuchiz:mine
+18 1757755246 122932 -10645 42099 1800 0 0 0 19 7 93 0 mz-a01-b-lgtswitch0Kirtidecreate visible off radius=20;activate lock, light brightness=0 name=light global;miuchiz:mine
+18 1757755246 122522 -10695 42791 1500 0 0 0 17 7 75 0 mz-m01-f-poster19Kirtidecreate visible off radius=20,picture http://www.miuchiz.com/photos/img5.jpg
 1 1163704068 122961 -10710 42685 1950 0 0 0 14 0 28 0 mz-m01-i-mgz02create visible off radius=20
 1 1163704068 122996 -10795 42695 2700 0 0 0 15 0 28 0 mz-m01-f-table1create visible off radius=20
 1 1163704068 122996 -10795 42030 1935 0 0 0 16 0 28 0 mz-m01-f-stove1bcreate visible off radius=20
-1 1757006681 122932 -10645 42099 1800 0 0 0 19 8 93 0 mz-a01-b-lgtswitch0For Salecreate visible off radius=20;activate lock, light brightness=0 name=light global;miuchiz:mine
-1 1757006681 122434 -10795 42413 1005 0 0 0 19 8 99 0 mz-m01-f-bookshelf3For Salecreate visible off radius=20;activate rotate 20 time=1 wait=8 smooth global, solid no,miuchiz: mine
-1 1757006681 122922 -10645 42099 1800 0 0 0 19 8 102 0 mz-a01-b-lgtswitch1For Salecreate visible off radius=20;activate lock, light color=feffcb radius=18 name=light globa;miuchiz:mine
+18 1757755246 122462 -10795 42564 1005 0 0 0 19 7 100 0 mz-m01-f-bookshelf2Kirtidecreate visible off radius=20;activate rotate -20 time=1 wait=8 smooth global, solid no,miuchiz: mine
 1 1163704067 122746 -10795 42445 1800 0 0 0 13 0 28 0 mz-m01-f-RUG2create visible off radius=20
+18 1757755246 122753 -10685 42891 1800 0 0 0 17 7 76 0 mz-m01-f-poster19Kirtidecreate visible off radius=20,picture http://www.miuchiz.com/photos/img10.jpg
 1 1163704066 122993 -10662 42269 0 0 0 3 0 0 0 221 00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000a04000000000000000000000a0400000000000002a43000000000000000000002a4300000000000000000000000000000000000000000000000000000000000000000000803f0000803f0000803f0000803f0000803f0000803fc8000000c80000000100c8000000e8030000000000000000000066330000663300000000803f000000030e00040000000000000000000000006d7a2d6d30312d692d62756766646665656400
 16889 1164677165 122746 -10795 42695 1800 0 0 4 14 0 0 55 mz-m01-f-couch0001f80d91010000f6ff0a0000000000000a0a00006400000000000000000000040900000000000000736f6661717369746d616c653200
 1 1163704066 122993 -10692 42259 0 0 0 3 0 0 0 220 cdccccbdcdccccbdcdccccbdcdcccc3dcdcccc3dcdcccc3d000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000344300003443000034430000000000000000000000000000000000000000000000000ad7a33c0ad7a33c0ad7a33c8fc2f53c8fc2f53c8fc2f53c64000000640000000600c8000000e803000000000000000000002fb9000032a800000000803f000200020d00040000000000000000000000007033323a6d33325f73667430326665656400
 1 1163704068 122986 -10740 42243 2700 0 0 0 13 0 42 0 mz-m01-f-aqu2create visible off radius=20,rotate 0 10 0
+18 1757755246 122465 -10695 42200 450 0 0 0 17 7 75 0 mz-m01-f-poster15Kirtidecreate visible off radius=20,picture http://www.miuchiz.com/photos/img4.jpg
 1 1155517931 122634 -18122 74566 3281 0 0 0 16 0 38 0 mz-p01-p-dtree02create texture mz-m01-lava1, solid off
 1 1155581754 122331 -17022 78513 0 0 0 2 0 0 0 61 0000484300002043000048430001010000803f0000803f00005f5f5f000a00200300000a0000000000000000000000000000656c617661312e7761766e
 1 1163704073 123672 -10660 40260 3000 0 0 0 18 0 28 0 mz-m01-f-jewelbox1create visible off radius=20
 1 1163704073 123734 -10795 40706 2400 0 0 0 18 0 28 0 mz-m01-f-mannequincreate visible off radius=20
 1 1163704073 123403 -10795 40178 105 0 0 0 14 0 28 0 mz-m01-f-desk1create visible off radius=20
+18 1757755246 123035 -10755 40763 2250 0 0 0 15 7 98 0 mz-m01-f-chest2Kirtidecreate visible off radius=20;activate rotate -14 0 0 time=1 wait=8 global, solid no, miuchiz: mine
 1 1163704073 123470 -10730 40199 3420 0 0 0 6 0 28 0 4a0692create visible off radius=20
 1 1163704073 123797 -10795 40507 2700 0 0 0 13 0 28 0 mz-m01-f-dmy1create visible off radius=20
 1 1163704072 123038 -10630 40770 2205 0 600 0 15 0 59 0 mz-m01-f-clock2create visible off radius=20,rotate 0 0 -0.00138888888 sync
@@ -11318,45 +11357,44 @@ propdump version 4
 1 1163704073 123496 -10795 40818 1800 0 0 0 16 0 54 0 mz-m01-f-closet1create visible off radius=20;activate;Miuchiz: storage
 1 1163704072 123041 -10670 40774 2205 0 0 0 15 0 28 0 mz-m01-f-clock3create visible off radius=20
 1 1163704072 123547 -10795 40505 2700 0 0 0 13 13 28 0 mz-m01-f-rug2mz-m01-f-rug2create visible off radius=20
-1 1757006682 123035 -10755 40763 2250 0 0 0 15 8 98 0 mz-m01-f-chest2For Salecreate visible off radius=20;activate rotate -14 0 0 time=1 wait=8 global, solid no, miuchiz: mine
 1 1163704071 123278 -10800 41817 2490 0 0 0 14 0 28 0 mz-m01-f-sink2create visible off radius=20
-1 1757006682 123304 -10795 41628 2580 0 0 0 19 8 99 0 mz-m01-f-cupboard2bFor Salecreate visible off radius=20;activate rotate -20 time=1 wait=8 smooth global,solid no,miuchiz: mine
+18 1757755246 123284 -10795 41623 2580 0 0 0 19 7 99 0 mz-m01-f-cupboard3bKirtidecreate visible off radius=20;activate rotate -20 time=1 wait=8 smooth global,solid no,miuchiz: mine
 1 1163704072 123166 -10795 41964 2175 0 0 0 17 0 28 0 mz-m01-f-kitchen4create visible off radius=20
-1 1757006682 123284 -10795 41623 2580 0 0 0 19 8 99 0 mz-m01-f-cupboard3bFor Salecreate visible off radius=20;activate rotate -20 time=1 wait=8 smooth global,solid no,miuchiz: mine
 1 1163704071 123252 -10580 41849 2445 0 0 0 17 0 28 0 mz-m01-f-kitchen3create visible off radius=20
 1 1163704072 123298 -10795 41676 2580 0 0 0 19 0 28 0 mz-m01-f-cupboard1bcreate visible off radius=20
 1 1163704071 123346 -10495 41478 2655 0 0 0 16 0 28 0 mz-m01-f-shield1create visible off radius=20
+18 1757755246 123304 -10795 41628 2580 0 0 0 19 7 99 0 mz-m01-f-cupboard2bKirtidecreate visible off radius=20;activate rotate -20 time=1 wait=8 smooth global,solid no,miuchiz: mine
 1 1163704069 123797 -10795 42714 2700 0 0 0 17 0 28 0 mz-m01-i-gmcnsl01create visible off radius=20
 1 1163704069 123747 -10795 42796 2700 0 0 0 14 0 28 0 mz-m01-f-plantcreate visible off radius=20
+18 1757755246 123791 -10722 42564 2700 0 0 0 12 7 169 0 mz-a01-btn01Kirtidecreate visible off radius=20;activate lock, media name=tv url=http://www.miuchiz.com/video/monsterz/video1.wmv res=512 osd=on fx=3d radius=10 osd=no global,miuchiz: mine
 1 1163704070 123797 -10795 42548 2700 0 0 0 16 0 28 0 mz-m01-f-tvdoor1create visible off radius=20
 1 1163704069 123323 -10795 42182 300 0 0 0 14 0 28 0 mz-m01-f-shelfcreate visible off radius=20
 1 1163704071 123544 -10600 42883 1800 0 600 0 15 0 59 0 mz-m01-f-clock2create visible off radius=20,rotate 0 0 -0.00138888888 sync
 1 1163704068 123048 -10795 42306 3150 0 0 0 15 0 28 0 mz-m01-f-chair4create visible off radius=20
+18 1757755246 123791 -10722 42607 2700 0 0 0 12 7 169 0 mz-a01-btn01Kirtidecreate visible off radius=20;activate lock, media name=tv url=http://www.miuchiz.com/video/monsterz/video4.wmv res=512 osd=on fx=3d radius=10 osd=no global,miuchiz: mine
 1 1163704069 123298 -10705 42189 300 0 0 0 14 0 28 0 mz-m01-i-mp301create visible off radius=20
 1 1163704071 123544 -10600 42883 1800 0 0 0 15 0 59 0 mz-m01-f-clock1create visible off radius=20,rotate 0 0 -0.01666666668 sync
-1 1757006682 123281 -10695 42798 1305 0 0 0 17 8 75 0 mz-m01-f-poster17For Salecreate visible off radius=20,picture http://www.miuchiz.com/photos/img3.jpg
+18 1757755246 123791 -10722 42578 2700 0 0 0 12 7 169 0 mz-a01-btn01Kirtidecreate visible off radius=20;activate lock, media name=tv url=http://www.miuchiz.com/video/monsterz/video2.wmv res=512 osd=on fx=3d radius=10 osd=no global,miuchiz: mine
 1 1163704070 123797 -10795 42641 2700 0 0 0 16 0 28 0 mz-m01-f-tvdoor2create visible off radius=20
-1 1757006682 123791 -10722 42578 2700 0 0 0 12 8 169 0 mz-a01-btn01For Salecreate visible off radius=20;activate lock, media name=tv url=http://www.miuchiz.com/video/monsterz/video2.wmv res=512 osd=on fx=3d radius=10 osd=no global,miuchiz: mine
-1 1757006682 123791 -10722 42623 2700 0 0 0 12 8 169 0 mz-a01-btn01For Salecreate visible off radius=20;activate lock, media name=tv url=http://www.miuchiz.com/video/monsterz/video5.wmv res=512 osd=on fx=3d radius=10 osd=no global,miuchiz: mine
-1 1757006682 123807 -10695 42807 2205 0 0 0 17 8 75 0 mz-m01-f-poster17For Salecreate visible off radius=20,picture http://www.miuchiz.com/photos/img1.jpg
-1 1757006682 123791 -10722 42607 2700 0 0 0 12 8 169 0 mz-a01-btn01For Salecreate visible off radius=20;activate lock, media name=tv url=http://www.miuchiz.com/video/monsterz/video4.wmv res=512 osd=on fx=3d radius=10 osd=no global,miuchiz: mine
-1 1757006682 123041 -10695 42216 3150 0 0 0 17 8 75 0 mz-m01-f-poster15For Salecreate visible off radius=20,picture http://www.miuchiz.com/photos/img6.jpg
+18 1757755246 123041 -10695 42216 3150 0 0 0 17 7 75 0 mz-m01-f-poster15Kirtidecreate visible off radius=20,picture http://www.miuchiz.com/photos/img6.jpg
 1 1205336256 123445 -10795 42394 600 0 0 4 15 0 0 56 mz-m01-f-chair10001f80d9101000000000a0000000000000a0a000064000000000000000000000509000000000000006368616972717369746d616c653232
-1 1757006682 123791 -10722 42564 2700 0 0 0 12 8 169 0 mz-a01-btn01For Salecreate visible off radius=20;activate lock, media name=tv url=http://www.miuchiz.com/video/monsterz/video1.wmv res=512 osd=on fx=3d radius=10 osd=no global,miuchiz: mine
 1 1163704069 123048 -10752 42306 2850 0 0 0 14 0 81 0 mz-m01-i-bugfdcreate visible off radius=20;activate tag feed,move 0 -1 0 time=.01 wait=1 global
+18 1757755246 123807 -10695 42807 2205 0 0 0 17 7 75 0 mz-m01-f-poster17Kirtidecreate visible off radius=20,picture http://www.miuchiz.com/photos/img1.jpg
 1 1205336256 123464 -10795 42714 1200 0 0 4 15 0 0 56 mz-m01-f-chair10001f80d9101000000000a0000000000000a0a000064000000000000000000000509000000000000006368616972717369746d616c653232
 1 1163704069 123496 -10795 42479 2700 0 0 0 15 0 28 0 mz-m01-f-mat01dcreate visible off radius=20
+18 1757755246 123791 -10722 42623 2700 0 0 0 12 7 169 0 mz-a01-btn01Kirtidecreate visible off radius=20;activate lock, media name=tv url=http://www.miuchiz.com/video/monsterz/video5.wmv res=512 osd=on fx=3d radius=10 osd=no global,miuchiz: mine
+18 1757755246 123281 -10695 42798 1305 0 0 0 17 7 75 0 mz-m01-f-poster17Kirtidecreate visible off radius=20,picture http://www.miuchiz.com/photos/img3.jpg
+18 1757755246 123791 -10722 42594 2700 0 0 0 12 7 169 0 mz-a01-btn01Kirtidecreate visible off radius=20;activate lock, media name=tv url=http://www.miuchiz.com/video/monsterz/video3.wmv res=512 osd=on fx=3d radius=10 osd=no global,miuchiz: mine
 1 1163704069 123747 -10795 42195 2700 0 0 0 14 0 28 0 mz-m01-f-plantcreate visible off radius=20
 1 1163704068 123012 -10710 42673 2250 0 0 0 14 0 28 0 mz-m01-i-mgz03create visible off radius=20
-1 1757006682 123797 -10795 42596 2700 0 0 0 12 8 50 0 mz-m01-f-tv1For Salecreate visible off radius=20,name tv,miuchiz: mine
-1 1757006682 123775 -10795 42452 2700 0 0 0 12 8 106 0 mz-m01-f-tc2For Salecreate visible off radius=20;activate lock,rotate 20 time=.83 wait=8 smooth global, solid no;miuchiz: mine
-1 1757006682 123205 -10695 42266 555 0 0 0 17 8 75 0 mz-m01-f-poster17For Salecreate visible off radius=20,picture http://www.miuchiz.com/photos/img2.jpg
-1 1757006682 123775 -10795 42339 2700 0 0 0 12 8 107 0 mz-m01-f-tc1For Salecreate visible off radius=20;activate lock,rotate -20 time=.83 wait=8 smooth global, solid no;miuchiz: mine
+18 1757755246 123775 -10795 42339 2700 0 0 0 12 7 107 0 mz-m01-f-tc1Kirtidecreate visible off radius=20;activate lock,rotate -20 time=.83 wait=8 smooth global, solid no;miuchiz: mine
+18 1757755246 123775 -10795 42452 2700 0 0 0 12 7 106 0 mz-m01-f-tc2Kirtidecreate visible off radius=20;activate lock,rotate 20 time=.83 wait=8 smooth global, solid no;miuchiz: mine
 1 1163704069 123628 -10595 42123 3450 0 0 0 16 0 28 0 mz-m01-f-shield2create visible off radius=20
-1 1757006682 123791 -10722 42594 2700 0 0 0 12 8 169 0 mz-a01-btn01For Salecreate visible off radius=20;activate lock, media name=tv url=http://www.miuchiz.com/video/monsterz/video3.wmv res=512 osd=on fx=3d radius=10 osd=no global,miuchiz: mine
+18 1757755246 123205 -10695 42266 555 0 0 0 17 7 75 0 mz-m01-f-poster17Kirtidecreate visible off radius=20,picture http://www.miuchiz.com/photos/img2.jpg
 1 1163704069 123009 -10740 42266 150 0 0 0 13 0 42 0 mz-m01-f-aqu2create visible off radius=20,rotate 0 13 0
 1 1163704070 123797 -10795 42394 2700 0 0 0 14 0 28 0 mz-m01-f-tcasecreate visible off radius=20
 1 1163704071 123544 -10645 42888 1800 0 0 0 14 0 28 0 mz-m01-f-clockcreate visible off radius=20
+18 1757755246 123797 -10795 42596 2700 0 0 0 12 7 50 0 mz-m01-f-tv1Kirtidecreate visible off radius=20,name tv,miuchiz: mine
 1 1168285800 123915 -1984 131228 2850 0 0 0 16 0 0 0 mz-p01-p-dtree02
 1 1163714060 124794 -17717 62213 3300 0 0 0 14 0 28 0 mz-m01-f-shelfcreate visible off radius=20
 1 1757006682 124734 -17643 62798 2250 0 0 0 12 8 169 0 mz-a01-btn01For Salecreate visible off radius=20;activate lock, media name=tv url=http://www.miuchiz.com/video/monsterz/video5.wmv res=512 osd=on fx=3d radius=10 osd=no global,miuchiz: mine
@@ -14575,46 +14613,46 @@ propdump version 4
 2 1155673862 -166200 -17300 -32750 900 0 0 0 12 0 0 0 sv-cvpillar2
 2 1164395313 -166443 -16629 -23935 1050 60 0 0 13 0 0 0 mz-a01-p-oak9
 1 1756762877 -165704 -9815 19479 900 0 0 0 2 0 18 0 sbcreate visible off
+40 1758112949 -165038 -11960 20895 0 0 0 0 15 8 107 0 mz-p01-f-shelf3Palominocreate visible off radius=20;activate lock, rotate 20 time=.83 wait=8 smooth global, solid no,miuchiz: mine
 1 1756603960 -165155 -11944 20869 0 0 0 0 17 0 28 0 mz-p01-i-gmcnsl01create visible off radius=20
 1 1756762874 -165705 -9815 20429 900 0 0 0 2 0 18 0 sbcreate visible off
-1 1757006676 -165150 -11889 20876 0 0 0 0 15 8 136 0 mz-p01-i-plyr02For Salecreate visible off radius=20;activate lock, media http://objects.miuchiz.com/audio/pawz/audio1.mp3 fx=3d  loop=9999 global;miuchiz: mine
 1 1756603960 -165056 -11844 20883 0 0 0 0 14 0 28 0 mz-p01-i-mp301create visible off radius=20
+40 1758112949 -165150 -11889 20876 0 0 0 0 15 8 136 0 mz-p01-i-plyr02Palominocreate visible off radius=20;activate lock, media http://objects.miuchiz.com/audio/pawz/audio1.mp3 fx=3d  loop=9999 global;miuchiz: mine
 1 1756603960 -165114 -11960 20883 0 0 0 0 15 0 28 0 mz-p01-f-shelf1create visible off radius=20
-1 1757006676 -165191 -11960 20897 0 0 0 0 15 8 108 0 mz-p01-f-shelf2For Salecreate visible off radius=20;activate lock, rotate -20 time=.83 wait=8 smooth global, solid no,miuchiz: mine
-1 1757006676 -165038 -11960 20895 0 0 0 0 15 8 107 0 mz-p01-f-shelf3For Salecreate visible off radius=20;activate lock, rotate 20 time=.83 wait=8 smooth global, solid no,miuchiz: mine
+40 1758112949 -165191 -11960 20897 0 0 0 0 15 8 108 0 mz-p01-f-shelf2Palominocreate visible off radius=20;activate lock, rotate -20 time=.83 wait=8 smooth global, solid no,miuchiz: mine
 1 1756603960 -165286 -11960 20894 0 0 0 0 14 0 28 0 mz-p01-f-plantcreate visible off radius=20
-1 1757006676 -165354 -12358 21590 900 0 0 0 15 8 101 0 mz-p02-mansndr1For Salecreate visible off radius=40;activate lock, rotate 0 -14 0 time=1 wait=10 global smooth,miuchiz: mine
 1 1756603960 -165054 -12344 21735 1800 0 0 0 6 0 28 0 2b1106create visible off radius=20
-1 1757006676 -165072 -11733 21542 0 0 0 0 5 8 43 0 b_lgtFor Salecreate name light2,visible off;miuchiz:mine
 1 1756603960 -165281 -11858 21782 0 0 0 3 0 0 0 220 000000000000000000000000cdcc4c3ecdcc4cbecdcc4c3e000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000344300003443000034430000000000000000000000000000000000000000000000000ad7a33c0ad7a33c0ad7a33c8fc2f53c8fc2f53c8fc2f53c64000000640000000600c8000000e8030000000000000000000066330000663300000000803f000200020d00040000000000000000000000007033323a6d33325f73667430326665656464
-1 1757006676 -165083 -12354 21714 1800 0 0 0 18 8 116 0 mz-p01-f-fridge01bFor Salecreate visible off radius=20;activate lock,rotate 0 14 0 time=1 wait=5 global smooth, tag vapor global,miuchiz: mine
-1 1757006676 -165242 -12354 21998 1800 0 0 0 18 8 106 0 mz-p01-f-cupboard3For Salecreate visible off radius=20;activate lock, rotate -20 time=1 wait=8 smooth global, solid no,miuchiz: mine
+40 1758112949 -165361 -11958 21290 2700 0 0 0 15 8 101 0 mz-p02-mansndr1Palominocreate visible off radius=40;activate lock, rotate 0 -14 0 time=1 wait=10 global smooth,miuchiz: mine
 1 1756603960 -165053 -12305 21720 0 0 0 3 0 0 0 215 0000000000000000000000000000000000000000000000000000000000000000000000803e000000000000003f00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000400000004000000040000080400000804000008040fa000000fa0000000100b80b0000e8030000f4010000dc0500009fa4d7009fa4d700cdcc4c3e010d0001070005000000000000000000000000635f736f6674317661706f7200
+40 1758112949 -165300 -11960 21007 900 0 0 0 16 8 117 0 mz-a01-i-watrcanPalominocreate visible off radius=20;activate lock, move 0 .6 -.05 wait=1, rotate 0 0 -3 time=1 wait=.6 global, miuchiz: mine
+40 1758112949 -165083 -12354 21714 1800 0 0 0 18 8 116 0 mz-p01-f-fridge01cPalominocreate visible off radius=20;activate lock,rotate 0 14 0 time=1 wait=5 global smooth, tag vapor global,miuchiz: mine
+40 1758112949 -165354 -12358 21590 900 0 0 0 15 8 101 0 mz-p02-mansndr1Palominocreate visible off radius=40;activate lock, rotate 0 -14 0 time=1 wait=10 global smooth,miuchiz: mine
 1 1756603960 -165114 -12354 21441 2700 0 0 0 12 0 28 0 mz-p01-f-rugcreate visible off radius=20
+40 1758112949 -165072 -11733 21542 0 0 0 0 5 8 43 0 b_lgtPalominocreate name light2,visible off;miuchiz:mine
 1 1756603960 -165130 -12360 21441 2730 0 0 0 17 0 28 0 mz-p01-f-count02acreate visible off radius=20
 1 1756603960 -165292 -11904 21778 900 0 0 0 13 0 57 0 mz-p01-f-hm3acreate visible off radius=20,move 0 0.01 0  time=0.1 loop
+40 1758112949 -165072 -12183 21542 0 0 0 0 5 8 43 0 b_lgtPalominocreate name light1,visible off;miuchiz:mine
 1 1756603960 -165374 -12269 21621 2700 0 0 0 12 0 129 0 mz-m01-dbellcreate visible off radius=40;activate media url=http://MiuServer.mooo.com/objects/sounds/dbell.wav fx=3d radius=20 vol=100 global
 1 1756762865 -165704 -9815 21428 900 0 0 0 2 0 18 0 sbcreate visible off
 1 1756603960 -165293 -11960 21801 900 0 0 0 12 0 28 0 mz-p01-f-hm1create visible off radius=20
 1 1756603960 -165292 -11899 21778 900 0 0 0 12 0 42 0 mz-p01-f-hm2create visible off radius=20;rotate 30 0 0
-1 1757006676 -165360 -11958 21590 2700 0 0 0 15 8 100 0 mz-p02-mansndr2For Salecreate visible off radius=40;activate lock, rotate 0 14 0 time=1 wait=10 global smooth,miuchiz: mine
-1 1757006676 -165072 -12183 21542 0 0 0 0 5 8 43 0 b_lgtFor Salecreate name light1,visible off;miuchiz:mine
+40 1758112949 -165360 -11958 21590 2700 0 0 0 15 8 100 0 mz-p02-mansndr2Palominocreate visible off radius=40;activate lock, rotate 0 14 0 time=1 wait=10 global smooth,miuchiz: mine
+40 1758112949 -165083 -12354 21714 1800 0 0 0 18 8 116 0 mz-p01-f-fridge01bPalominocreate visible off radius=20;activate lock,rotate 0 14 0 time=1 wait=5 global smooth, tag vapor global,miuchiz: mine
 1 1756603960 -165142 -12458 21453 2700 0 0 0 17 0 28 0 mz-p01-b-cabinetscreate visible off radius=20
-1 1757006676 -165355 -12358 21290 900 0 0 0 15 8 100 0 mz-p02-mansndr2For Salecreate visible off radius=40;activate lock, rotate 0 14 0 time=1 wait=10 global smooth,miuchiz: mine
-1 1757006676 -165300 -11960 21007 900 0 0 0 16 8 117 0 mz-a01-i-watrcanFor Salecreate visible off radius=20;activate lock, move 0 .6 -.05 wait=1, rotate 0 0 -3 time=1 wait=.6 global, miuchiz: mine
 1 1756603960 -165280 -11847 21807 0 0 0 3 0 0 0 225 00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000803f00000000000000000000803f0000000000000000000000000000f04200000000000000000000f0420000000000000000000000000000000000000000000000000000803f0000803f0000803f0000803f0000803f0000803fc8000000c80000000100c8000000e8030000000000000000000066330000663300000000803f000000031200040000000000000000000000006d7a2d7030312d692d68616d7374657266646665656464
 1 1756603960 -165044 -12309 21741 1800 0 0 0 6 0 28 0 2b1105create visible off radius=20
-1 1757006676 -165361 -11958 21290 2700 0 0 0 15 8 101 0 mz-p02-mansndr1For Salecreate visible off radius=40;activate lock, rotate 0 -14 0 time=1 wait=10 global smooth,miuchiz: mine
-1 1757006676 -165268 -11912 21763 750 0 0 0 18 8 102 0 mz-p01-i-hamsterfdFor Salecreate visible off radius=20;activate lock, tag feed,move 0 -1 0 time=.01 wait=1 global, miuchiz: mine
 1 1756603960 -165053 -12275 21746 1800 0 0 0 6 0 28 0 2b1102create visible off radius=20
+40 1758112949 -165268 -11912 21763 750 0 0 0 18 8 102 0 mz-p01-i-hamsterfdPalominocreate visible off radius=20;activate lock, tag feed,move 0 -1 0 time=.01 wait=1 global, miuchiz: mine
+40 1758112949 -165242 -12354 21998 1800 0 0 0 18 8 106 0 mz-p01-f-cupboard3Palominocreate visible off radius=20;activate lock, rotate -20 time=1 wait=8 smooth global, solid no,miuchiz: mine
 1 1756603960 -165047 -12354 21715 1800 0 0 0 18 0 28 0 mz-p01-f-fridge01acreate visible off radius=20
-1 1757006676 -165083 -12354 21714 1800 0 0 0 18 8 116 0 mz-p01-f-fridge01cFor Salecreate visible off radius=20;activate lock,rotate 0 14 0 time=1 wait=5 global smooth, tag vapor global,miuchiz: mine
+40 1758112949 -165355 -12358 21290 900 0 0 0 15 8 100 0 mz-p02-mansndr2Palominocreate visible off radius=40;activate lock, rotate 0 14 0 time=1 wait=10 global smooth,miuchiz: mine
 1 1756603960 -165044 -12360 21262 0 0 0 4 15 0 0 56 mz-p01-f-stool10001f80d910300003200f6ff00000000000a0a0000640000000000000000000005090000000000000073746f6f6c717369746d616c653200
 1 1756762862 -165704 -9815 22426 900 0 0 0 2 0 18 0 sbcreate visible off
 1 1756603960 -165274 -12354 22013 1800 0 0 0 18 0 28 0 mz-p01-f-cupboard1create visible off radius=20
-1 1757006676 -165243 -12354 22015 1800 0 0 0 18 8 106 0 mz-p01-f-cupboard2For Salecreate visible off radius=20;activate lock, rotate -20 time=1 wait=8 smooth global, solid no,miuchiz: mine
+40 1758112949 -165243 -12354 22015 1800 0 0 0 18 8 106 0 mz-p01-f-cupboard2Palominocreate visible off radius=20;activate lock, rotate -20 time=1 wait=8 smooth global, solid no,miuchiz: mine
 1 1756603960 -165140 -11960 22000 0 0 0 0 15 0 28 0 mz-p01-f-shelf6create visible off radius=20
-1 1757006676 -165034 -11964 22597 900 0 0 0 16 8 103 0 mz-p02-wardrbdr2For Salecreate visible off radius=20; activate lock, rotate 0 11 0 time=1.4 wait=12 smooth global,miuchiz: mine
+40 1758112949 -165034 -11964 22597 900 0 0 0 16 8 103 0 mz-p02-wardrbdr2Palominocreate visible off radius=20; activate lock, rotate 0 11 0 time=1.4 wait=12 smooth global,miuchiz: mine
 1 1756762853 -165704 -9815 23426 900 0 0 0 2 0 18 0 sbcreate visible off
 2 1155613975 -165950 -18500 -40150 2700 0 0 0 10 0 0 0 sv-cave5-2
 1 1155670702 -165600 -17300 -36300 0 0 0 2 0 0 0 51 0000dc420000f0410000dc420001010000803f0000803f1800343256001400fa00000000000000000000000000000000000000
@@ -14626,79 +14664,79 @@ propdump version 4
 1 1756603960 -164395 -11960 20905 0 0 0 0 14 0 28 0 mz-p01-f-plantcreate visible off radius=20
 1 1756603960 -164661 -12358 20541 900 0 0 0 14 0 28 0 mz-p02-conservcreate visible off radius=80
 1 1756762873 -164707 -9815 20429 900 0 0 0 2 0 18 0 sbcreate visible off
-1 1757006676 -164712 -12413 21440 900 0 0 0 19 8 39 0 mz-p01-salesgn-pawzFor Salecreate sign bcolor=black;miuchiz: home3
 1 1756603960 -164661 -12358 21442 900 0 0 0 16 0 0 0 mz-p02-mansion2a
 1 1756603960 -164910 -12358 21116 900 0 0 0 15 0 28 0 mz-p02-mansnwllcreate visible off radius=20
 1 1756603960 -164558 -12312 21641 1200 0 0 0 14 0 28 0 mz-p01-f-plantcreate visible off radius=20
-1 1757006676 -164889 -12353 21692 2190 0 0 0 21 8 73 0 mz-p01-f-count01sink2For Salecreate visible off radius=20;activate lock,tag sink global, miuchiz: mine
 1 1756603960 -164565 -12354 21643 2700 0 0 0 11 0 28 0 mz-p01-f-nscreate visible off radius=20
+40 1758112949 -164774 -11863 21557 900 0 0 0 16 8 79 0 mz-p01-f-poster6Palominocreate visible off radius=20,picture http://objects.miuchiz.com/photos/img1.jpg
 1 1756603960 -164945 -12360 21242 3180 0 0 0 17 0 28 0 mz-p01-f-count01bcreate visible off radius=20
 1 1756603960 -164919 -11960 21441 0 0 0 0 12 0 28 0 mz-p01-f-rugcreate visible off radius=20
 1 1756603960 -164910 -12358 21788 900 0 0 0 15 0 28 0 mz-p02-mansnwllcreate visible off radius=20
+40 1758112949 -164779 -11844 21735 900 0 0 0 19 8 105 0 mz-a01-b-lgtswitch1Palominocreate visible off radius=20;activate lock,light radius=15 brightness=.3 name=light2 global;miuchiz: mine
+40 1758112949 -164944 -11892 21472 1650 0 0 0 14 8 91 0 mz-p01-i-mgz01Palominocreate visible off radius=20; activate url http://objects.miuchiz.com/books/pawz/pawz2.html
+40 1758112949 -164823 -11863 21359 2700 0 0 0 16 8 79 0 mz-p01-f-poster9Palominocreate visible off radius=20,picture http://objects.miuchiz.com/photos/img3.jpg
 1 1756603960 -164164 -11960 21399 0 0 0 0 12 0 28 0 mz-p01-f-rugcreate visible off radius=20
-1 1757006676 -164536 -12269 21476 900 0 0 0 19 8 94 0 mz-a01-b-lgtswitch0For Salecreate visible off radius=20;activate lock,light brightness=0 name=light1 global;miuchiz: mine
-1 1757006676 -164327 -11709 21295 0 0 0 0 5 8 43 0 b_lgtFor Salecreate name light2,visible off;miuchiz:mine
 1 1756603960 -164936 -12354 21727 2850 0 0 0 17 0 28 0 mz-p01-f-count01acreate visible off radius=20
-1 1757006676 -164774 -11863 21557 900 0 0 0 16 8 79 0 mz-p01-f-poster6For Salecreate visible off radius=20,picture http://objects.miuchiz.com/photos/img1.jpg
 1 1756762866 -164707 -9815 21429 900 0 0 0 2 0 18 0 sbcreate visible off
 1 1756603960 -164823 -12354 21600 2700 0 0 0 16 0 28 0 mz-p01-f-range01create visible off radius=20
-1 1757006676 -164822 -11863 21558 2700 0 0 0 16 8 79 0 mz-p01-f-poster9For Salecreate visible off radius=20,picture http://objects.miuchiz.com/photos/img4.jpg
+40 1758112949 -164779 -11844 21728 900 0 0 0 19 8 94 0 mz-a01-b-lgtswitch0Palominocreate visible off radius=20;activate lock,light brightness=0 name=light2 global;miuchiz: mine
+40 1758112949 -164712 -12413 21440 900 0 0 0 19 8 39 0 mz-p01-salesgn-pawzPalominocreate sign bcolor=black;miuchiz: home3
 1 1756603960 -164982 -12354 21742 2850 0 0 0 17 0 28 0 mz-p01-f-count01acreate visible off radius=20
 1 1756603960 -164293 -11960 21218 600 0 0 4 15 0 0 62 mz-p01-f-chair10001f80d910300003200320000000000000a0a000064000000000000000000000b0900000000000000636f6d6679206368616972717369746d616c653200
-1 1757006676 -164823 -11863 21359 2700 0 0 0 16 8 79 0 mz-p01-f-poster9For Salecreate visible off radius=20,picture http://objects.miuchiz.com/photos/img3.jpg
-1 1757006676 -164327 -12159 21295 0 0 0 0 5 8 43 0 b_lgtFor Salecreate name light1,visible off;miuchiz:mine
+40 1758112949 -164327 -11709 21295 0 0 0 0 5 8 43 0 b_lgtPalominocreate name light2,visible off;miuchiz:mine
+40 1758112949 -164536 -12269 21485 900 0 0 0 19 8 105 0 mz-a01-b-lgtswitch1Palominocreate visible off radius=20;activate lock,light radius=15 brightness=.3 name=light1 global;miuchiz: mine
 1 1756603960 -164928 -11960 21692 2700 0 0 4 14 0 0 56 mz-p01-f-couch0001f80d9103ceff37003200ac0d0000000a0a00006400000000000000000000050900000000000000636f756368717369746d616c653274
 1 1756603960 -164922 -11957 21471 1800 0 0 0 15 0 28 0 mz-p01-f-table1create visible off radius=20
-1 1757006676 -164906 -11892 21467 2100 0 0 0 14 8 91 0 mz-p01-i-mgz02For Salecreate visible off radius=20; activate url http://objects.miuchiz.com/books/pawz/pawz1.html
+40 1758112949 -164774 -11863 21311 900 0 0 0 16 8 79 0 mz-p01-f-poster6Palominocreate visible off radius=20,picture http://objects.miuchiz.com/photos/img2.jpg
 1 1756603960 -164893 -12293 21688 0 0 0 3 0 0 0 220 00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000a0c000000000000000000000a0c0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000008fc2f53ccdcc4c3d8fc2f53ccdcccc3d0000003fcdcccc3d0a000000640000000100fa000000881300000000000001000000ffffff009aa4e7000000803f000300010d00040000000000000000000000007033323a6d33325f736674303273696e6b00
+40 1758112949 -164001 -11960 21987 1800 0 0 0 12 8 108 0 mz-p01-f-tc2Palominocreate visible off radius=20;activate lock, rotate -20 time=.83 wait=8 smooth global, solid no,miuchiz: mine
+40 1758112949 -164906 -11892 21467 2100 0 0 0 14 8 91 0 mz-p01-i-mgz02Palominocreate visible off radius=20; activate url http://objects.miuchiz.com/books/pawz/pawz1.html
 1 1756603960 -164939 -11960 21246 2700 0 0 4 14 0 0 56 mz-p01-f-couch0001f80d9103ceff37003200ac0d0000000a0a00006400000000000000000000050900000000000000636f756368717369746d616c653274
 1 1756603960 -164721 -12463 21667 900 0 0 0 16 0 28 0 mz-p01-b-countercreate visible off radius=20
-1 1757006676 -164774 -11863 21311 900 0 0 0 16 8 79 0 mz-p01-f-poster6For Salecreate visible off radius=20,picture http://objects.miuchiz.com/photos/img2.jpg
 1 1756603960 -164557 -12613 21427 900 0 0 0 13 0 0 0 mz-b02-base1a
+40 1758112949 -164822 -11863 21558 2700 0 0 0 16 8 79 0 mz-p01-f-poster9Palominocreate visible off radius=20,picture http://objects.miuchiz.com/photos/img4.jpg
 1 1756603960 -164953 -12360 21366 0 0 0 4 15 0 0 56 mz-p01-f-stool10001f80d910300003200f6ff00000000000a0a0000640000000000000000000005090000000000000073746f6f6c717369746d616c653200
-1 1757006676 -164001 -11960 21987 1800 0 0 0 12 8 108 0 mz-p01-f-tc2For Salecreate visible off radius=20;activate lock, rotate -20 time=.83 wait=8 smooth global, solid no,miuchiz: mine
-1 1757006676 -164110 -11960 21989 1800 0 0 0 12 8 107 0 mz-p01-f-tc3For Salecreate visible off radius=20;activate lock, rotate 20 time=.83 wait=8 smooth global, solid no,miuchiz: mine
-1 1757006676 -164536 -12269 21485 900 0 0 0 19 8 105 0 mz-a01-b-lgtswitch1For Salecreate visible off radius=20;activate lock,light radius=15 brightness=.3 name=light1 global;miuchiz: mine
 1 1756603960 -164303 -11960 21632 1200 0 0 4 15 0 0 62 mz-p01-f-chair10001f80d910300003200320000000000000a0a000064000000000000000000000b0900000000000000636f6d6679206368616972717369746d616c653200
-1 1757006676 -164944 -11892 21472 1650 0 0 0 14 8 91 0 mz-p01-i-mgz01For Salecreate visible off radius=20; activate url http://objects.miuchiz.com/books/pawz/pawz2.html
+40 1758112949 -164536 -12269 21476 900 0 0 0 19 8 94 0 mz-a01-b-lgtswitch0Palominocreate visible off radius=20;activate lock,light brightness=0 name=light1 global;miuchiz: mine
 1 1756603960 -164839 -12354 21654 2325 0 0 0 17 0 28 0 mz-p01-f-count01acreate visible off radius=20
 1 1756603960 -164661 -12358 21442 900 0 0 0 13 0 28 0 mz-p02-hottubcreate visible off radius=40
+40 1758112949 -164327 -12159 21295 0 0 0 0 5 8 43 0 b_lgtPalominocreate name light1,visible off;miuchiz:mine
 1 1756603960 -164661 -12358 21442 900 0 0 0 16 0 28 0 mz-p02-mansion2bcreate visible off radius=80
 1 1756603960 -164661 -11909 21739 0 0 0 2 0 0 0 51 0000904100001041000060410000000000803f0000803f5800404060000100c409000000000000000000000000000000000000
-1 1757006676 -164779 -11844 21735 900 0 0 0 19 8 105 0 mz-a01-b-lgtswitch1For Salecreate visible off radius=20;activate lock,light radius=15 brightness=.3 name=light2 global;miuchiz: mine
-1 1757006676 -164779 -11844 21728 900 0 0 0 19 8 94 0 mz-a01-b-lgtswitch0For Salecreate visible off radius=20;activate lock,light brightness=0 name=light2 global;miuchiz: mine
+40 1758112949 -164889 -12353 21692 2190 0 0 0 21 8 73 0 mz-p01-f-count01sink2Palominocreate visible off radius=20;activate lock,tag sink global, miuchiz: mine
+40 1758112949 -164110 -11960 21989 1800 0 0 0 12 8 107 0 mz-p01-f-tc3Palominocreate visible off radius=20;activate lock, rotate 20 time=.83 wait=8 smooth global, solid no,miuchiz: mine
 1 1756603960 -164551 -11955 22160 0 0 0 4 13 0 0 53 mz-p01-f-bed10001f80d9103000002000a0084030000000a0a00006400000000000000000000030800000000000000626564646f67736c6565706c
-1 1757006676 -164886 -11964 22398 900 0 0 0 16 8 102 0 mz-p02-wardrbdr1For Salecreate visible off radius=20;activate lock, rotate 0 11 0 time=1.4 wait=12 smooth global,miuchiz: mine
+40 1758112950 -164983 -11844 22037 1800 0 0 0 16 8 79 0 mz-p01-f-poster2Palominocreate visible off radius=20,picture http://objects.miuchiz.com/photos/img5.jpg
 1 1756603960 -164572 -11784 22019 1800 0 0 0 15 0 59 0 mz-p01-f-clock2create visible off radius=20,rotate 0 0 -0.01666666668 sync
-1 1757006676 -164103 -11844 22621 1800 0 0 0 16 8 79 0 mz-p01-f-poster1For Salecreate visible off radius=20,picture http://objects.miuchiz.com/photos/img6.jpg
+40 1758112949 -164453 -11844 22049 0 0 0 0 16 8 79 0 mz-p01-f-poster5Palominocreate visible off radius=20,picture http://objects.miuchiz.com/photos/img7.jpg
 1 1756603960 -164056 -11960 22011 1800 0 0 0 12 0 28 0 mz-p01-f-tc1create visible off radius=20
-1 1757006676 -164577 -11709 22342 0 0 0 0 5 8 43 0 b_lgtFor Salecreate name light2,visible off;miuchiz:mine
 1 1756603960 -164207 -11960 22520 0 0 0 4 16 0 0 51 mz-p01-f-vanity20001f80d9103000024000d0000000000000a0a00006400000000000000000000000900000000000000717369746d616c653200
 1 1756603960 -164761 -11815 22203 900 0 0 0 15 0 28 0 mz-p01-f-clock4create visible off radius=20
 1 1756603960 -164810 -12258 22786 0 0 0 3 0 0 0 216 00000000cdcccc3d00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000b44200000000000000000000b4420000000000003443000000000000000000000000000000000000000000000000cdcccc3dcdcccc3dcdcccc3dcdcc4c3f0000803fcdcc4c3f640000006400000002002c010000000000006400000001000000ffffff00eaf0ff000000803f000300000d00000000000000000000000000007033323a6d33325f736674303372
 1 1756603960 -164662 -12258 22587 0 0 0 3 0 0 0 234 9a9999bf00000000cdcc0cc09a99993f00000000cdcc0c40000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000b44200000000000000000000b4420000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000400000004000000040c8000000200300000600dc05000000000000c8000000f4010000ffffff00eaf0ff000000803f010100021f00000000000000000000000000006d7a2d6d30312d706f6e647774723a6d5f73706f6e67655f726e645f32353600
-1 1757006676 -164074 -11909 22590 1800 0 0 0 16 8 105 0 mz-p01-f-toybox2For Salecreate visible off radius=20;activate lock, rotate -20 0 0 time=.83 wait=8 global, solid no,miuchiz: mine
-1 1757006676 -164453 -11844 22049 0 0 0 0 16 8 79 0 mz-p01-f-poster5For Salecreate visible off radius=20,picture http://objects.miuchiz.com/photos/img7.jpg
+40 1758112949 -164051 -11960 22070 0 0 0 0 16 8 54 0 mz-p01-f-drawersPalominocreate visible off radius=20;activate;miuchiz: storage
 1 1756603960 -164507 -11955 22405 1800 0 0 0 12 0 28 0 mz-p01-f-rugcreate visible off radius=20
-1 1757006676 -164051 -11960 22070 0 0 0 0 16 8 54 0 mz-p01-f-drawersFor Salecreate visible off radius=20;activate;miuchiz: storage
-1 1757006676 -164953 -11934 22535 1350 0 0 0 18 8 54 0 mz-p01-f-mannequinFor Salecreate visible off radius=20;activate;miuchiz: storage
+40 1758112950 -164654 -11844 22049 0 0 0 0 16 8 79 0 mz-p01-f-poster5Palominocreate visible off radius=20,picture http://objects.miuchiz.com/photos/img8.jpg
 1 1756603960 -164572 -11784 22024 1800 0 600 0 15 0 59 0 mz-p01-f-clock3create visible off radius=20,rotate 0 0 -0.00138888888 sync
+40 1758112950 -164577 -12159 22342 0 0 0 0 5 8 43 0 b_lgtPalominocreate name light1,visible off;miuchiz:mine
+40 1758112949 -164074 -11909 22590 1800 0 0 0 16 8 105 0 mz-p01-f-toybox2Palominocreate visible off radius=20;activate lock, rotate -20 0 0 time=.83 wait=8 global, solid no,miuchiz: mine
 1 1756603960 -164961 -11964 22498 2700 0 0 0 16 0 28 0 mz-p02-wardrobe1create visible off radius=20
+40 1758112950 -164953 -11934 22535 1350 0 0 0 18 8 54 0 mz-p01-f-mannequinPalominocreate visible off radius=20;activate;miuchiz: storage
 1 1756603960 -164757 -11775 22203 900 0 0 0 15 0 59 0 mz-p01-f-clock5create visible off radius=20,rotate 0 0 -0.01666666668 sync
 1 1756603960 -164207 -11960 22620 1800 0 0 0 16 0 28 0 mz-p01-f-vanity1create visible off radius=20
+40 1758112949 -164103 -11844 22621 1800 0 0 0 16 8 79 0 mz-p01-f-poster1Palominocreate visible off radius=20,picture http://objects.miuchiz.com/photos/img6.jpg
 1 1756603960 -164636 -11960 22657 0 0 0 0 13 0 50 0 mz-p01-f-compcreate visible off radius=20; activate url mailto:
-1 1757006676 -164983 -11844 22037 1800 0 0 0 16 8 79 0 mz-p01-f-poster2For Salecreate visible off radius=20,picture http://objects.miuchiz.com/photos/img5.jpg
 1 1756603960 -164571 -11829 22030 1800 0 0 0 15 0 28 0 mz-p01-f-clock1create visible off radius=20
 1 1756603960 -164662 -12183 22587 0 0 0 3 0 0 0 244 000000400000000000000040000000c0000000c0000000c00000000000000000000000000000000000cdcccc3d00000000000000000000003f00000000000000000000803f000000000000000000000000000000000000000000000000000000000000b44200000000000000000000b4420000000000000000cdcc4c3dcdcc4c3dcdcc4c3d9a99193f9a99193f9a99193f32000000320000000300900100000000000032000000960000007ca6e400ffffff000000803f02010000290000000000000000000000000000626d672d627562626c653032332c626d672d627562626c653033382c626d672d627562626c6530343600
 1 1756762861 -164706 -9815 22426 900 0 0 0 2 0 18 0 sbcreate visible off
-1 1757006676 -164418 -11913 22091 0 0 0 0 14 8 91 0 mz-p01-f-diaryFor Salecreate visible off radius=20; activate url http://objects.miuchiz.com/books/pawz/pawz3.html
+40 1758112950 -164418 -11913 22091 0 0 0 0 14 8 91 0 mz-p01-f-diaryPalominocreate visible off radius=20; activate url http://objects.miuchiz.com/books/pawz/pawz3.html
 1 1756603960 -164616 -11960 22700 1800 0 0 4 15 0 0 56 mz-p01-f-chair20001f80d9103000028000a0000000000000a0a000064000000000000000000000509000000000000006368616972717369746d616c653232
 1 1756603960 -164513 -12258 22788 0 0 0 3 0 0 0 216 00000000cdcccc3d00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000b44200000000000000000000b4420000000000003443000000000000000000000000000000000000000000000000cdcccc3dcdcccc3dcdcccc3dcdcc4c3f0000803fcdcc4c3f640000006400000002002c010000000000006400000001000000ffffff00eaf0ff000000803f000300000d00000000000000000000000000007033323a6d33325f736674303372
-1 1757006676 -164577 -12159 22342 0 0 0 0 5 8 43 0 b_lgtFor Salecreate name light1,visible off;miuchiz:mine
-1 1757006676 -164654 -11844 22049 0 0 0 0 16 8 79 0 mz-p01-f-poster5For Salecreate visible off radius=20,picture http://objects.miuchiz.com/photos/img8.jpg
+40 1758112949 -164886 -11964 22398 900 0 0 0 16 8 102 0 mz-p02-wardrbdr1Palominocreate visible off radius=20;activate lock, rotate 0 11 0 time=1.4 wait=12 smooth global,miuchiz: mine
 1 1756603960 -164418 -11957 22091 0 0 0 0 11 0 28 0 mz-p01-f-nscreate visible off radius=20
 1 1756603960 -164757 -11775 22203 900 0 600 0 15 0 59 0 mz-p01-f-clock6create visible off radius=20,rotate 0 0 -0.00138888888 sync
 1 1756603960 -164662 -11909 22536 0 0 0 2 0 0 0 51 0000e040000010410000803f0001010000803f0000803f5800404060000100c409000000000000000000000000000000000000
+40 1758112949 -164577 -11709 22342 0 0 0 0 5 8 43 0 b_lgtPalominocreate name light2,visible off;miuchiz:mine
 1 1756603960 -164074 -11960 22559 1800 0 0 0 16 0 28 0 mz-p01-f-toybox1create visible off radius=20
 1 1756762854 -164707 -9815 23426 900 0 0 0 2 0 18 0 sbcreate visible off
 2 1155675079 -164850 -18200 -40700 0 300 0 0 15 0 0 0 mz-m01-b-torch1
@@ -14710,16 +14748,16 @@ propdump version 4
 1 1756762880 -163707 -9815 19479 900 0 0 0 2 0 18 0 sbcreate visible off
 1 1756762872 -163707 -9815 20428 900 0 0 0 2 0 18 0 sbcreate visible off
 1 1756603960 -163398 -12404 20246 1050 0 0 0 13 0 0 0 mz-a01-p-oak6
-1 1757006676 -163992 -11948 21429 2700 0 0 0 12 8 169 0 mz-a01-btn02For Salecreate visible off radius=20;activate lock, media name=tv url=http://objects.miuchiz.com/video/pawz/video2.wmv res=512 osd=on fx=3d radius=10 osd=no global,miuchiz: mine
-1 1757006676 -163991 -11948 21448 2700 0 0 0 12 8 169 0 mz-a01-btn02For Salecreate visible off radius=20;activate lock, media name=tv url=http://objects.miuchiz.com/video/pawz/video4.wmv res=512 osd=on fx=3d radius=10 osd=no global,miuchiz: mine
-1 1757006676 -163963 -12358 21290 2700 0 0 0 15 8 101 0 mz-p02-mansndr1For Salecreate visible off radius=40;activate lock, rotate 0 -14 0 time=1 wait=10 global smooth,miuchiz: mine
-1 1757006676 -163992 -11948 21438 2700 0 0 0 12 8 169 0 mz-a01-btn02For Salecreate visible off radius=20;activate lock, media name=tv url=http://objects.miuchiz.com/video/pawz/video3.wmv res=512 osd=on fx=3d radius=10 osd=no global,miuchiz: mine
-1 1757006676 -163992 -11948 21420 2700 0 0 0 12 8 169 0 mz-a01-btn02For Salecreate visible off radius=20;activate lock, media name=tv url=http://objects.miuchiz.com/video/pawz/video1.wmv res=512 osd=on fx=3d radius=10 osd=no global,miuchiz: mine
-1 1757006676 -163969 -11960 21437 2700 0 0 0 14 8 50 0 mz-a02-movie1sFor Salecreate visible off radius=20,name tv,miuchiz: mine
+40 1758112949 -163969 -11960 21437 2700 0 0 0 14 8 50 0 mz-a02-movie1sPalominocreate visible off radius=20,name tv,miuchiz: mine
+40 1758112949 -163992 -11948 21438 2700 0 0 0 12 8 169 0 mz-a01-btn02Palominocreate visible off radius=20;activate lock, media name=tv url=http://objects.miuchiz.com/video/pawz/video3.wmv res=512 osd=on fx=3d radius=10 osd=no global,miuchiz: mine
+40 1758112949 -163992 -11948 21429 2700 0 0 0 12 8 169 0 mz-a01-btn02Palominocreate visible off radius=20;activate lock, media name=tv url=http://objects.miuchiz.com/video/pawz/video2.wmv res=512 osd=on fx=3d radius=10 osd=no global,miuchiz: mine
+40 1758112949 -163992 -11948 21420 2700 0 0 0 12 8 169 0 mz-a01-btn02Palominocreate visible off radius=20;activate lock, media name=tv url=http://objects.miuchiz.com/video/pawz/video1.wmv res=512 osd=on fx=3d radius=10 osd=no global,miuchiz: mine
+40 1758112949 -163991 -11948 21456 2700 0 0 0 12 8 169 0 mz-a01-btn02Palominocreate visible off radius=20;activate lock, media name=tv url=http://objects.miuchiz.com/video/pawz/video5.wmv res=512 osd=on fx=3d radius=10 osd=no global,miuchiz: mine
+40 1758112949 -163963 -12358 21290 2700 0 0 0 15 8 101 0 mz-p02-mansndr1Palominocreate visible off radius=40;activate lock, rotate 0 -14 0 time=1 wait=10 global smooth,miuchiz: mine
 1 1756762868 -163707 -9815 21428 900 0 0 0 2 0 18 0 sbcreate visible off
 1 1756603960 -163952 -12269 21258 900 0 0 0 12 0 129 0 mz-m01-dbellcreate visible off radius=40;activate media url=http://MiuServer.mooo.com/objects/sounds/dbell.wav fx=3d radius=20 vol=100 global
-1 1757006676 -163991 -11948 21456 2700 0 0 0 12 8 169 0 mz-a01-btn02For Salecreate visible off radius=20;activate lock, media name=tv url=http://objects.miuchiz.com/video/pawz/video5.wmv res=512 osd=on fx=3d radius=10 osd=no global,miuchiz: mine
-1 1757006676 -163963 -12358 21589 2700 0 0 0 15 8 100 0 mz-p02-mansndr2For Salecreate visible off radius=40;activate lock, rotate 0 14 0 time=1 wait=10 global smooth,miuchiz: mine
+40 1758112949 -163963 -12358 21589 2700 0 0 0 15 8 100 0 mz-p02-mansndr2Palominocreate visible off radius=40;activate lock, rotate 0 14 0 time=1 wait=10 global smooth,miuchiz: mine
+40 1758112949 -163991 -11948 21448 2700 0 0 0 12 8 169 0 mz-a01-btn02Palominocreate visible off radius=20;activate lock, media name=tv url=http://objects.miuchiz.com/video/pawz/video4.wmv res=512 osd=on fx=3d radius=10 osd=no global,miuchiz: mine
 1 1756603960 -163325 -12404 22593 1050 0 0 0 13 0 0 0 mz-a01-p-oak6
 1 1756762860 -163707 -9815 22426 900 0 0 0 2 0 18 0 sbcreate visible off
 1 1756762856 -163707 -9815 23426 900 0 0 0 2 0 18 0 sbcreate visible off
@@ -15088,7 +15126,7 @@ propdump version 4
 1 1167413768 -143584 -17964 -22418 2700 0 0 0 18 0 94 0 mz-a01-b-spin-tag2create visible off radius=30, texture mz-a01-spin-fish1, rotate 0 2 0, move 0 .2 0 smooth loop
 1 1167414382 -143574 -17514 -22468 0 0 0 3 0 0 0 218 00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000040400000404000004040000040400000404000004040e8030000e80300000100e80300000000000000000000e8030000ffff0000ffff00000000803f000000000f0000000000000000000000000000703132383a6d3132385f656d61726b00
 1 1167413797 -143634 -18144 -21868 900 0 0 0 8 0 61 0 tport15gcreate visible off radius=30;activate,~TicketTaker=FishCatch~
-1 1757195106 -143584 -17864 -21878 2700 0 0 0 5 28 79 0 sign3FishCatchLast winner: Squidcreate visible off radius=30, sign color=white bcolor=orange; ~WinnerFishCatch~
+1 1758598270 -143584 -17864 -21878 2700 0 0 0 5 33 79 0 sign3FishCatchLast winner: Bawoosettecreate visible off radius=30, sign color=white bcolor=orange; ~WinnerFishCatch~
 1 1167413800 -143634 -18014 -21868 2700 0 0 0 5 0 84 0 tportcreate visible off radius=30;activate,~TicketTaker=FishCatch~; create rotate 0 0 -10
 1 1165266776 -143561 -18052 -21370 2700 0 0 0 9 0 0 0 spikpose1
 1 1167414409 -143574 -17514 -21418 0 0 0 3 0 0 0 218 00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000040400000404000004040000040400000404000004040e8030000e80300000100e80300000000000000000000e8030000ffff0000ffff00000000803f000000000f0000000000000000000000000000703132383a6d3132385f656d61726b00
@@ -15098,7 +15136,6 @@ propdump version 4
 1 1167413805 -143606 -18177 -21095 2700 0 0 0 11 49 60 0 WOODSIGNBIGClick TICKET BOOTH for a€ticket to the€TAG GAMEcreate visible off radius=30, sign color=white bcolor=marron
 1 1155419647 -143864 -18164 -21470 900 0 0 0 18 0 0 0 mz-p01-b-paground4
 1 1155419644 -143864 -18164 -20470 900 0 0 0 18 0 0 0 mz-p01-b-paground4
-1 1757159078 -143677 -17847 -20220 2700 0 0 0 5 29 80 0 sign3MagicForestLast winner: Zippcreate visible off radius=30,sign color=white bcolor=orange; ~WinnerMagicForest~
 1 1757213790 -143584 -17864 -20838 2700 0 0 0 5 27 73 0 sign3TagLast winner: Bawoosettecreate visible off radius=30, sign color=white bcolor=orange; ~WinnerTag~
 1 1167413208 -143634 -18144 -20818 900 0 0 0 8 0 55 0 tport15gcreate visible off radius=30;activate,~TicketTaker=Tag~
 1 1167420315 -143364 -18164 -20470 2700 0 0 0 14 0 28 0 mz-p01-b-edge2create visible off radius=30
@@ -15110,6 +15147,7 @@ propdump version 4
 1 1167413167 -143584 -17964 -20218 2700 0 0 0 18 0 94 0 mz-a01-b-spin-tag2create visible off radius=30,rotate 0 2 0, move 0 .2 0 smooth loop, texture mz-a01-spin-forest
 1 1167413203 -143634 -18014 -20818 2700 0 0 0 5 0 78 0 tportcreate visible off radius=30;activate,~TicketTaker=Tag~; create rotate 0 0 -10
 1 1163079888 -143554 -19044 -20618 2700 0 0 0 18 104 24 0 mz-p01-b-tikbooth2Get a ticket for BalloonPop here!  Click on me - or if you change your mind, return the ticket here too.~TicketTaker=BalloonPop~
+1 1758308894 -143677 -17847 -20220 2700 0 0 0 5 35 80 0 sign3MagicForestLast winner: Bawoosettecreate visible off radius=30,sign color=white bcolor=orange; ~WinnerMagicForest~
 1 1167413184 -143674 -18067 -20220 2700 0 0 0 9 0 28 0 spikpose1create visible off radius=20
 1 1163079888 -143606 -19077 -20345 2700 0 0 0 11 57 37 0 WOODSIGNBIGClick TICKET BOOTH for a€ticket to the€Balloon Pop Gamecreate sign color=white bcolor=marron
 1 1167413133 -143745 -18006 -19670 2700 0 0 0 5 0 86 0 tportcreate visible off radius=30;activate,~TicketTaker=MagicForest~; create rotate 0 0 -10
@@ -15119,7 +15157,7 @@ propdump version 4
 1 1167413123 -143514 -18164 -19170 2700 0 0 0 14 0 28 0 mz-p01-b-lamp1create visible off radius=30
 1 1155419640 -143864 -18164 -19470 900 0 0 0 18 0 0 0 mz-p01-b-paground4
 1 1163079888 -143607 -19077 -19693 2700 0 0 0 11 28 97 0 WOODSIGNBIGGame not working? Click herecreate sign color=white bcolor=marron; activate url http://mion.activeworlds.com/help/fixthis.php
-1 1753624434 -143682 -17817 -19672 2700 0 0 0 5 98 60 0 sign3Ticket price: 5 creditz€Winnings: #points collected€100 credits for winning€maximum players: 10create visible off radius=30, sign color=white bcolor=orange
+1 1757237679 -143682 -17817 -19672 2700 0 0 0 5 98 60 0 sign3Ticket price: 5 creditz€Winnings: #points collected€200 credits for winning€maximum players: 10create visible off radius=30, sign color=white bcolor=orange
 1 1167414499 -143542 -17829 -18040 0 0 0 3 0 0 0 218 000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000c03f0000c03f0000c03f0000c03f0000c03f0000c03fe8030000e80300000100e80300000000000000000000e8030000ffff0000ffff00000000803f000000000f0000000000000000000000000000703132383a6d3132385f656d61726b00
 1 1167412900 -143764 -18164 -18720 900 0 0 0 14 0 28 0 mz-p01-b-lamp1create visible off radius=30
 1 1167414511 -143542 -17829 -18540 0 0 0 3 0 0 0 218 000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000c03f0000c03f0000c03f0000c03f0000c03f0000c03fe8030000e80300000100e80300000000000000000000e8030000ffff0000ffff00000000803f000000000f0000000000000000000000000000703132383a6d3132385f656d61726b00
@@ -15212,8 +15250,8 @@ propdump version 4
 1 1155855514 -141250 -17350 -51300 0 0 0 2 0 0 0 51 00004842000040410000a0420001010000803f0000803f1800343256001400fa00000000000000000000000000000000000000
 1 1167433556 -141392 -17874 -27568 3000 0 0 0 13 0 65 0 mz-trs-chest1create move 0 -.2 0 smooth loop time=3 sync,visible off radius=40
 1 1167433697 -141164 -17840 -27385 2700 0 0 0 8 0 81 0 tport15gcreate move 0 -.2 0 smooth loop time=3 sync; activate; ~TicketTaker=TreasureHunt~
-1 1757215972 -141164 -17550 -27385 2700 0 0 0 5 31 82 0 sign3TreasureHuntLast winner: Squidcreate visible off radius=30, sign color=white bcolor=orange; ~WinnerTreasureHunt~
 1 1167424560 -141114 -17715 -27635 2700 0 0 0 5 53 59 0 sign3Ticket price: 25 creditz€Winnings: #points collectedcreate sign color=white bcolor=orange,visible off radius=30
+1 1758629456 -141164 -17550 -27385 2700 0 0 0 5 31 82 0 sign3TreasureHuntLast winner: Flintcreate visible off radius=30, sign color=white bcolor=orange; ~WinnerTreasureHunt~
 1 1167433553 -141352 -17874 -27470 3450 0 0 0 13 0 66 0 mz-trs-chest1create move 0 -.2 0 smooth loop time=3 sync, visible off radius=40
 1 1167433570 -141164 -17715 -27385 2700 0 0 0 5 0 110 0 tportcreate move 0 -.2 0 smooth loop time=3 sync, off radius=40,rotate 0 0 10; activate; ~TicketTaker=TreasureHunt~
 1 1167433550 -141264 -17884 -27135 2700 0 0 0 11 29 96 0 woodsignbigAre ye ready for adventure€?create move 0 -.2 0 smooth loop time=3 sync,visible off radius=30,sign color=white bcolor=marron
@@ -15323,13 +15361,13 @@ propdump version 4
 1 1167425829 -141364 -18164 -23120 900 0 0 0 14 0 28 0 mz-p01-b-lamp1create visible off radius=30
 1 1167415262 -141004 -18144 -22895 2700 0 0 0 8 0 22 0 tport15gactivate;~ticket:racer
 1 1167412630 -141914 -17414 -22320 1800 0 0 0 12 0 28 0 sv-rhropeld2create visible off radius=30
+1 1757237658 -141004 -17864 -22895 900 0 0 0 5 64 83 0 sign3Ticket price: 5 creditz  Winnings: laps * 10 maximum players: 12activate;~ticket:racer; create sign color=white bcolor=orange,visible off radius=30
 1 1167412638 -141914 -18014 -22450 1800 0 0 0 12 0 28 0 sv-rhropeld2create visible off radius=30
 1 1167413459 -141004 -17964 -22470 900 0 0 0 18 0 67 0 mz-a01-b-spin-racecreate visible off radius=35, rotate 0 2 0, move 0 .2 0 smooth loop
 1 1167412641 -141914 -18214 -22490 1800 0 0 0 12 0 28 0 sv-rhropeld2create visible off radius=30
 1 1159713005 -141004 -18914 -22620 900 0 0 0 5 65 89 0 sign3Ticket price: 1 creditz  Winnings: 10 creditz maximum players: 50activate teleport centro2 19.01S 1.05E -10.00a 249; create sign color=white bcolor=orange
 1 1159729089 -141359 -18519 -22110 900 0 0 0 5 0 18 0 sign3~ticketdb:lasertag
 1 1167776512 -141864 -18164 -22470 900 0 0 0 18 0 23 0 mz-p01-b-paground4create texture terrain1
-1 1167415244 -141004 -17864 -22895 900 0 0 0 5 65 83 0 sign3Ticket price: 5 creditz  Winnings: 25 creditz maximum players: 12activate;~ticket:racer; create sign color=white bcolor=orange,visible off radius=30
 1 1167420305 -141864 -18164 -22970 1800 0 0 0 14 0 28 0 mz-p01-b-edge2create visible off radius=30
 1 1167412634 -141914 -17614 -22360 1800 0 0 0 12 0 28 0 sv-rhropeld2create visible off radius=30
 1 1167426080 -141032 -18177 -22093 900 0 0 0 11 28 119 0 WOODSIGNBIGReport a problem. Click herecreate visible off radius=20,sign color=white bcolor=marron; activate url http://mion.activeworlds.com/help/fixthis.php
@@ -15342,7 +15380,6 @@ propdump version 4
 1 1167413446 -141002 -18077 -22468 900 0 0 0 9 0 28 0 dashpose1create visible off radius=20
 1 1159713005 -141004 -19064 -22620 0 0 0 3 0 0 0 220 0000000000000000cdccccbd0000000000000000cdcccc3d00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000b4420000b442000000000000b4420000b4420000000000000000000020410000000000000000000020c1000000400000004000000000000040400000404000000000f4010000e80300000100d007000000000000e8030000e8030000ffffff00ffffff000000803f00010002110000000000000000000000000000703235365f6f696c3a6d3235365f726e6400
 1 1167426105 -141084 -18144 -21070 900 0 0 0 7 98 61 0 Booth4bGet a ticket for Maze here!  Click on me - or if you change your mind, return the ticket here too.create visible off radius=30;activate;~TicketTaker=CrazyMaze~
-1 1757189712 -141054 -17864 -21050 900 0 0 0 5 27 78 0 sign3CrazyMazeLast winner: Zippcreate visible off radius=30,sign color=white bcolor=orange; ~WinnerCrazyMaze~
 1 1756935669 -141054 -17864 -21550 900 0 0 0 5 77 60 0 sign3€Ticket price: 5 creditz€Winnings: #points collected€maximum players: 10€create visible off radius=30, sign color=white bcolor=orange
 1 1167425695 -141004 -18014 -21570 900 0 0 0 5 0 84 0 tportcreate visible off radius=30;activate,~TicketTaker=CrazyMaze~; create rotate 0 0 -10
 1 1167413605 -141054 -17964 -21070 900 0 0 0 18 0 67 0 mz-a01-b-spin-mazecreate visible off radius=35, rotate 0 2 0, move 0 .2 0 smooth loop
@@ -15350,6 +15387,7 @@ propdump version 4
 1 1167413561 -141077 -18052 -21068 900 0 0 0 9 0 28 0 spikpose1create visible off radius=20
 1 1167425695 -141004 -18144 -21570 2700 0 0 0 8 0 61 0 tport15gcreate visible off radius=30;activate,~TicketTaker=CrazyMaze~
 1 1167420309 -141364 -18164 -21470 900 0 0 0 14 0 28 0 mz-p01-b-edge2create visible off radius=30
+1 1758598600 -141054 -17864 -21050 900 0 0 0 5 33 78 0 sign3CrazyMazeLast winner: Bawoosettecreate visible off radius=30,sign color=white bcolor=orange; ~WinnerCrazyMaze~
 1 1167425689 -141032 -18177 -21293 900 0 0 0 11 71 59 0 WOODSIGNBIGClick TELEPORT RING for a ticket         to the              CRAZY MAZEcreate visible off radius=20,sign color=white bcolor=marron
 1 1167414354 -141014 -17514 -21070 0 0 0 3 0 0 0 218 00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000040400000404000004040000040400000404000004040e8030000e80300000100e80300000000000000000000e8030000ffff0000ffff00000000803f000000000f0000000000000000000000000000703132383a6d3132385f656d61726b00
 1 1167426020 -141004 -18149 -20320 2700 0 0 0 8 0 52 0 tport15gcreate visible off radius=30;activate;~ticket:treatz
@@ -15361,6 +15399,7 @@ propdump version 4
 1 1167756505 -141046 -18002 -20322 600 0 0 0 13 0 52 0 mz-p01-i-meatcreate rotate 0 1 3, move 1 0 0 loop smooth time=1.5
 1 1167426020 -141004 -18014 -20320 900 0 0 0 5 0 75 0 tportcreate visible off radius=30;activate;~ticket:treatz; create rotate 0 0 -10
 1 1167755655 -141831 -17954 -19059 1800 0 0 0 14 0 92 0 mz-b01-b-msgn2create visible off radius=30, picture http://objects.miuchiz.com/signs/p_sign_shinytings.jpg
+1 1758026799 -141009 -17814 -19820 885 0 0 0 5 33 56 0 sign3FoodFightLast winner: Bawoosettecreate sign color=white bcolor=orange; ~WinnerFoodFight~
 1 1167420329 -141364 -18164 -19470 900 0 0 0 14 0 28 0 mz-p01-b-edge2create visible off radius=30
 2 1167414639 -141589 -18164 -19010 1800 0 0 0 16 0 80 0 mz-p01-b-door5-1create visible off radius=60;activate rotate 0 4 0 time=4 wait=200 smooth global
 1 1167413654 -141034 -18144 -19820 900 0 0 0 9 0 52 0 foodfightcreate visible off radius=30;activate;~ticket:treatz
@@ -15368,7 +15407,6 @@ propdump version 4
 1 1159728775 -141024 -18127 -19830 600 0 0 0 13 0 55 0 mz-p01-i-meatcreate rotate 11 2 3, move 0 1.1 0 smooth loop time=1.6
 1 1167776501 -141864 -18164 -19470 900 0 0 0 18 31 23 0 mz-p01-b-paground4create texture mz-p01-p-ground3create texture terrain1
 1 1167413676 -141032 -18177 -19493 900 0 0 0 11 28 120 0 WOODSIGNBIGReport a problem. Click herecreate visible off radius=30, sign color=white bcolor=marron; activate url http://mion.activeworlds.com/help/fixthis.php
-1 1757218706 -141009 -17814 -19820 885 0 0 0 5 27 56 0 sign3FoodFightLast winner: Zippcreate sign color=white bcolor=orange; ~WinnerFoodFight~
 1 1159728786 -141025 -18067 -19848 600 0 0 0 13 0 54 0 mz-p01-i-bowlcreate rotate 1 -2 9, move 0 .5 0 smooth loop time=1.9
 1 1167428749 -141004 -17964 -19820 900 0 0 0 18 0 67 0 mz-a01-b-spin-foodcreate visible off radius=35, rotate 0 2 0, move 0 .2 0 smooth loop
 1 1155419850 -141864 -18164 -18470 900 0 0 0 18 0 0 0 mz-p01-b-paground4
@@ -16612,44 +16650,44 @@ propdump version 4
 1 1163689432 -122500 -17059 -22500 1800 0 0 0 14 0 0 0 mz-p01-b-base2
 1 1163689431 -122500 -17059 -21500 1800 0 0 0 14 0 0 0 mz-p01-b-base2
 1 1163688425 -122444 -17061 -20571 3450 0 0 0 8 0 28 0 fernsun3create visible off radius=20
-1 1757006676 -122095 -17055 -20991 1800 0 0 0 20 8 71 0 mz-p01-b-lotfence01aFor Saleactivate lock, rotate 0 10 0 time=2 wait=15 global smooth,miuchiz: mine
-1 1757006676 -122375 -16925 -20206 0 0 0 0 16 8 75 0 mz-p01-f-poster3For Salecreate visible off radius=20,picture http://www.miuchiz.com/photos/img8.jpg
+722 1758655653 -122675 -16925 -20206 0 0 0 0 16 5 75 0 mz-p01-f-poster3Flintcreate visible off radius=20,picture http://www.miuchiz.com/photos/img4.jpg
+722 1758655653 -122375 -16925 -20206 0 0 0 0 16 5 75 0 mz-p01-f-poster3Flintcreate visible off radius=20,picture http://www.miuchiz.com/photos/img8.jpg
 1 1163688425 -122050 -16885 -20391 1800 0 0 0 12 0 32 0 mz-m01-dbellactivate noise dbell1.wav global
 5412 1164560533 -122655 -16986 -20096 150 0 0 4 13 0 0 53 mz-p01-f-bed10001f80d9101000002000a0084030000000a0a00006400000000000000000000030800000000000000626564646f67736c6565706c
-1 1757006676 -122675 -16925 -20206 0 0 0 0 16 8 75 0 mz-p01-f-poster3For Salecreate visible off radius=20,picture http://www.miuchiz.com/photos/img4.jpg
+722 1758655653 -122095 -17055 -20991 1800 0 0 0 20 5 71 0 mz-p01-b-lotfence01aFlintactivate lock, rotate 0 10 0 time=2 wait=15 global smooth,miuchiz: mine
 1 1163688426 -122545 -16984 -20151 0 0 0 0 11 0 28 0 mz-p01-f-nscreate visible off radius=20
 1 1163688426 -122273 -17094 -20081 375 0 0 0 16 0 28 0 mz-p01-b-countercreate visible off radius=20
 1 1163688425 -122814 -17061 -20445 1950 0 0 0 7 0 28 0 fernsuncreate visible off radius=20
 1 1163688426 -122495 -17083 -20851 1800 0 0 0 13 0 0 0 mz-a01-p-oak4
 1 1163688425 -122545 -16939 -20151 0 0 0 0 14 0 28 0 mz-p01-f-diarycreate visible off radius=20
 5412 1164560544 -122412 -16986 -19451 1800 0 0 4 16 0 0 51 mz-p01-f-vanity20001f80d9101000024000d0000000000000a0a00006400000000000000000000000900000000000000717369746d616c653200
+722 1758655653 -122662 -16921 -19586 1800 0 0 0 16 5 75 0 mz-p01-f-poster5Flintcreate visible off radius=20,picture http://www.miuchiz.com/photos/img6.jpg
 1 1163688427 -122547 -16986 -19851 1800 0 0 0 12 0 28 0 mz-p01-f-rugcreate visible off radius=20
 1 1163688428 -122324 -16850 -19839 2700 0 0 0 15 0 59 0 mz-p01-f-clock5create visible off radius=20,rotate 0 0 -0.01666666668 sync
-1 1757006676 -122317 -16910 -19691 2700 0 0 0 16 8 75 0 mz-p01-f-poster6For Salecreate visible off radius=20,picture http://www.miuchiz.com/photos/img7.jpg
 1 1163688428 -122225 -16986 -19902 900 0 0 0 18 0 28 0 mz-p01-f-fridge01acreate visible off radius=20
 1 1163688426 -122707 -16986 -19451 900 0 0 0 16 0 55 0 mz-p01-f-drawerscreate visible off radius=20;activate; Miuchiz: storage
 1 1163688427 -122126 -16986 -19654 1500 0 0 0 16 0 28 0 mz-p01-f-range01create visible off radius=20
 1 1163688428 -122387 -16986 -19646 1800 0 0 0 13 0 28 0 mz-p01-f-compcreate visible off radius=20
 1 1163688427 -122324 -16850 -19839 2700 0 600 0 15 0 59 0 mz-p01-f-clock6create visible off radius=20,rotate 0 0 -0.00138888888 sync
+722 1758655653 -122042 -16986 -19601 1800 0 0 0 14 5 70 0 mz-p01-b-door3Flintactivate lock,rotate 0 -7 0 time=2 wait=60 smooth global,miuchiz: mine
 1 1163688429 -122250 -16986 -19809 1080 0 0 0 17 0 28 0 mz-p01-f-count01acreate visible off radius=20
-1 1757006676 -122225 -16986 -19936 900 0 0 0 18 8 116 0 mz-p01-f-fridge01bFor Salecreate visible off radius=20;activate lock,rotate 0 14 0 time=1 wait=5 global smooth, tag vapor global,miuchiz: mine
+722 1758655653 -122317 -16910 -19691 2700 0 0 0 16 5 75 0 mz-p01-f-poster6Flintcreate visible off radius=20,picture http://www.miuchiz.com/photos/img7.jpg
 5412 1164560548 -122407 -16986 -19692 300 0 0 4 15 0 0 56 mz-p01-f-chair20001f80d9101000000000a0000000000000a0a000064000000000000000000000509000000000000006368616972717369746d616c653232
-1 1757006676 -122201 -16984 -19722 1290 0 0 0 21 8 52 0 mz-p01-f-count01sink2For Salecreate visible off radius=20;activate lock, tag sink
+722 1758655653 -122201 -16984 -19722 1290 0 0 0 21 5 52 0 mz-p01-f-count01sink2Flintcreate visible off radius=20;activate lock, tag sink
 1 1163688427 -122587 -16986 -19251 1800 0 0 0 16 0 55 0 mz-p01-f-closet1create visible off radius=20;activate; Miuchiz: storage
-1 1757006676 -122225 -16986 -19936 900 0 0 0 18 8 116 0 mz-p01-f-fridge01cFor Salecreate visible off radius=20;activate lock,rotate 0 14 0 time=1 wait=5 global smooth, tag vapor global,miuchiz: mine
+722 1758655653 -122297 -17061 -19451 1800 0 0 0 19 5 39 0 mz-p01-salesgn-pawzFlintcreate sign bcolor=black;miuchiz: home2
+722 1758655653 -122497 -16760 -19851 1800 0 0 0 5 5 42 0 b_lgtFlintcreate name light,visible off;miuchiz:mine
 1 1163688428 -122160 -16986 -19679 1425 0 0 0 17 0 28 0 mz-p01-f-count01acreate visible off radius=20
 1 1163688429 -122200 -16930 -19722 0 0 0 3 0 0 0 220 00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000a0c000000000000000000000a0c0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000008fc2f53ccdcc4c3d8fc2f53ccdcccc3d0000003fcdcccc3d0a000000640000000100fa000000881300000000000001000000ffffff009aa4e7000000803f000300010d00040000000000000000000000007033323a6d33325f736674303273696e6b00
 1 1163688426 -122662 -16986 -19631 1800 0 0 0 16 0 28 0 mz-p01-f-toybox1create visible off radius=20
+722 1758655653 -122225 -16986 -19936 900 0 0 0 18 5 116 0 mz-p01-f-fridge01cFlintcreate visible off radius=20;activate lock,rotate 0 14 0 time=1 wait=5 global smooth, tag vapor global,miuchiz: mine
 1 1163688428 -122412 -16986 -19300 2100 0 0 0 18 0 28 0 mz-p01-f-mannequincreate visible off radius=20
-1 1757006676 -122042 -16986 -19601 1800 0 0 0 14 8 70 0 mz-p01-b-door3For Saleactivate lock,rotate 0 -7 0 time=2 wait=60 smooth global,miuchiz: mine
-1 1757006676 -122662 -16936 -19601 1800 0 0 0 16 8 97 0 mz-p01-f-toybox2For Salecreate visible off radius=20;activate rotate -14 0 0 time=1 wait=8 global, solid no,miuchiz: mine
+722 1758655653 -122737 -16925 -19887 900 0 0 0 16 5 75 0 mz-p01-f-poster7Flintcreate visible off radius=20,picture http://www.miuchiz.com/photos/img5.jpg
 1 1163688427 -122537 -16811 -19726 0 0 0 2 0 0 0 51 0000904000008040000020410000010000803f0000803f5800606064000100c409000000000000000000000000000000000000
+722 1758655653 -122225 -16986 -19936 900 0 0 0 18 5 116 0 mz-p01-f-fridge01bFlintcreate visible off radius=20;activate lock,rotate 0 14 0 time=1 wait=5 global smooth, tag vapor global,miuchiz: mine
 1 1163688429 -122317 -16986 -19451 2700 0 0 0 16 0 28 0 mz-p01-f-vanity1create visible off radius=20
-1 1757006676 -122737 -16925 -19887 900 0 0 0 16 8 75 0 mz-p01-f-poster7For Salecreate visible off radius=20,picture http://www.miuchiz.com/photos/img5.jpg
 1 1163688426 -122236 -16986 -19767 1080 0 0 0 17 0 28 0 mz-p01-f-count01acreate visible off radius=20
-1 1757006676 -122297 -17061 -19451 1800 0 0 0 19 8 39 0 mz-p01-salesgn-pawzFor Salecreate sign bcolor=black;miuchiz: home2
-1 1757006676 -122662 -16921 -19586 1800 0 0 0 16 8 75 0 mz-p01-f-poster5For Salecreate visible off radius=20,picture http://www.miuchiz.com/photos/img6.jpg
-1 1757006676 -122497 -16760 -19851 1800 0 0 0 5 8 42 0 b_lgtFor Salecreate name light,visible off;miuchiz:mine
+722 1758655653 -122662 -16936 -19601 1800 0 0 0 16 5 97 0 mz-p01-f-toybox2Flintcreate visible off radius=20;activate rotate -14 0 0 time=1 wait=8 global, solid no,miuchiz: mine
 1 1163688429 -122320 -16895 -19839 2700 0 0 0 15 0 28 0 mz-p01-f-clock4create visible off radius=20
 1 1163688427 -122225 -16936 -19906 0 0 0 3 0 0 0 215 0000000000000000000000000000000000000000000000000000000000000000000000803e000000000000003f00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000400000004000000040000080400000804000008040fa000000fa0000000100b80b0000e8030000f4010000dc0500009fa4d7009fa4d700cdcc4c3e010d0001070005000000000000000000000000635f736f6674317661706f7200
 1 1163688876 -122002 -17158 -18801 1800 0 0 0 16 12 9 0 mz-a01-f-trmplnetrampoline10bump warp
@@ -16673,13 +16711,12 @@ propdump version 4
 1 1163689431 -121500 -17059 -21500 1800 0 0 0 14 0 0 0 mz-p01-b-base2
 1 1163688423 -121513 -16925 -20166 0 0 0 0 12 0 42 0 mz-p01-f-hm2create visible off radius=20,rotate 30 0 0
 1 1163688434 -121949 -16811 -20001 0 0 0 2 0 0 0 51 0000004100008040000020420001010000803f0000803f5800606064000100c409000000000000000000000000000000000000
+722 1758655653 -121672 -16986 -20203 2700 0 0 0 18 5 99 0 mz-p01-f-cupboard3Flintcreate visible off radius=20;activate rotate -20 time=1 wait=8 smooth global,solid no,miuchiz: mine
 1 1163690132 -122000 -17055 -20001 1800 0 0 0 17 0 0 0 mz-p01-b-house2-4
-1 1757006676 -121655 -16986 -20203 2700 0 0 0 18 8 99 0 mz-p01-f-cupboard2For Salecreate visible off radius=20;activate rotate -20 time=1 wait=8 smooth global,solid no,miuchiz: mine
-1 1757006676 -121900 -17055 -20991 0 0 0 0 20 8 72 0 mz-p01-b-lotfence01aFor Saleactivate lock, rotate 0 -10 0 time=2 wait=15 global smooth,miuchiz: mine
+722 1758655653 -121910 -16986 -20401 1800 0 0 0 14 5 71 0 mz-p01-b-door1Flintactivate lock, rotate 0 10 0 time=2 wait=15 global smooth,miuchiz: mine
+722 1758655653 -121900 -17055 -20991 0 0 0 0 20 5 72 0 mz-p01-b-lotfence01aFlintactivate lock, rotate 0 -10 0 time=2 wait=15 global smooth,miuchiz: mine
 1 1163688433 -121949 -16986 -20001 1800 0 0 0 12 0 28 0 mz-p01-f-rugcreate visible off radius=20
-1 1757006676 -121910 -16986 -20401 1800 0 0 0 14 8 71 0 mz-p01-b-door1For Saleactivate lock, rotate 0 10 0 time=2 wait=15 global smooth,miuchiz: mine
 1 1163688425 -121329 -17083 -20751 1800 0 0 0 13 0 0 0 mz-a01-p-oak3
-1 1757006676 -121672 -16986 -20203 2700 0 0 0 18 8 99 0 mz-p01-f-cupboard3For Salecreate visible off radius=20;activate rotate -20 time=1 wait=8 smooth global,solid no,miuchiz: mine
 1 1163688424 -121549 -17061 -20925 300 0 0 0 8 0 28 0 fernsun3create visible off radius=20
 1 1163688424 -121498 -16939 -20141 3450 0 0 0 18 0 81 0 mz-p01-i-hamsterfdcreate visible off radius=20;activate tag feed,move 0 -1 0 time=.01 wait=1 global
 1 1163688423 -121513 -16930 -20166 0 0 0 0 13 0 57 0 mz-p01-f-hm3acreate visible off radius=20,move 0 0.01 0  time=0.1 loop
@@ -16689,51 +16726,52 @@ propdump version 4
 1 1163688424 -121485 -17061 -20607 3000 0 0 0 7 0 28 0 fernsuncreate visible off radius=20
 1 1163688424 -121657 -16986 -20173 2700 0 0 0 18 0 29 0 mz-p01-f-cupboard1create visible off radius=20;
 1 1163688425 -121518 -16900 -20156 0 0 0 3 0 0 0 220 000000000000000000000000cdcc4c3ecdcc4cbecdcc4c3e000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000344300003443000034430000000000000000000000000000000000000000000000000ad7a33c0ad7a33c0ad7a33c8fc2f53c8fc2f53c8fc2f53c64000000640000000600c8000000e8030000000000000000000066330000663300000000803f000200020d00040000000000000000000000007033323a6d33325f73667430326665656464
+722 1758655653 -121655 -16986 -20203 2700 0 0 0 18 5 99 0 mz-p01-f-cupboard2Flintcreate visible off radius=20;activate rotate -20 time=1 wait=8 smooth global,solid no,miuchiz: mine
+722 1758655653 -121547 -16986 -19236 900 0 0 0 12 5 102 0 mz-p01-f-tc2Flintcreate visible off radius=20;activate rotate -20 time=.83 wait=8 smooth global, solid no,miuchiz: mine
+722 1758655653 -121194 -16921 -19881 2700 0 0 0 16 5 75 0 mz-p01-f-poster2Flintcreate visible off radius=20,picture http://www.miuchiz.com/photos/img3.jpg
 1 1163688433 -121599 -16850 -19854 900 0 0 0 15 0 59 0 mz-p01-f-clock2create visible off radius=20,rotate 0 0 -0.01666666668 sync
 1 1163688432 -121734 -16986 -19799 2280 0 0 0 17 0 28 0 mz-p01-f-count01bcreate visible off radius=20
 5412 1164383842 -121269 -16986 -19541 3000 0 0 4 15 0 0 62 mz-p01-f-chair10001f80d910100003200320000000000000a0a000064000000000000000000000b0900000000000000636f6d6679206368616972717369746d616c653200
-1 1757006676 -121555 -16949 -19410 900 0 0 0 12 8 165 0 mz-a01-btn02For Salecreate visible off radius=20;activate lock, media name=tv url=http://www.miuchiz.com/video/pawz/video1.wmv res=512 osd=on fx=3d radius=10 osd=no global,miuchiz: mine
-1 1757006676 -121551 -16949 -19429 900 0 0 0 12 8 165 0 mz-a01-btn02For Salecreate visible off radius=20;activate lock, media name=tv url=http://www.miuchiz.com/video/pawz/video3.wmv res=512 osd=on fx=3d radius=10 osd=no global,miuchiz: mine
+722 1758655653 -121559 -16986 -19530 900 0 0 0 15 5 102 0 mz-p01-f-shelf2Flintcreate visible off radius=20;activate rotate -20 time=.83 wait=8 smooth global, solid no,miuchiz: mine
 1 1163688431 -121365 -16936 -19967 300 0 0 0 14 0 28 0 mz-p01-i-mgz02create visible off radius=20
 1 1163688434 -122000 -17055 -19502 1800 0 0 0 19 0 0 0 mz-p01-b-lotfence01
-1 1757006676 -121579 -16986 -19429 900 0 0 0 12 8 50 0 mz-p01-f-tv1For Salecreate visible off radius=20,name tv,miuchiz: mine
-1 1757006676 -121555 -16949 -19450 900 0 0 0 12 8 165 0 mz-a01-btn02For Salecreate visible off radius=20;activate lock, media name=tv url=http://www.miuchiz.com/video/pawz/video5.wmv res=512 osd=on fx=3d radius=10 osd=no global,miuchiz: mine
 1 1163688430 -121573 -16986 -19606 900 0 0 0 15 0 28 0 mz-p01-f-shelf1create visible off radius=20
+722 1758655653 -121188 -16910 -19551 2700 0 0 0 16 5 75 0 mz-p01-f-poster5Flintcreate visible off radius=20,picture http://www.miuchiz.com/photos/img2.jpg
 1 1163688429 -121573 -16910 -19567 900 0 0 0 17 0 28 0 mz-p01-i-gmcnsl01create visible off radius=20
 5412 1164383813 -121744 -16986 -19886 1800 0 0 4 15 0 0 56 mz-p01-f-stool10001f80d910100003200f6ff00000000000a0a0000640000000000000000000005090000000000000073746f6f6c717369746d616c653200
+722 1758655653 -121551 -16949 -19429 900 0 0 0 12 5 165 0 mz-a01-btn02Flintcreate visible off radius=20;activate lock, media name=tv url=http://www.miuchiz.com/video/pawz/video3.wmv res=512 osd=on fx=3d radius=10 osd=no global,miuchiz: mine
+722 1758655653 -121547 -16986 -19343 900 0 0 0 12 5 101 0 mz-p01-f-tc3Flintcreate visible off radius=20;activate rotate 20 time=.83 wait=8 smooth global, solid no,miuchiz: mine
 5412 1164560493 -121851 -16986 -19796 1800 0 0 4 15 0 0 56 mz-p01-f-stool10001f80d910100003200f6ff00000000000a0a0000640000000000000000000005090000000000000073746f6f6c717369746d616c653200
 1 1163688432 -121408 -16986 -19376 1800 0 0 0 12 0 28 0 mz-p01-f-rugcreate visible off radius=20
-1 1757006676 -121188 -16910 -19551 2700 0 0 0 16 8 75 0 mz-p01-f-poster5For Salecreate visible off radius=20,picture http://www.miuchiz.com/photos/img2.jpg
-1 1757006676 -121547 -16986 -19236 900 0 0 0 12 8 102 0 mz-p01-f-tc2For Salecreate visible off radius=20;activate rotate -20 time=.83 wait=8 smooth global, solid no,miuchiz: mine
-1 1757006676 -121553 -16949 -19421 900 0 0 0 12 8 165 0 mz-a01-btn02For Salecreate visible off radius=20;activate lock, media name=tv url=http://www.miuchiz.com/video/pawz/video2.wmv res=512 osd=on fx=3d radius=10 osd=no global,miuchiz: mine
-1 1757006676 -121194 -16921 -19881 2700 0 0 0 16 8 75 0 mz-p01-f-poster2For Salecreate visible off radius=20,picture http://www.miuchiz.com/photos/img3.jpg
+722 1758655653 -121631 -16885 -19943 2700 0 0 0 19 5 91 0 mz-a01-b-lgtswitch1Flintcreate visible off radius=20;activate lock, light radius=10 brightness=.3 name=light global
 1 1163688433 -121553 -16986 -19843 2700 0 0 0 16 0 96 0 mz-a01-i-watrcancreate visible off radius=20;activate move 0 .6 -.05 wait=1, rotate 0 0 -3 time=1 wait=.6 global
-1 1757006676 -121559 -16986 -19683 900 0 0 0 15 8 101 0 mz-p01-f-shelf3For Salecreate visible off radius=20;activate rotate 20 time=.83 wait=8 smooth global, solid no,miuchiz: mine
-1 1757006676 -121631 -16885 -19943 2700 0 0 0 19 8 91 0 mz-a01-b-lgtswitch1For Salecreate visible off radius=20;activate lock, light radius=10 brightness=.3 name=light global
-1 1757006676 -121547 -16986 -19343 900 0 0 0 12 8 101 0 mz-p01-f-tc3For Salecreate visible off radius=20;activate rotate 20 time=.83 wait=8 smooth global, solid no,miuchiz: mine
+722 1758655653 -121559 -16986 -19683 900 0 0 0 15 5 101 0 mz-p01-f-shelf3Flintcreate visible off radius=20;activate rotate 20 time=.83 wait=8 smooth global, solid no,miuchiz: mine
+722 1758655653 -121553 -16949 -19439 900 0 0 0 12 5 165 0 mz-a01-btn02Flintcreate visible off radius=20;activate lock, media name=tv url=http://www.miuchiz.com/video/pawz/video4.wmv res=512 osd=on fx=3d radius=10 osd=no global,miuchiz: mine
 2 1164382177 -121264 -16204 -19445 0 0 0 3 0 0 0 212 000000000000000000000000000000000000000000000000000000003f0000003f000000bf0000003f0000003f0000003f0000000000000000cdcc4c3e00000000cdcc4c3ecdcc4c3e000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000400000004000000040000000410000004100000041f4010000e803000001007017000000000000c8000000b80b0000ffffff00ffffff000000803f00010000090000000000000000000000000000636f726f6e6131386100
 1 1163688430 -121930 -16990 -19981 1800 0 0 0 17 0 28 0 mz-p01-f-count02acreate visible off radius=20
 1 1163688429 -121348 -17001 -19971 0 0 0 0 15 0 28 0 mz-p01-f-table1create visible off radius=20
+722 1758655653 -121579 -16986 -19429 900 0 0 0 12 5 50 0 mz-p01-f-tv1Flintcreate visible off radius=20,name tv,miuchiz: mine
 1 1163688430 -121606 -16895 -19854 900 0 0 0 15 0 28 0 mz-p01-f-clock1create visible off radius=20
-1 1757006676 -121559 -16986 -19530 900 0 0 0 15 8 102 0 mz-p01-f-shelf2For Salecreate visible off radius=20;activate rotate -20 time=.83 wait=8 smooth global, solid no,miuchiz: mine
 1 1163688429 -121228 -16986 -19826 900 0 0 0 15 0 28 0 mz-p01-f-shelf6create visible off radius=20
 1 1163688431 -121964 -17109 -19981 1800 0 0 0 17 0 28 0 mz-p01-b-cabinetscreate visible off radius=20
-1 1757006676 -121885 -16986 -19601 1800 0 0 0 14 8 69 0 mz-p01-b-door2For Saleactivate lock,rotate 0 7 0 time=2 wait=60 smooth global,miuchiz: mine
+722 1758655653 -121885 -16986 -19601 1800 0 0 0 14 5 69 0 mz-p01-b-door2Flintactivate lock,rotate 0 7 0 time=2 wait=60 smooth global,miuchiz: mine
+722 1758655653 -121553 -16949 -19421 900 0 0 0 12 5 165 0 mz-a01-btn02Flintcreate visible off radius=20;activate lock, media name=tv url=http://www.miuchiz.com/video/pawz/video2.wmv res=512 osd=on fx=3d radius=10 osd=no global,miuchiz: mine
+722 1758655653 -121188 -16910 -19352 2700 0 0 0 16 5 75 0 mz-p01-f-poster5Flintcreate visible off radius=20,picture http://www.miuchiz.com/photos/img1.jpg
+722 1758655653 -121631 -16885 -19934 2700 0 0 0 19 5 80 0 mz-a01-b-lgtswitch0Flintcreate visible off radius=20;activate lock, light brightness=0 name=light global
 1 1163688432 -121555 -16975 -19429 900 0 0 0 12 0 28 0 mz-p01-f-tv2create visible off radius=20
-1 1757006676 -121553 -16949 -19439 900 0 0 0 12 8 165 0 mz-a01-btn02For Salecreate visible off radius=20;activate lock, media name=tv url=http://www.miuchiz.com/video/pawz/video4.wmv res=512 osd=on fx=3d radius=10 osd=no global,miuchiz: mine
+722 1758655653 -121555 -16949 -19450 900 0 0 0 12 5 165 0 mz-a01-btn02Flintcreate visible off radius=20;activate lock, media name=tv url=http://www.miuchiz.com/video/pawz/video5.wmv res=512 osd=on fx=3d radius=10 osd=no global,miuchiz: mine
 1 1163688431 -121249 -16986 -19399 2400 0 0 0 14 0 28 0 mz-p01-f-plantcreate visible off radius=20
 1 1163688431 -121570 -16986 -19289 900 0 0 0 12 0 28 0 mz-p01-f-tc1create visible off radius=20
-1 1757006676 -121188 -16910 -19352 2700 0 0 0 16 8 75 0 mz-p01-f-poster5For Salecreate visible off radius=20,picture http://www.miuchiz.com/photos/img1.jpg
 1 1163688432 -121556 -16986 -19780 1200 0 0 0 14 0 28 0 mz-p01-f-plantcreate visible off radius=20
-1 1757006676 -121631 -16885 -19934 2700 0 0 0 19 8 80 0 mz-a01-b-lgtswitch0For Salecreate visible off radius=20;activate lock, light brightness=0 name=light global
+722 1758655653 -121398 -16760 -19851 1800 0 0 0 5 5 42 0 b_lgtFlintcreate name light,visible off;miuchiz:mine
 1 1163688432 -121600 -16850 -19854 900 0 600 0 15 0 59 0 mz-p01-f-clock3create visible off radius=20,rotate 0 0 -0.00138888888 sync
 5412 1164560566 -121280 -16986 -19265 2400 0 0 4 15 0 0 62 mz-p01-f-chair10001f80d910100003200320000000000000a0a000064000000000000000000000b0900000000000000636f6d6679206368616972717369746d616c653200
 1 1163688431 -121408 -16811 -19726 0 0 0 2 0 0 0 51 0000904000008040000020410000010000803f0000803f5800606064000100c409000000000000000000000000000000000000
 1 1163688432 -121329 -16936 -19971 3450 0 0 0 14 0 28 0 mz-p01-i-mgz01create visible off radius=20
+722 1758655653 -121555 -16949 -19410 900 0 0 0 12 5 165 0 mz-a01-btn02Flintcreate visible off radius=20;activate lock, media name=tv url=http://www.miuchiz.com/video/pawz/video1.wmv res=512 osd=on fx=3d radius=10 osd=no global,miuchiz: mine
 1 1163688433 -121353 -16986 -19921 1800 0 0 0 12 0 28 0 mz-p01-f-rugcreate visible off radius=20
 1 1163688433 -121873 -16885 -19601 0 0 0 0 12 0 32 0 mz-m01-dbellactivate noise dbell1.wav global
 1 1163688433 -121573 -16871 -19666 900 0 0 0 14 0 28 0 mz-p01-i-mp301create visible off radius=20
-1 1757006676 -121398 -16760 -19851 1800 0 0 0 5 8 42 0 b_lgtFor Salecreate name light,visible off;miuchiz:mine
 1 1163634454 -121500 -17064 -18500 0 0 0 0 18 0 0 0 mz-p01-b-base2.rwx
 1 1163688893 -121448 -17083 -18602 1800 0 0 0 16 11 9 0 mz-a01-f-trmplnetrampoline4bump warp
 1 1163688434 -121500 -17055 -18502 1800 0 0 0 14 0 0 0 mz-p01-b-base2
@@ -17745,8 +17783,8 @@ propdump version 4
 1 1166738306 -5015 -4850 4993 1500 0 0 0 5 0 60 0 tportcreate visible off radius=60;activate,~TicketTaker=CoreMaze~
 1 1172603822 -5048 -7471 4336 450 0 0 0 13 0 28 0 mz-m01-f-dmy1create visible off radius=20
 1 1172603823 -5063 -7371 4367 150 0 0 0 6 0 28 0 5a1991create visible off radius=20
-1 1757230331 -5014 -4550 4999 1500 0 0 0 6 32 76 0 sign2bCoreMazeLast winner: Bawoosettecreate sign color=white bcolor=blue, visible off radius=40; ~WinnerCoreMaze~
 1 1172603822 -5344 -7396 4611 450 0 0 0 2 0 52 0 c6create name bc4,visible off;activate visible bc4 off
+1 1758599563 -5014 -4550 4999 1500 0 0 0 6 32 76 0 sign2bCoreMazeLast winner: Bawoosettecreate sign color=white bcolor=blue, visible off radius=40; ~WinnerCoreMaze~
 1 1169837677 -5015 -4985 4993 1500 0 0 0 8 0 61 0 tport15gcreate visible off radius=160;activate,~TicketTaker=CoreMaze~
 1 1172603822 -5344 -7396 4611 450 0 0 0 2 0 75 0 c5create name bc4,visible off;activate visible bc4 off,miuchiz: buy: 19000042
 1 1172603823 -5212 -7471 4463 450 0 0 0 6 0 53 0 5c1952create visible off radius=20; activate visible bc5 on
@@ -17869,10 +17907,10 @@ propdump version 4
 1 1172603827 -4448 -7316 5240 2250 0 0 0 2 0 75 0 c5create name bb2,visible off;activate visible bb2 off,miuchiz: buy: 19000024
 1 1172603825 -4413 -7416 5205 2250 0 0 0 2 0 52 0 c6create name bb6,visible off;activate visible bb6 off
 1 1155311012 -5000 -11000 9000 0 0 0 0 17 0 0 0 mz-a01-b-g1-roof1
+1 1757804883 -4800 -16600 10597 0 0 0 3 0 0 18 222 create link cloud1cdcc4cbf000080bfcdcc4cbfcdcc4c3f000000c0cdcc4c3f000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000b44200000000000000000000b442000000000000000000000000000000000000b44300000000000000000000b443cdcc4c3ecdcc4c3ecdcc4c3e0000803f0000803f0000803f64000000640000000800f40100000000000001000000f401000000040900000206000000803f002100000d00060000000000000000000000007033323a6d33325f7366743034636c6f75643100
+1 1757804885 -4800 -16500 10597 0 0 0 3 0 0 18 280 create link cloud100000000000060c00000000000000000000060c0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000b44300000000000000000000b443000000400000004000000040000000400000004000000040f4010000b80b0000010064000000000000000100000032000000ffffff00ffffff000000803f00210001470006000000000000000000000000703132383a6d3132385f6c696768746e696e6731612c202020703132383a6d3132385f6c696768746e696e6731622c202020703132383a6d3132385f6c696768746e696e673163636c6f75643100
+1 1757804881 -4800 -16700 10597 0 0 0 3 0 0 18 222 create link cloud1000080bf000000bf000080bf0000803f333333bf0000803f0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000b44300000000000000000000b443cdcc4c3dcdcccc3dcdcc4c3dcdcc4c3dcdcccc3dcdcc4c3d64000000640000000c00dc05000000000000c8000000c80000009fcbff00a4c4ff000000803f002300000d00060000000000000000000000007033323a6d33325f7366743032636c6f75643100
 1 1159716305 -4800 -17050 10597 2700 0 0 4 14 0 18 59 mz-a01-i-cloudcreate link cloud10001b08d010300005000000000000000000a0a00006400000000000000000000060b00000000000000636c6f756431716361727065747269646576
-1 1159716306 -4800 -16700 10597 0 0 0 3 0 0 18 222 create link cloud1000080bf000000bf000080bf0000803f333333bf0000803f0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000b44300000000000000000000b443cdcc4c3dcdcccc3dcdcc4c3dcdcc4c3dcdcccc3dcdcc4c3d64000000640000000c00dc05000000000000c8000000c80000009fcbff00a4c4ff000000803f002300000d00060000000000000000000000007033323a6d33325f7366743032636c6f75643100
-1 1159716306 -4800 -16500 10597 0 0 0 3 0 0 18 280 create link cloud100000000000060c00000000000000000000060c0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000b44300000000000000000000b443000000400000004000000040000000400000004000000040f4010000b80b0000010064000000000000000100000032000000ffffff00ffffff000000803f00210001470006000000000000000000000000703132383a6d3132385f6c696768746e696e6731612c202020703132383a6d3132385f6c696768746e696e6731622c202020703132383a6d3132385f6c696768746e696e673163636c6f75643100
-1 1159716306 -4800 -16600 10597 0 0 0 3 0 0 18 222 create link cloud1cdcc4cbf000080bfcdcc4cbfcdcc4c3f000000c0cdcc4c3f000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000b44200000000000000000000b442000000000000000000000000000000000000b44300000000000000000000b443cdcc4c3ecdcc4c3ecdcc4c3e0000803f0000803f0000803f64000000640000000800f40100000000000001000000f401000000040900000206000000803f002100000d00060000000000000000000000007033323a6d33325f7366743034636c6f75643100
 1 1156779637 -4431 -10900 33578 0 0 0 3 0 0 0 220 000000000ad7233c00000000000000000ad7233c00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000b44200000000000000000000b4420000000000000000000000000000000000000000000000000000000000000000000040410000404100004041000040410000404100004041204e0000204e00000100204e0000204e0000000000000000000000000000000000000000803f000000020d00040000000000000000000000007033323a6d33325f73667430336261723666
 1 1156779637 -4481 -10755 33628 0 0 0 3 0 0 0 212 00000000000000c00000000000000000000000c000000000000000a0c1000020410000a0c10000a0410000a0410000a041000000000000a0c00000000000000000000020c1000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000006666663f6666663fcdcc4c3ecdcccc3dcdcccc3dcdcc4c3e32000000320000006000fc080000fc080000bc020000f401000099fe01000fef0a000000803f02030000050004000000000000000000000000635f73756e6261723662
 1 1156779637 -4481 -10655 33628 0 0 0 3 0 0 0 220 000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000803f0000803f0000803f0000a0410000a0410000a04164000000640000000100e8030000e803000000000000e8030000ecffce00fbff53000000803f000100000d00040000000000000000000000007033323a6d33325f73667430336261723600
@@ -17945,27 +17983,31 @@ propdump version 4
 1 1172603858 -3268 -7403 5783 600 0 0 0 2 0 73 0 c5create name d1,visible off;activate visible d1 off;miuchiz: buy: 1a000014
 1 1172603858 -3243 -7452 5739 600 0 0 0 2 0 73 0 c5create name d4,visible off;activate visible d4 off;miuchiz: buy: 1a000044
 1 1172603857 -3268 -7501 5783 600 0 0 0 2 0 73 0 c5create name d7,visible off;activate visible d7 off;miuchiz: buy: 1a000074
-1 1172603855 -3250 -7465 6120 1500 0 0 0 2 0 73 0 c5create name c8,visible off;activate visible c8 off;miuchiz: buy: 1a000083
+1 1758326097 -3077 -7510 6220 1500 0 0 0 5 0 51 0 d1a41create visible off radius=20;activate visible c4 on
 1 1172603856 -3120 -7465 6195 1500 0 0 0 2 0 50 0 c4create name c5,visible off;activate visible c5 off
-1 1172603855 -3077 -7465 6220 1500 0 0 0 5 0 51 0 d1a43create visible off radius=20;activate visible c4 on
+1 1758326123 -3120 -7465 6195 1500 0 0 0 2 0 73 0 c5create name c5,visible off;activate visible c5 off;miuchiz: buy: 1a000051
 1 1172603856 -3077 -7465 6220 1500 0 0 0 2 0 50 0 c4create name c4,visible off;activate visible c4 off
-1 1172603856 -3250 -7465 6120 1500 0 0 0 5 0 51 0 d1a83create visible off radius=20;activate visible c8 on
+1 1758326126 -3164 -7465 6170 1500 0 0 0 2 0 73 0 c5create name c6,visible off;activate visible c6 off;miuchiz: buy: 1a000061
 1 1172603855 -3207 -7465 6145 1500 0 0 0 2 0 50 0 c4create name c7,visible off;activate visible c7 off
-1 1172603855 -3077 -7465 6220 1500 0 0 0 2 0 73 0 c5create name c4,visible off;activate visible c4 off;miuchiz: buy: 1a000043
+1 1758326129 -3207 -7465 6145 1500 0 0 0 2 0 73 0 c5create name c7,visible off;activate visible c7 off;miuchiz: buy: 1a000071
+1 1758326097 -3164 -7510 6170 1500 0 0 0 5 0 51 0 d1a61create visible off radius=20;activate visible c6 on
 1 1172603856 -3250 -7465 6120 1500 0 0 0 2 0 50 0 c4create name c8,visible off;activate visible c8 off
-1 1172603854 -3120 -7465 6195 1500 0 0 0 5 0 51 0 d1a53create visible off radius=20;activate visible c5 on
-1 1172603855 -3164 -7465 6170 1500 0 0 0 5 0 51 0 d1a63create visible off radius=20;activate visible c6 on
+1 1758326097 -3250 -7510 6120 1500 0 0 0 5 0 51 0 d1a81create visible off radius=20;activate visible c8 on
 1 1172603855 -3164 -7465 6170 1500 0 0 0 2 0 50 0 c4create name c6,visible off;activate visible c6 off
-1 1172603856 -3033 -7465 6245 1500 0 0 0 5 0 52 0 d1a33create visible off radius=20; activate visible c3 on
+1 1758326203 -3269 -7538 6103 2400 0 0 0 3 0 28 0 bx2create visible off radius=20
 1 1172603856 -3226 -7538 6128 2400 0 0 0 3 0 28 0 bx2create visible off radius=20
-1 1172603856 -3207 -7465 6145 1500 0 0 0 5 0 51 0 d1a73create visible off radius=20;activate visible c7 on
+1 1758326134 -3250 -7465 6120 1500 0 0 0 2 0 73 0 c5create name c8,visible off;activate visible c8 off;miuchiz: buy: 1a000081
+1 1758326120 -3077 -7465 6220 1500 0 0 0 2 0 73 0 c5create name c4,visible off;activate visible c4 off;miuchiz: buy: 1a000041
+1 1758326097 -3033 -7510 6245 1500 0 0 0 5 0 52 0 d1a31create visible off radius=20; activate visible c3 on
+1 1758326097 -3293 -7510 6095 1500 0 0 0 5 0 51 0 d1a91create visible off radius=20;activate visible c9 on
 1 1172603855 -3033 -7465 6245 1500 0 0 0 2 0 50 0 c4create name c3,visible off;activate visible c3 off
-1 1172603856 -3207 -7465 6145 1500 0 0 0 2 0 73 0 c5create name c7,visible off;activate visible c7 off;miuchiz: buy: 1a000073
-1 1172603854 -3164 -7465 6170 1500 0 0 0 2 0 73 0 c5create name c6,visible off;activate visible c6 off;miuchiz: buy: 1a000063
+1 1758326174 -3293 -7465 6095 1500 0 0 0 2 0 50 0 c4create name c9,visible off;activate visible c9 off
+1 1758326097 -3120 -7510 6195 1500 0 0 0 5 0 51 0 d1a51create visible off radius=20;activate visible c5 on
+1 1758326184 -3293 -7465 6095 1500 0 0 0 2 0 73 0 c5create name c9,visible off;activate visible c9 off;miuchiz: buy: 1a000091
 1 1172603855 -3053 -7538 6229 2400 0 0 0 3 0 28 0 bx2create visible off radius=20
 1 1172603855 -3140 -7538 6179 2400 0 0 0 3 0 28 0 bx2create visible off radius=20
-1 1172603855 -3120 -7465 6195 1500 0 0 0 2 0 73 0 c5create name c5,visible off;activate visible c5 off;miuchiz: buy: 1a000053
-1 1172603856 -3033 -7465 6245 1500 0 0 0 2 0 73 0 c5create name c3,visible off;activate visible c3 off;miuchiz: buy: 1a000033
+1 1758326118 -3033 -7465 6245 1500 0 0 0 2 0 73 0 c5create name c3,visible off;activate visible c3 off;miuchiz: buy: 1a000031
+1 1758326097 -3207 -7510 6145 1500 0 0 0 5 0 51 0 d1a71create visible off radius=20;activate visible c7 on
 1 1205007064 -3120 -16667 -24852 1800 0 0 0 16 0 35 0 mz-a02-pickroombbump teleport 22.95S 3.05E -12.7a 2
 1 1205625148 -3669 -12633 -22148 1800 0 0 0 5 64 36 0 sign3Left click on an character to select what you want to be in Mioncreate sign bcolor=black color=white
 1 1204664918 -3270 -16667 -22952 1800 0 0 0 16 0 35 0 mz-a02-pickroombbump teleport 22.95S 3.05E -12.7a 2
@@ -18055,51 +18097,51 @@ propdump version 4
 1 1172603864 -2520 -7459 5939 2400 0 0 0 2 0 73 0 c5create name a5,visible off;activate visible a5 off;miuchiz: buy: 1a000055
 1 1172603865 -2469 -7459 5854 2400 0 0 0 2 0 50 0 c4create name a4,visible off;activate visible a4 off
 1 1172603864 -2469 -7459 5854 2400 0 0 0 2 0 73 0 c5create name a4,visible off;activate visible a4 off;miuchiz: buy: 1a000045
-1 1172603862 -2649 -7379 6153 2400 0 0 0 5 0 52 0 d1913create visible off radius=20; activate visible t1 on
+1 1758323463 -2695 -7503 6212 2400 0 0 0 2 0 73 0 c5create name t8,visible off;activate visible t8 off;miuchiz: buy: 19000082
+1 1758323460 -2657 -7503 6148 2400 0 0 0 2 0 73 0 c5create name t7,visible off;activate visible t7 off;miuchiz: buy: 19000072
 1 1172603859 -2732 -7459 6277 2400 0 0 0 2 0 50 0 c4create name t6,visible off;activate visible t6 off
 1 1172603859 -2732 -7503 6277 2400 0 0 0 2 0 50 0 c4create name t9,visible off;activate visible t9 off
 1 1172603862 -2570 -7409 6027 2400 0 0 0 2 0 50 0 c4create name a3,visible off;activate visible a3 off
-1 1172603861 -2724 -7481 6283 2400 0 0 0 5 0 52 0 d1993create visible off radius=20; activate visible t9 on
 1 1172603860 -2570 -7459 6027 2400 0 0 0 2 0 73 0 c5create name a6,visible off;activate visible a6 off;miuchiz: buy: 1a000065
-1 1172603861 -2649 -7430 6153 2400 0 0 0 5 0 52 0 d1943create visible off radius=20; activate visible t4 on
 1 1172603861 -2990 -7465 6270 1500 0 0 0 2 0 50 0 c4create name c2,visible off;activate visible c2 off
 1 1172603861 -2966 -7538 6279 2400 0 0 0 3 0 28 0 bx2create visible off radius=20
-1 1172603859 -2687 -7430 6218 2400 0 0 0 5 0 52 0 d1953create visible off radius=20; activate visible t5 on
+1 1758323419 -2724 -7430 6283 2400 0 0 0 5 0 52 0 d1962create visible off radius=20; activate visible t6 on
 1 1172603860 -2732 -7409 6277 2400 0 0 0 2 0 50 0 c4create name t3,visible off;activate visible t3 off
+1 1758326114 -2990 -7465 6270 1500 0 0 0 2 0 73 0 c5create name c2,visible off;activate visible c2 off;miuchiz: buy: 1a000021
 1 1172603860 -2575 -7379 6025 2400 0 0 0 5 0 52 0 d1a35create visible off radius=20; activate visible a3 on
-1 1172603862 -2947 -7465 6295 1500 0 0 0 5 0 52 0 d1a13create visible off radius=20; activate visible c1 on
-1 1172603861 -2657 -7409 6148 2400 0 0 0 2 0 73 0 c5create name t1,visible off;activate visible t1 off;miuchiz: buy: 19000013
-1 1172603863 -2990 -7465 6270 1500 0 0 0 5 0 52 0 d1a23create visible off radius=20; activate visible c2 on
+1 1758323422 -2649 -7481 6153 2400 0 0 0 5 0 52 0 d1972create visible off radius=20; activate visible t7 on
+1 1758323429 -2724 -7481 6283 2400 0 0 0 5 0 52 0 d1992create visible off radius=20; activate visible t9 on
 1 1172603861 -2947 -7465 6295 1500 0 0 0 2 0 50 0 c4create name c1,visible off;activate visible c1 off
-1 1172603859 -2695 -7409 6212 2400 0 0 0 2 0 73 0 c5create name t2,visible off;activate visible t2 off;miuchiz: buy: 19000023
-1 1172603859 -2732 -7409 6277 2400 0 0 0 2 0 73 0 c5create name t3,visible off;activate visible t3 off;miuchiz: buy: 19000033
-1 1172603860 -2947 -7465 6295 1500 0 0 0 2 0 73 0 c5create name c1,visible off;activate visible c1 off;miuchiz: buy: 1a000013
-1 1172603862 -2657 -7503 6148 2400 0 0 0 2 0 73 0 c5create name t7,visible off;activate visible t7 off;miuchiz: buy: 19000073
 1 1172603863 -2695 -7459 6212 2400 0 0 0 2 0 50 0 c4create name t5,visible off;activate visible t5 off
-1 1172603862 -2657 -7459 6148 2400 0 0 0 2 0 73 0 c5create name t4,visible off;activate visible t4 off;miuchiz: buy: 19000043
+1 1758323453 -2695 -7459 6212 2400 0 0 0 2 0 73 0 c5create name t5,visible off;activate visible t5 off;miuchiz: buy: 19000052
 1 1172603860 -2570 -7409 6027 2400 0 0 0 2 0 73 0 c5create name a3,visible off;activate visible a3 off;miuchiz: buy: 1a000035
+1 1758323416 -2687 -7430 6218 2400 0 0 0 5 0 52 0 d1952create visible off radius=20; activate visible t5 on
 1 1172603859 -2657 -7459 6148 2400 0 0 0 2 0 50 0 c4create name t4,visible off;activate visible t4 off
 1 1172603861 -2570 -7509 6027 2400 0 0 0 2 0 50 0 c4create name a9,visible off;activate visible a9 off
 1 1172603863 -2695 -7503 6212 2400 0 0 0 2 0 50 0 c4create name t8,visible off;activate visible t8 off
+1 1758326097 -2990 -7510 6270 1500 0 0 0 5 0 52 0 d1a21create visible off radius=20; activate visible c2 on
 1 1172603859 -2657 -7409 6148 2400 0 0 0 2 0 50 0 c4create name t1,visible off;activate visible t1 off
-1 1172603862 -2695 -7459 6212 2400 0 0 0 2 0 73 0 c5create name t5,visible off;activate visible t5 off;miuchiz: buy: 19000053
-1 1172603863 -2724 -7430 6283 2400 0 0 0 5 0 52 0 d1963create visible off radius=20; activate visible t6 on
-1 1172603862 -2732 -7503 6277 2400 0 0 0 2 0 73 0 c5create name t9,visible off;activate visible t9 off;miuchiz: buy: 19000093
-1 1172603862 -2649 -7481 6153 2400 0 0 0 5 0 52 0 d1973create visible off radius=20; activate visible t7 on
+1 1758323465 -2732 -7503 6277 2400 0 0 0 2 0 73 0 c5create name t9,visible off;activate visible t9 off;miuchiz: buy: 19000092
+1 1758323450 -2657 -7459 6148 2400 0 0 0 2 0 73 0 c5create name t4,visible off;activate visible t4 off;miuchiz: buy: 19000042
+1 1758323447 -2732 -7409 6277 2400 0 0 0 2 0 73 0 c5create name t3,visible off;activate visible t3 off;miuchiz: buy: 19000032
+1 1758323409 -2724 -7379 6283 2400 0 0 0 5 0 52 0 d1932create visible off radius=20; activate visible t3 on
+1 1758323440 -2657 -7409 6148 2400 0 0 0 2 0 73 0 c5create name t1,visible off;activate visible t1 off;miuchiz: buy: 19000012
+1 1758326111 -2947 -7465 6295 1500 0 0 0 2 0 73 0 c5create name c1,visible off;activate visible c1 off;miuchiz: buy: 1a000011
 1 1172603863 -2657 -7503 6148 2400 0 0 0 2 0 50 0 c4create name t7,visible off;activate visible t7 off
-1 1172603859 -2732 -7459 6277 2400 0 0 0 2 0 73 0 c5create name t6,visible off;activate visible t6 off;miuchiz: buy: 19000063
+1 1758323406 -2687 -7379 6218 2400 0 0 0 5 0 52 0 d1922create visible off radius=20; activate visible t2 on
 1 1172603863 -2575 -7481 6025 2400 0 0 0 5 0 52 0 d1a95create visible off radius=20; activate visible a9 on
-1 1172603860 -2990 -7465 6270 1500 0 0 0 2 0 73 0 c5create name c2,visible off;activate visible c2 off;miuchiz: buy: 1a000023
-1 1172603862 -2687 -7379 6218 2400 0 0 0 5 0 52 0 d1923create visible off radius=20; activate visible t2 on
 1 1172603860 -2695 -7409 6212 2400 0 0 0 2 0 50 0 c4create name t2,visible off;activate visible t2 off
 1 1172603861 -2570 -7459 6027 2400 0 0 0 2 0 50 0 c4create name a6,visible off;activate visible a6 off
+1 1758323426 -2687 -7481 6218 2400 0 0 0 5 0 52 0 d1982create visible off radius=20; activate visible t8 on
+1 1758326097 -2947 -7510 6295 1500 0 0 0 5 0 52 0 d1a11create visible off radius=20; activate visible c1 on
 1 1172603859 -2570 -7509 6027 2400 0 0 0 2 0 73 0 c5create name a9,visible off;activate visible a9 off;miuchiz: buy: 1a000095
-1 1172603862 -2724 -7379 6283 2400 0 0 0 5 0 52 0 d1933create visible off radius=20; activate visible t3 on
-1 1172603861 -2687 -7481 6218 2400 0 0 0 5 0 52 0 d1983create visible off radius=20; activate visible t8 on
+1 1758323412 -2649 -7430 6153 2400 0 0 0 5 0 52 0 d1942create visible off radius=20; activate visible t4 on
+1 1758323456 -2732 -7459 6277 2400 0 0 0 2 0 73 0 c5create name t6,visible off;activate visible t6 off;miuchiz: buy: 19000062
 1 1172603861 -2575 -7430 6025 2400 0 0 0 5 0 52 0 d1a65create visible off radius=20; activate visible a6 on
+1 1758323391 -2649 -7379 6153 2400 0 0 0 5 0 52 0 d1912create visible off radius=20; activate visible t1 on
 1 1172603863 -2590 -7489 6078 2400 0 0 0 3 0 0 0 wl6
+1 1758323443 -2695 -7409 6212 2400 0 0 0 2 0 73 0 c5create name t2,visible off;activate visible t2 off;miuchiz: buy: 19000022
 1 1172603860 -2801 -7489 6376 2400 0 0 0 2 0 28 0 e2create visible off radius=20
-1 1172603859 -2695 -7503 6212 2400 0 0 0 2 0 73 0 c5create name t8,visible off;activate visible t8 off;miuchiz: buy: 19000083
 1 1204664918 -2870 -13063 -22203 0 0 0 3 0 0 0 215 000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000b44200000000000000000000b4420000000000000000000000000000000000000000000000000000000000003443cdcccc3dcdcccc3d0000803f00000040000000400000803ff4010000f401000001007c15000000000000e8030000d0070000ad6bfe007005c7007b142e3f014100020c0000000000000000000000000000705f646973636f666c77723400
 1 1204664917 -2900 -12968 -22158 1800 0 0 0 6 6 36 0 sign3tYasmincreate sign bcolor=mauve color=white
 1 1205625171 -2470 -12883 -22148 1800 0 0 0 5 64 34 0 sign3Left click on an character to select what you want to be in Mioncreate sign bcolor=black color=red
@@ -18153,9 +18195,9 @@ propdump version 4
 1 1159407170 -17 -4700 7014 1800 0 0 0 5 65 64 0 sign3Ticket price: 1 creditz  Winnings: 10 creditz maximum players: 50create sign color=white bcolor=orange; activate ~ticket:lasertag
 1 1167342684 -2 -4850 7064 1755 0 0 0 5 0 54 0 tportcreate visible off radius=50;activate ~ticket:lasertag
 1 1169485027 -30 -4500 7100 2700 0 0 0 19 0 42 0 mz-a01-b-spin-lasercreate rotate 0 1 0,visible off radius=100
-1 1757123034 -13 -4550 7010 1800 0 0 0 6 31 75 0 sign2bLaserTagLast winner: VaniCandycreate visible off radius=80, sign color=FFFFFF bcolor=FF; ~WinnerLaserTag~
 1 1167174627 -2 -4980 7064 1755 0 0 0 8 0 25 0 tport15gactivate ~ticket:lasertag
 1 1160156009 -67 -4700 7264 0 0 0 2 0 0 0 51 0000f0410000f0410000f0410000000000803f0000803f1000ffffff000100c409000000000000000000000000000000000000
+1 1757799975 -13 -4550 7010 1800 0 0 0 6 30 75 0 sign2bLaserTagLast winner: wrigleyccreate visible off radius=80, sign color=FFFFFF bcolor=FF; ~WinnerLaserTag~
 1 1158778810 -377 -4350 7054 0 0 0 3 0 0 0 218 00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000080400000804000008040000080400000804000008040e8030000e80300000100e80300000000000000000000e8030000ffff0000ffff00000000803f000000000f0000000000000000000000000000703132383a6d3132385f656d61726b00
 1 1156119780 -1000 -9000 7000 0 0 0 0 17 0 0 0 mz-a01-b-g1-roof1
 1 1156601920 -1000 -13000 13000 0 0 0 0 17 0 0 0 mz-a01-b-g1-roof1
