@@ -83,178 +83,178 @@ propdump version 4
 1 1752870115 -400 -20400 8400 900 0 0 0 15 0 0 0 mz-b01-b-rail1e
 1 1752870161 10800 -20400 8400 900 0 0 0 15 0 0 0 mz-b01-b-rail1e
 1 1752870357 3100 -19350 2900 0 0 900 0 2 0 127 0 sbcreate visible off, media url=http://connect.miuchiz.com/objects/sounds/mz_bratz_maze_SMX143_24.mp3 fx=3d radius=200 loop=99999
-1 1785463732 -400 -20400 -400 900 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
-1 1785463732 -400 -20400 400 900 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
-1 1785463732 -400 -20400 1200 900 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
-1 1785463732 -400 -20400 2000 900 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
-1 1785463732 -400 -20400 2800 900 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
-1 1785463732 -400 -20400 3600 900 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
-1 1785463732 -400 -20400 4400 900 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
-1 1785463732 -400 -20400 5200 900 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
-1 1785463732 -400 -20400 6000 900 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
-1 1785463732 -400 -20400 6800 900 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
-1 1785463732 -400 -20400 7600 900 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
-1 1785463732 0 -20400 -800 0 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
-1 1785463732 0 -20400 0 0 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
-1 1785463732 0 -20400 2400 0 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
-1 1785463732 0 -20400 5600 0 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
-1 1785463732 0 -20400 8000 0 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
-1 1785463732 0 -20300 400 0 0 900 0 14 0 190 0 mz-a01-lo-st10create     name MazeP,    solid off,    light radius=50 color=green fx=fire,    corona c_soft1 size=10,    rotate 10 0 0;bump     visible off global,    corona c_soft1 size=0 global;
-1 1785463732 0 -20300 3600 0 0 900 0 14 0 190 0 mz-a01-lo-st10create     name MazeP,    solid off,    light radius=50 color=green fx=fire,    corona c_soft1 size=10,    rotate 10 0 0;bump     visible off global,    corona c_soft1 size=0 global;
-1 1785463732 400 -20400 1200 900 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
-1 1785463732 400 -20400 2000 900 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
-1 1785463732 400 -20400 3600 900 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
-1 1785463732 400 -20400 6800 900 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
-1 1785463732 800 -20400 -800 0 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
-1 1785463732 800 -20400 0 0 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
-1 1785463732 800 -20400 1600 0 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
-1 1785463732 800 -20400 3200 0 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
-1 1785463732 800 -20400 4000 0 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
-1 1785463732 800 -20400 4800 0 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
-1 1785463732 800 -20400 5600 0 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
-1 1785463732 800 -20400 6400 0 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
-1 1785463732 800 -20400 8000 0 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
-1 1785463732 800 -20300 6800 0 0 900 0 14 0 190 0 mz-a01-lo-st10create     name MazeP,    solid off,    light radius=50 color=green fx=fire,    corona c_soft1 size=10,    rotate 10 0 0;bump     visible off global,    corona c_soft1 size=0 global;
-1 1785463732 1200 -20400 400 900 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
-1 1785463732 1200 -20400 2800 900 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
-1 1785463732 1200 -20400 7600 900 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
-1 1785463732 1600 -20400 -800 0 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
-1 1785463732 1600 -20400 800 0 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
-1 1785463732 1600 -20400 1600 0 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
-1 1785463732 1600 -20400 4000 0 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
-1 1785463732 1600 -20400 4800 0 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
-1 1785463732 1600 -20400 5600 0 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
-1 1785463732 1600 -20400 6400 0 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
-1 1785463732 1600 -20400 8000 0 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
-1 1785463732 1600 -20300 2800 0 0 900 0 14 0 191 0 mz-a01-lo-st11create     name MazeP,    solid off,    light radius=50 color=orange fx=fire,    corona c_soft1 size=25,    rotate 10 0 0;bump     visible off global,    corona c_soft1 size=0 global;
-1 1785463732 1600 -20300 4400 0 0 900 0 14 0 190 0 mz-a01-lo-st10create     name MazeP,    solid off,    light radius=50 color=green fx=fire,    corona c_soft1 size=10,    rotate 10 0 0;bump     visible off global,    corona c_soft1 size=0 global;
-1 1785463732 2000 -20400 -400 900 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
-1 1785463732 2000 -20400 2000 900 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
-1 1785463732 2000 -20400 2800 900 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
-1 1785463732 2000 -20400 6800 900 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
-1 1785463732 2000 -20400 7600 900 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
-1 1785463732 2400 -20400 -800 0 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
-1 1785463732 2400 -20400 0 0 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
-1 1785463732 2400 -20400 800 0 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
-1 1785463732 2400 -20400 2400 0 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
-1 1785463732 2400 -20400 4000 0 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
-1 1785463732 2400 -20400 4800 0 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
-1 1785463732 2400 -20400 6400 0 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
-1 1785463732 2400 -20400 8000 0 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
-1 1785463732 2400 -20300 1200 0 0 900 0 14 0 190 0 mz-a01-lo-st10create     name MazeP,    solid off,    light radius=50 color=green fx=fire,    corona c_soft1 size=10,    rotate 10 0 0;bump     visible off global,    corona c_soft1 size=0 global;
-1 1785463732 2800 -20400 2000 900 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
-1 1785463732 2800 -20400 3600 900 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
-1 1785463732 2800 -20400 5200 900 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
-1 1785463732 2800 -20400 6000 900 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
-1 1785463732 3200 -20400 -800 0 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
-1 1785463732 3200 -20400 800 0 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
-1 1785463732 3200 -20400 3200 0 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
-1 1785463732 3200 -20400 4800 0 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
-1 1785463732 3200 -20400 7200 0 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
-1 1785463732 3200 -20300 1200 0 0 900 0 14 0 190 0 mz-a01-lo-st10create     name MazeP,    solid off,    light radius=50 color=green fx=fire,    corona c_soft1 size=10,    rotate 10 0 0;bump     visible off global,    corona c_soft1 size=0 global;
-1 1785463732 3600 -20400 400 900 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
-1 1785463732 3600 -20400 2000 900 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
-1 1785463732 3600 -20400 2800 900 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
-1 1785463732 3600 -20400 4400 900 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
-1 1785463732 3600 -20400 6000 900 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
-1 1785463732 3600 -20400 6800 900 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
-1 1785463732 4000 -20400 -800 0 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
-1 1785463732 4000 -20400 0 0 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
-1 1785463732 4000 -20400 3200 0 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
-1 1785463732 4000 -20400 5600 0 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
-1 1785463732 4000 -20400 8000 0 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
-1 1785463732 4000 -20300 2000 0 0 900 0 13 0 189 0 mz-a01-lo-st3create     name MazeP,    solid off,    light radius=50 color=white fx=fire,    corona c_soft1 size=5,    rotate 10 0 0;bump     visible off global,    corona c_soft1 size=0 global;
-1 1785463732 4400 -20400 400 900 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
-1 1785463732 4400 -20400 1200 900 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
-1 1785463732 4400 -20400 2000 900 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
-1 1785463732 4400 -20400 3600 900 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
-1 1785463732 4400 -20400 4400 900 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
-1 1785463732 4400 -20400 5200 900 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
-1 1785463732 4400 -20400 6800 900 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
-1 1785463732 4800 -20400 -800 0 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
-1 1785463732 4800 -20400 800 0 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
-1 1785463732 4800 -20400 2400 0 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
-1 1785463732 4800 -20400 3200 0 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
-1 1785463732 4800 -20400 6400 0 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
-1 1785463732 4800 -20400 8000 0 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
-1 1785463732 5200 -20400 -400 900 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
-1 1785463732 5200 -20400 2800 900 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
-1 1785463732 5200 -20400 4400 900 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
-1 1785463732 5200 -20400 5200 900 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
-1 1785463732 5200 -20400 6000 900 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
-1 1785463732 5200 -20400 7600 900 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
-1 1785463732 5600 -20400 -800 0 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
-1 1785463732 5600 -20400 0 0 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
-1 1785463732 5600 -20400 800 0 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
-1 1785463732 5600 -20400 1600 0 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
-1 1785463732 5600 -20400 4000 0 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
-1 1785463732 5600 -20400 6400 0 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
-1 1785463732 5600 -20400 8000 0 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
-1 1785463732 5600 -20300 -400 0 0 900 0 13 0 189 0 mz-a01-lo-st3create     name MazeP,    solid off,    light radius=50 color=white fx=fire,    corona c_soft1 size=5,    rotate 10 0 0;bump     visible off global,    corona c_soft1 size=0 global;
-1 1785463732 6000 -20400 2000 900 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
-1 1785463732 6000 -20400 2800 900 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
-1 1785463732 6000 -20400 3600 900 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
-1 1785463732 6000 -20400 4400 900 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
-1 1785463732 6000 -20400 5200 900 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
-1 1785463732 6000 -20400 6800 900 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
-1 1785463732 6400 -20400 -800 0 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
-1 1785463732 6400 -20400 800 0 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
-1 1785463732 6400 -20400 4800 0 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
-1 1785463732 6400 -20400 6400 0 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
-1 1785463732 6400 -20400 8000 0 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
-1 1785463732 6800 -20400 400 900 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
-1 1785463732 6800 -20400 1200 900 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
-1 1785463732 6800 -20400 2000 900 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
-1 1785463732 6800 -20400 2800 900 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
-1 1785463732 6800 -20400 3600 900 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
-1 1785463732 6800 -20400 6000 900 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
-1 1785463732 6800 -20400 7600 900 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
-1 1785463732 7200 -20400 -800 0 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
-1 1785463732 7200 -20400 800 0 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
-1 1785463732 7200 -20400 4800 0 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
-1 1785463732 7200 -20400 6400 0 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
-1 1785463732 7200 -20400 8000 0 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
-1 1785463732 7200 -20300 1200 0 0 900 0 13 0 189 0 mz-a01-lo-st3create     name MazeP,    solid off,    light radius=50 color=white fx=fire,    corona c_soft1 size=5,    rotate 10 0 0;bump     visible off global,    corona c_soft1 size=0 global;
-1 1785463732 7200 -20300 5200 0 0 900 0 13 0 189 0 mz-a01-lo-st4create     name MazeP,    solid off,    light radius=50 color=blue fx=fire,    corona c_soft1 size=15,    rotate 10 0 0;bump     visible off global,    corona c_soft1 size=0 global;
-1 1785463732 7200 -20300 6000 0 0 900 0 13 0 191 0 mz-a01-lo-st6create     name MazeP,    solid off,    light radius=50 color=orchid fx=fire,    corona c_soft1 size=20,    rotate 10 0 0;bump     visible off global,    corona c_soft1 size=0 global;
-1 1785463732 7600 -20400 -400 900 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
-1 1785463732 7600 -20400 2000 900 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
-1 1785463732 7600 -20400 2800 900 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
-1 1785463732 7600 -20400 3600 900 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
-1 1785463732 7600 -20400 4400 900 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
-1 1785463732 7600 -20400 6800 900 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
-1 1785463732 8000 -20400 -800 0 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
-1 1785463732 8000 -20400 1600 0 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
-1 1785463732 8000 -20400 5600 0 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
-1 1785463732 8000 -20400 8000 0 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
-1 1785463732 8000 -20300 2000 0 0 900 0 13 0 189 0 mz-a01-lo-st4create     name MazeP,    solid off,    light radius=50 color=blue fx=fire,    corona c_soft1 size=15,    rotate 10 0 0;bump     visible off global,    corona c_soft1 size=0 global;
-1 1785463732 8000 -20300 5200 0 0 900 0 13 0 189 0 mz-a01-lo-st3create     name MazeP,    solid off,    light radius=50 color=white fx=fire,    corona c_soft1 size=5,    rotate 10 0 0;bump     visible off global,    corona c_soft1 size=0 global;
-1 1785463732 8400 -20400 -400 900 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
-1 1785463732 8400 -20400 400 900 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
-1 1785463732 8400 -20400 1200 900 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
-1 1785463732 8400 -20400 2000 900 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
-1 1785463732 8400 -20400 2800 900 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
-1 1785463732 8400 -20400 3600 900 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
-1 1785463732 8400 -20400 4400 900 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
-1 1785463732 8400 -20400 5200 900 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
-1 1785463732 8400 -20400 6000 900 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
-1 1785463732 8400 -20400 6800 900 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
-1 1785463732 8400 -20400 7600 900 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
-1 1785463739 3200 -20300 400 0 0 900 0 13 0 145 0 mz-a01-lo-st3create                                   name MazeP,                                  solid off,                                  visible off;
-1 1785463743 6400 -20300 -400 0 0 900 0 13 0 145 0 mz-a01-lo-st4create                                   name MazeP,                                  solid off,                                  visible off;
-1 1785463745 7200 -20300 400 0 0 900 0 13 0 145 0 mz-a01-lo-st4create                                   name MazeP,                                  solid off,                                  visible off;
-1 1785463746 8000 -20300 1200 0 0 900 0 14 0 145 0 mz-a01-lo-st11create                                   name MazeP,                                  solid off,                                  visible off;
-1 1785463750 7200 -20300 4400 0 0 900 0 13 0 145 0 mz-a01-lo-st3create                                   name MazeP,                                  solid off,                                  visible off;
-1 1785463751 6400 -20300 4400 0 0 900 0 13 0 145 0 mz-a01-lo-st4create                                   name MazeP,                                  solid off,                                  visible off;
-1 1785463753 6400 -20300 2800 0 0 900 0 13 0 145 0 mz-a01-lo-st4create                                   name MazeP,                                  solid off,                                  visible off;
-1 1785463756 4800 -20300 1200 0 0 900 0 14 0 145 0 mz-a01-lo-st11create                                   name MazeP,                                  solid off,                                  visible off;
-1 1785463757 4800 -20300 2000 0 0 900 0 14 0 145 0 mz-a01-lo-st10create                                   name MazeP,                                  solid off,                                  visible off;
-1 1785463759 5600 -20300 2000 0 0 900 0 13 0 145 0 mz-a01-lo-st6create                                   name MazeP,                                  solid off,                                  visible off;
-1 1785463759 5600 -20300 3600 0 0 900 0 13 0 145 0 mz-a01-lo-st6create                                   name MazeP,                                  solid off,                                  visible off;
-1 1785463760 4800 -20300 4400 0 0 900 0 13 0 145 0 mz-a01-lo-st3create                                   name MazeP,                                  solid off,                                  visible off;
-1 1785463763 4000 -20300 6000 0 0 900 0 13 0 145 0 mz-a01-lo-st3create                                   name MazeP,                                  solid off,                                  visible off;
-1 1785463766 2400 -20300 7600 0 0 900 0 13 0 145 0 mz-a01-lo-st3create                                   name MazeP,                                  solid off,                                  visible off;
-1 1785463767 2400 -20300 6800 0 0 900 0 13 0 145 0 mz-a01-lo-st6create                                   name MazeP,                                  solid off,                                  visible off;
-1 1785463770 4000 -20300 4400 0 0 900 0 14 0 145 0 mz-a01-lo-st10create                                   name MazeP,                                  solid off,                                  visible off;
-1 1785463771 4000 -20300 3600 0 0 900 0 13 0 145 0 mz-a01-lo-st3create                                   name MazeP,                                  solid off,                                  visible off;
-1 1785463774 9800 -20300 8400 0 0 900 0 14 0 56 0 mz-a01-lo-st16create     name MazeGP,    solid off,    visible off;
+1 1786594031 -400 -20400 -400 900 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
+1 1786594031 -400 -20400 400 900 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
+1 1786594031 -400 -20400 1200 900 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
+1 1786594031 -400 -20400 2000 900 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
+1 1786594031 -400 -20400 2800 900 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
+1 1786594031 0 -20400 -800 0 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
+1 1786594031 0 -20400 0 0 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
+1 1786594031 0 -20400 1600 0 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
+1 1786594031 0 -20400 3200 0 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
+1 1786594032 -400 -20400 3600 900 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
+1 1786594032 -400 -20400 4400 900 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
+1 1786594032 -400 -20400 5200 900 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
+1 1786594032 -400 -20400 6000 900 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
+1 1786594032 -400 -20400 6800 900 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
+1 1786594032 -400 -20400 7600 900 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
+1 1786594032 0 -20400 5600 0 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
+1 1786594032 0 -20400 8000 0 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
+1 1786594032 400 -20400 3600 900 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
+1 1786594032 400 -20400 7600 900 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
+1 1786594032 800 -20400 -800 0 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
+1 1786594032 800 -20400 800 0 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
+1 1786594032 800 -20400 2400 0 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
+1 1786594032 800 -20400 4800 0 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
+1 1786594032 800 -20400 5600 0 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
+1 1786594032 800 -20400 6400 0 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
+1 1786594032 800 -20400 8000 0 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
+1 1786594032 800 -20300 6800 0 0 900 0 13 0 191 0 mz-a01-lo-st6create     name MazeP,    solid off,    light radius=50 color=orchid fx=fire,    corona c_soft1 size=20,    rotate 10 0 0;bump     visible off global,    corona c_soft1 size=0 global;
+1 1786594032 1200 -20400 -400 900 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
+1 1786594032 1200 -20400 400 900 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
+1 1786594032 1200 -20400 1200 900 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
+1 1786594032 1200 -20400 2000 900 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
+1 1786594032 1200 -20400 2800 900 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
+1 1786594032 1200 -20400 3600 900 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
+1 1786594032 1200 -20400 4400 900 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
+1 1786594032 1200 -20400 6000 900 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
+1 1786594032 1200 -20400 6800 900 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
+1 1786594032 1600 -20400 -800 0 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
+1 1786594032 1600 -20400 4000 0 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
+1 1786594032 1600 -20400 4800 0 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
+1 1786594032 1600 -20400 5600 0 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
+1 1786594032 1600 -20400 8000 0 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
+1 1786594032 1600 -20300 1200 0 0 900 0 13 0 191 0 mz-a01-lo-st6create     name MazeP,    solid off,    light radius=50 color=orchid fx=fire,    corona c_soft1 size=20,    rotate 10 0 0;bump     visible off global,    corona c_soft1 size=0 global;
+1 1786594032 1600 -20300 4400 0 0 900 0 13 0 189 0 mz-a01-lo-st3create     name MazeP,    solid off,    light radius=50 color=white fx=fire,    corona c_soft1 size=5,    rotate 10 0 0;bump     visible off global,    corona c_soft1 size=0 global;
+1 1786594032 1600 -20300 6800 0 0 900 0 14 0 191 0 mz-a01-lo-st11create     name MazeP,    solid off,    light radius=50 color=orange fx=fire,    corona c_soft1 size=25,    rotate 10 0 0;bump     visible off global,    corona c_soft1 size=0 global;
+1 1786594032 2000 -20400 400 900 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
+1 1786594032 2000 -20400 2000 900 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
+1 1786594032 2000 -20400 2800 900 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
+1 1786594032 2000 -20400 6800 900 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
+1 1786594032 2400 -20400 -800 0 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
+1 1786594032 2400 -20400 0 0 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
+1 1786594032 2400 -20400 800 0 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
+1 1786594032 2400 -20400 1600 0 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
+1 1786594032 2400 -20400 4000 0 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
+1 1786594032 2400 -20400 4800 0 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
+1 1786594032 2400 -20400 5600 0 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
+1 1786594032 2400 -20400 6400 0 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
+1 1786594032 2400 -20400 8000 0 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
+1 1786594032 2400 -20300 -400 0 0 900 0 14 0 190 0 mz-a01-lo-st10create     name MazeP,    solid off,    light radius=50 color=green fx=fire,    corona c_soft1 size=10,    rotate 10 0 0;bump     visible off global,    corona c_soft1 size=0 global;
+1 1786594032 2400 -20300 2000 0 0 900 0 13 0 189 0 mz-a01-lo-st3create     name MazeP,    solid off,    light radius=50 color=white fx=fire,    corona c_soft1 size=5,    rotate 10 0 0;bump     visible off global,    corona c_soft1 size=0 global;
+1 1786594032 2400 -20300 2800 0 0 900 0 13 0 189 0 mz-a01-lo-st4create     name MazeP,    solid off,    light radius=50 color=blue fx=fire,    corona c_soft1 size=15,    rotate 10 0 0;bump     visible off global,    corona c_soft1 size=0 global;
+1 1786594032 2800 -20400 2800 900 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
+1 1786594032 2800 -20400 3600 900 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
+1 1786594032 2800 -20400 6800 900 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
+1 1786594032 3200 -20400 -800 0 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
+1 1786594032 3200 -20400 800 0 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
+1 1786594032 3200 -20400 1600 0 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
+1 1786594032 3200 -20400 4800 0 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
+1 1786594032 3200 -20400 5600 0 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
+1 1786594032 3200 -20400 7200 0 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
+1 1786594032 3200 -20400 8000 0 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
+1 1786594032 3200 -20300 4400 0 0 900 0 13 0 189 0 mz-a01-lo-st3create     name MazeP,    solid off,    light radius=50 color=white fx=fire,    corona c_soft1 size=5,    rotate 10 0 0;bump     visible off global,    corona c_soft1 size=0 global;
+1 1786594032 3200 -20300 6000 0 0 900 0 13 0 189 0 mz-a01-lo-st4create     name MazeP,    solid off,    light radius=50 color=blue fx=fire,    corona c_soft1 size=15,    rotate 10 0 0;bump     visible off global,    corona c_soft1 size=0 global;
+1 1786594032 3200 -20300 6800 0 0 900 0 14 0 190 0 mz-a01-lo-st10create     name MazeP,    solid off,    light radius=50 color=green fx=fire,    corona c_soft1 size=10,    rotate 10 0 0;bump     visible off global,    corona c_soft1 size=0 global;
+1 1786594032 3600 -20400 -400 900 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
+1 1786594032 3600 -20400 2000 900 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
+1 1786594032 3600 -20400 2800 900 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
+1 1786594032 3600 -20400 3600 900 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
+1 1786594032 3600 -20400 4400 900 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
+1 1786594032 3600 -20400 7600 900 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
+1 1786594032 4000 -20400 -800 0 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
+1 1786594032 4000 -20400 800 0 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
+1 1786594032 4000 -20400 1600 0 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
+1 1786594032 4000 -20400 5600 0 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
+1 1786594032 4000 -20400 6400 0 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
+1 1786594032 4000 -20400 8000 0 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
+1 1786594032 4000 -20300 -400 0 0 900 0 14 0 190 0 mz-a01-lo-st10create     name MazeP,    solid off,    light radius=50 color=green fx=fire,    corona c_soft1 size=10,    rotate 10 0 0;bump     visible off global,    corona c_soft1 size=0 global;
+1 1786594032 4000 -20300 6000 0 0 900 0 13 0 189 0 mz-a01-lo-st3create     name MazeP,    solid off,    light radius=50 color=white fx=fire,    corona c_soft1 size=5,    rotate 10 0 0;bump     visible off global,    corona c_soft1 size=0 global;
+1 1786594032 4400 -20400 400 900 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
+1 1786594032 4400 -20400 2800 900 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
+1 1786594032 4400 -20400 3600 900 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
+1 1786594032 4400 -20400 4400 900 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
+1 1786594032 4400 -20400 5200 900 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
+1 1786594032 4400 -20400 6000 900 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
+1 1786594032 4400 -20400 6800 900 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
+1 1786594032 4800 -20400 -800 0 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
+1 1786594032 4800 -20400 0 0 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
+1 1786594032 4800 -20400 800 0 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
+1 1786594032 4800 -20400 1600 0 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
+1 1786594032 4800 -20400 3200 0 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
+1 1786594032 4800 -20400 8000 0 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
+1 1786594032 5200 -20400 2000 900 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
+1 1786594032 5200 -20400 5200 900 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
+1 1786594032 5200 -20400 6000 900 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
+1 1786594032 5200 -20400 6800 900 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
+1 1786594032 5600 -20400 -800 0 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
+1 1786594032 5600 -20400 0 0 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
+1 1786594032 5600 -20400 800 0 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
+1 1786594032 5600 -20400 2400 0 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
+1 1786594032 5600 -20400 3200 0 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
+1 1786594032 5600 -20400 4000 0 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
+1 1786594032 5600 -20400 4800 0 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
+1 1786594032 5600 -20300 400 0 0 900 0 13 0 189 0 mz-a01-lo-st3create     name MazeP,    solid off,    light radius=50 color=white fx=fire,    corona c_soft1 size=5,    rotate 10 0 0;bump     visible off global,    corona c_soft1 size=0 global;
+1 1786594032 5600 -20300 6800 0 0 900 0 14 0 190 0 mz-a01-lo-st10create     name MazeP,    solid off,    light radius=50 color=green fx=fire,    corona c_soft1 size=10,    rotate 10 0 0;bump     visible off global,    corona c_soft1 size=0 global;
+1 1786594032 6000 -20400 1200 900 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
+1 1786594032 6000 -20400 5200 900 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
+1 1786594032 6000 -20400 6000 900 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
+1 1786594032 6000 -20400 6800 900 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
+1 1786594032 6400 -20400 -800 0 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
+1 1786594032 6400 -20400 800 0 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
+1 1786594032 6400 -20400 2400 0 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
+1 1786594032 6400 -20400 3200 0 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
+1 1786594032 6400 -20400 4000 0 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
+1 1786594032 6400 -20400 7200 0 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
+1 1786594032 6400 -20400 8000 0 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
+1 1786594032 6800 -20400 -400 900 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
+1 1786594032 6800 -20400 3600 900 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
+1 1786594032 6800 -20400 4400 900 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
+1 1786594032 6800 -20400 5200 900 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
+1 1786594032 6800 -20400 6000 900 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
+1 1786594032 7200 -20400 -800 0 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
+1 1786594032 7200 -20400 800 0 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
+1 1786594032 7200 -20400 1600 0 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
+1 1786594032 7200 -20400 2400 0 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
+1 1786594032 7200 -20400 3200 0 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
+1 1786594032 7200 -20400 6400 0 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
+1 1786594032 7200 -20400 7200 0 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
+1 1786594032 7200 -20400 8000 0 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
+1 1786594032 7200 -20300 7600 0 0 900 0 14 0 190 0 mz-a01-lo-st10create     name MazeP,    solid off,    light radius=50 color=green fx=fire,    corona c_soft1 size=10,    rotate 10 0 0;bump     visible off global,    corona c_soft1 size=0 global;
+1 1786594032 7600 -20400 400 900 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
+1 1786594032 7600 -20400 2000 900 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
+1 1786594032 7600 -20400 4400 900 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
+1 1786594032 7600 -20400 5200 900 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
+1 1786594032 8000 -20400 -800 0 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
+1 1786594032 8000 -20400 800 0 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
+1 1786594032 8000 -20400 4000 0 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
+1 1786594032 8000 -20400 7200 0 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
+1 1786594032 8000 -20400 8000 0 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
+1 1786594032 8000 -20300 400 0 0 900 0 14 0 190 0 mz-a01-lo-st10create     name MazeP,    solid off,    light radius=50 color=green fx=fire,    corona c_soft1 size=10,    rotate 10 0 0;bump     visible off global,    corona c_soft1 size=0 global;
+1 1786594032 8000 -20300 4400 0 0 900 0 13 0 189 0 mz-a01-lo-st3create     name MazeP,    solid off,    light radius=50 color=white fx=fire,    corona c_soft1 size=5,    rotate 10 0 0;bump     visible off global,    corona c_soft1 size=0 global;
+1 1786594032 8400 -20400 -400 900 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
+1 1786594032 8400 -20400 400 900 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
+1 1786594032 8400 -20400 1200 900 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
+1 1786594032 8400 -20400 2000 900 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
+1 1786594032 8400 -20400 2800 900 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
+1 1786594032 8400 -20400 3600 900 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
+1 1786594032 8400 -20400 4400 900 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
+1 1786594032 8400 -20400 5200 900 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
+1 1786594032 8400 -20400 6000 900 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
+1 1786594032 8400 -20400 6800 900 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
+1 1786594032 8400 -20400 7600 900 0 0 0 15 0 17 0 mz-b01-b-rail1ecreate name MazeW
+1 1786594035 0 -20300 -400 0 0 900 0 13 0 145 0 mz-a01-lo-st6create                                   name MazeP,                                  solid off,                                  visible off;
+1 1786594037 0 -20300 400 0 0 900 0 13 0 145 0 mz-a01-lo-st3create                                   name MazeP,                                  solid off,                                  visible off;
+1 1786594040 800 -20300 2000 0 0 900 0 13 0 145 0 mz-a01-lo-st3create                                   name MazeP,                                  solid off,                                  visible off;
+1 1786594041 0 -20300 2000 0 0 900 0 13 0 145 0 mz-a01-lo-st4create                                   name MazeP,                                  solid off,                                  visible off;
+1 1786594042 0 -20300 2800 0 0 900 0 13 0 145 0 mz-a01-lo-st6create                                   name MazeP,                                  solid off,                                  visible off;
+1 1786594050 4000 -20300 4400 0 0 900 0 14 0 145 0 mz-a01-lo-st10create                                   name MazeP,                                  solid off,                                  visible off;
+1 1786594053 4800 -20300 2800 0 0 900 0 14 0 145 0 mz-a01-lo-st11create                                   name MazeP,                                  solid off,                                  visible off;
+1 1786594054 5600 -20300 2800 0 0 900 0 14 0 145 0 mz-a01-lo-st11create                                   name MazeP,                                  solid off,                                  visible off;
+1 1786594057 8000 -20300 2000 0 0 900 0 14 0 145 0 mz-a01-lo-st10create                                   name MazeP,                                  solid off,                                  visible off;
+1 1786594060 7200 -20300 3600 0 0 900 0 13 0 145 0 mz-a01-lo-st3create                                   name MazeP,                                  solid off,                                  visible off;
+1 1786594062 7200 -20300 5200 0 0 900 0 13 0 145 0 mz-a01-lo-st4create                                   name MazeP,                                  solid off,                                  visible off;
+1 1786594064 8000 -20300 6800 0 0 900 0 13 0 145 0 mz-a01-lo-st3create                                   name MazeP,                                  solid off,                                  visible off;
+1 1786594067 6400 -20300 5200 0 0 900 0 13 0 145 0 mz-a01-lo-st4create                                   name MazeP,                                  solid off,                                  visible off;
+1 1786594069 4800 -20300 4400 0 0 900 0 13 0 145 0 mz-a01-lo-st4create                                   name MazeP,                                  solid off,                                  visible off;
+1 1786594078 9800 -20300 8400 0 0 900 0 14 0 56 0 mz-a01-lo-st16create     name MazeGP,    solid off,    visible off;

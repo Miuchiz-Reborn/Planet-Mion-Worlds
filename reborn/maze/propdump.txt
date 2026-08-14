@@ -47,178 +47,178 @@ propdump version 4
 1 1752702589 9600 -20400 8000 0 0 0 0 16 0 0 0 mz-p01-p-hedge17
 1 1752702606 8800 -20400 8000 0 0 0 0 16 0 0 0 mz-p01-p-hedge17
 1 1752869574 4000 -19050 9450 0 0 0 0 2 0 116 0 sbcreate visible off, media url=http://connect.miuchiz.com/objects/sounds/dogonloose60.mp3 fx=3d radius=250 loop=99999
-1 1785469389 -400 -20400 -400 900 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
-1 1785469389 -400 -20400 400 900 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
-1 1785469389 0 -20400 -800 0 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
-1 1785469389 0 -20400 0 0 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
-1 1785469390 -400 -20400 1200 900 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
-1 1785469390 -400 -20400 2000 900 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
-1 1785469390 -400 -20400 2800 900 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
-1 1785469390 -400 -20400 3600 900 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
-1 1785469390 -400 -20400 4400 900 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
-1 1785469390 -400 -20400 5200 900 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
-1 1785469390 -400 -20400 6000 900 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
-1 1785469390 -400 -20400 6800 900 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
-1 1785469390 -400 -20400 7600 900 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
-1 1785469390 0 -20400 1600 0 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
-1 1785469390 0 -20400 3200 0 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
-1 1785469390 0 -20400 6400 0 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
-1 1785469390 0 -20400 8000 0 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
-1 1785469390 400 -20400 5200 900 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
-1 1785469390 400 -20400 6800 900 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
-1 1785469390 800 -20400 -800 0 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
-1 1785469390 800 -20400 0 0 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
-1 1785469390 800 -20400 800 0 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
-1 1785469390 800 -20400 1600 0 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
-1 1785469390 800 -20400 2400 0 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
-1 1785469390 800 -20400 4000 0 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
-1 1785469390 800 -20400 5600 0 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
-1 1785469390 800 -20400 7200 0 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
-1 1785469390 800 -20400 8000 0 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
-1 1785469390 1200 -20400 400 900 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
-1 1785469390 1200 -20400 2800 900 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
-1 1785469390 1200 -20400 3600 900 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
-1 1785469390 1200 -20400 4400 900 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
-1 1785469390 1200 -20400 6000 900 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
-1 1785469390 1600 -20400 -800 0 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
-1 1785469390 1600 -20400 800 0 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
-1 1785469390 1600 -20400 2400 0 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
-1 1785469390 1600 -20400 4000 0 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
-1 1785469390 1600 -20400 4800 0 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
-1 1785469390 1600 -20400 5600 0 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
-1 1785469390 1600 -20400 6400 0 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
-1 1785469390 1600 -20400 8000 0 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
-1 1785469390 1600 -20300 4400 0 0 900 0 13 0 191 0 mz-a01-lo-st6create     name MazeP,    solid off,    light radius=50 color=orchid fx=fire,    corona c_soft1 size=20,    rotate 10 0 0;bump     visible off global,    corona c_soft1 size=0 global;
-1 1785469390 2000 -20400 -400 900 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
-1 1785469390 2000 -20400 1200 900 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
-1 1785469390 2000 -20400 6800 900 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
-1 1785469390 2400 -20400 -800 0 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
-1 1785469390 2400 -20400 0 0 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
-1 1785469390 2400 -20400 1600 0 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
-1 1785469390 2400 -20400 2400 0 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
-1 1785469390 2400 -20400 3200 0 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
-1 1785469390 2400 -20400 4800 0 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
-1 1785469390 2400 -20400 5600 0 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
-1 1785469390 2400 -20400 8000 0 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
-1 1785469390 2400 -20300 4400 0 0 900 0 13 0 189 0 mz-a01-lo-st3create     name MazeP,    solid off,    light radius=50 color=white fx=fire,    corona c_soft1 size=5,    rotate 10 0 0;bump     visible off global,    corona c_soft1 size=0 global;
-1 1785469390 2800 -20400 400 900 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
-1 1785469390 2800 -20400 3600 900 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
-1 1785469390 2800 -20400 6800 900 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
-1 1785469390 2800 -20400 7600 900 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
-1 1785469390 3200 -20400 -800 0 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
-1 1785469390 3200 -20400 800 0 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
-1 1785469390 3200 -20400 1600 0 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
-1 1785469390 3200 -20400 3200 0 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
-1 1785469390 3200 -20400 4800 0 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
-1 1785469390 3200 -20400 5600 0 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
-1 1785469390 3200 -20400 6400 0 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
-1 1785469390 3200 -20400 8000 0 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
-1 1785469390 3200 -20300 -400 0 0 900 0 13 0 189 0 mz-a01-lo-st4create     name MazeP,    solid off,    light radius=50 color=blue fx=fire,    corona c_soft1 size=15,    rotate 10 0 0;bump     visible off global,    corona c_soft1 size=0 global;
-1 1785469390 3600 -20400 400 900 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
-1 1785469390 3600 -20400 2800 900 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
-1 1785469390 3600 -20400 3600 900 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
-1 1785469390 3600 -20400 4400 900 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
-1 1785469390 4000 -20400 -800 0 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
-1 1785469390 4000 -20400 800 0 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
-1 1785469390 4000 -20400 1600 0 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
-1 1785469390 4000 -20400 2400 0 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
-1 1785469390 4000 -20400 5600 0 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
-1 1785469390 4000 -20400 6400 0 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
-1 1785469390 4000 -20400 7200 0 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
-1 1785469390 4000 -20400 8000 0 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
-1 1785469390 4000 -20300 400 0 0 900 0 13 0 189 0 mz-a01-lo-st4create     name MazeP,    solid off,    light radius=50 color=blue fx=fire,    corona c_soft1 size=15,    rotate 10 0 0;bump     visible off global,    corona c_soft1 size=0 global;
-1 1785469390 4400 -20400 -400 900 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
-1 1785469390 4400 -20400 2000 900 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
-1 1785469390 4400 -20400 3600 900 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
-1 1785469390 4400 -20400 4400 900 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
-1 1785469390 4400 -20400 5200 900 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
-1 1785469390 4400 -20400 7600 900 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
-1 1785469390 4800 -20400 -800 0 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
-1 1785469390 4800 -20400 800 0 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
-1 1785469390 4800 -20400 1600 0 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
-1 1785469390 4800 -20400 3200 0 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
-1 1785469390 4800 -20400 5600 0 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
-1 1785469390 4800 -20400 6400 0 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
-1 1785469390 4800 -20400 8000 0 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
-1 1785469390 4800 -20300 5200 0 0 900 0 13 0 191 0 mz-a01-lo-st6create     name MazeP,    solid off,    light radius=50 color=orchid fx=fire,    corona c_soft1 size=20,    rotate 10 0 0;bump     visible off global,    corona c_soft1 size=0 global;
-1 1785469390 5200 -20400 400 900 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
-1 1785469390 5200 -20400 2800 900 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
-1 1785469390 5200 -20400 5200 900 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
-1 1785469390 5200 -20400 6800 900 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
-1 1785469390 5600 -20400 -800 0 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
-1 1785469390 5600 -20400 800 0 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
-1 1785469390 5600 -20400 1600 0 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
-1 1785469390 5600 -20400 2400 0 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
-1 1785469390 5600 -20400 4000 0 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
-1 1785469390 5600 -20400 5600 0 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
-1 1785469390 5600 -20400 8000 0 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
-1 1785469390 5600 -20300 3600 0 0 900 0 13 0 189 0 mz-a01-lo-st3create     name MazeP,    solid off,    light radius=50 color=white fx=fire,    corona c_soft1 size=5,    rotate 10 0 0;bump     visible off global,    corona c_soft1 size=0 global;
-1 1785469390 6000 -20400 -400 900 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
-1 1785469390 6000 -20400 2800 900 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
-1 1785469390 6000 -20400 3600 900 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
-1 1785469390 6000 -20400 4400 900 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
-1 1785469390 6000 -20400 6000 900 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
-1 1785469390 6000 -20400 6800 900 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
-1 1785469390 6400 -20400 -800 0 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
-1 1785469390 6400 -20400 800 0 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
-1 1785469390 6400 -20400 2400 0 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
-1 1785469390 6400 -20400 6400 0 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
-1 1785469390 6400 -20400 8000 0 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
-1 1785469390 6400 -20300 -400 0 0 900 0 14 0 190 0 mz-a01-lo-st10create     name MazeP,    solid off,    light radius=50 color=green fx=fire,    corona c_soft1 size=10,    rotate 10 0 0;bump     visible off global,    corona c_soft1 size=0 global;
-1 1785469390 6400 -20300 2800 0 0 900 0 13 0 189 0 mz-a01-lo-st3create     name MazeP,    solid off,    light radius=50 color=white fx=fire,    corona c_soft1 size=5,    rotate 10 0 0;bump     visible off global,    corona c_soft1 size=0 global;
-1 1785469390 6400 -20300 3600 0 0 900 0 14 0 190 0 mz-a01-lo-st10create     name MazeP,    solid off,    light radius=50 color=green fx=fire,    corona c_soft1 size=10,    rotate 10 0 0;bump     visible off global,    corona c_soft1 size=0 global;
-1 1785469390 6400 -20300 4400 0 0 900 0 13 0 189 0 mz-a01-lo-st3create     name MazeP,    solid off,    light radius=50 color=white fx=fire,    corona c_soft1 size=5,    rotate 10 0 0;bump     visible off global,    corona c_soft1 size=0 global;
-1 1785469390 6400 -20300 6000 0 0 900 0 14 0 190 0 mz-a01-lo-st10create     name MazeP,    solid off,    light radius=50 color=green fx=fire,    corona c_soft1 size=10,    rotate 10 0 0;bump     visible off global,    corona c_soft1 size=0 global;
-1 1785469390 6800 -20400 1200 900 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
-1 1785469390 6800 -20400 2000 900 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
-1 1785469390 6800 -20400 3600 900 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
-1 1785469390 6800 -20400 4400 900 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
-1 1785469390 6800 -20400 5200 900 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
-1 1785469390 6800 -20400 6000 900 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
-1 1785469390 6800 -20400 7600 900 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
-1 1785469390 7200 -20400 -800 0 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
-1 1785469390 7200 -20400 0 0 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
-1 1785469390 7200 -20400 800 0 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
-1 1785469390 7200 -20400 3200 0 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
-1 1785469390 7200 -20400 6400 0 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
-1 1785469390 7200 -20400 8000 0 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
-1 1785469390 7200 -20300 2000 0 0 900 0 13 0 189 0 mz-a01-lo-st4create     name MazeP,    solid off,    light radius=50 color=blue fx=fire,    corona c_soft1 size=15,    rotate 10 0 0;bump     visible off global,    corona c_soft1 size=0 global;
-1 1785469390 7200 -20300 2800 0 0 900 0 14 0 190 0 mz-a01-lo-st10create     name MazeP,    solid off,    light radius=50 color=green fx=fire,    corona c_soft1 size=10,    rotate 10 0 0;bump     visible off global,    corona c_soft1 size=0 global;
-1 1785469390 7200 -20300 5200 0 0 900 0 14 0 190 0 mz-a01-lo-st10create     name MazeP,    solid off,    light radius=50 color=green fx=fire,    corona c_soft1 size=10,    rotate 10 0 0;bump     visible off global,    corona c_soft1 size=0 global;
-1 1785469390 7200 -20300 6800 0 0 900 0 13 0 189 0 mz-a01-lo-st3create     name MazeP,    solid off,    light radius=50 color=white fx=fire,    corona c_soft1 size=5,    rotate 10 0 0;bump     visible off global,    corona c_soft1 size=0 global;
-1 1785469390 7600 -20400 400 900 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
-1 1785469390 7600 -20400 2800 900 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
-1 1785469390 7600 -20400 4400 900 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
-1 1785469390 7600 -20400 5200 900 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
-1 1785469390 7600 -20400 6800 900 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
-1 1785469390 8000 -20400 -800 0 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
-1 1785469390 8000 -20400 1600 0 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
-1 1785469390 8000 -20400 5600 0 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
-1 1785469390 8000 -20300 3600 0 0 900 0 13 0 189 0 mz-a01-lo-st3create     name MazeP,    solid off,    light radius=50 color=white fx=fire,    corona c_soft1 size=5,    rotate 10 0 0;bump     visible off global,    corona c_soft1 size=0 global;
-1 1785469390 8000 -20300 4400 0 0 900 0 13 0 189 0 mz-a01-lo-st3create     name MazeP,    solid off,    light radius=50 color=white fx=fire,    corona c_soft1 size=5,    rotate 10 0 0;bump     visible off global,    corona c_soft1 size=0 global;
-1 1785469390 8400 -20400 -400 900 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
-1 1785469390 8400 -20400 400 900 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
-1 1785469390 8400 -20400 1200 900 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
-1 1785469390 8400 -20400 2000 900 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
-1 1785469390 8400 -20400 2800 900 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
-1 1785469390 8400 -20400 3600 900 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
-1 1785469390 8400 -20400 4400 900 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
-1 1785469390 8400 -20400 5200 900 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
-1 1785469390 8400 -20400 6000 900 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
-1 1785469390 8400 -20400 6800 900 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
-1 1785469390 8400 -20400 7600 900 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
-1 1785469399 6400 -20300 1200 0 0 900 0 13 0 145 0 mz-a01-lo-st4create                                   name MazeP,                                  solid off,                                  visible off;
-1 1785469402 4800 -20300 2000 0 0 900 0 14 0 145 0 mz-a01-lo-st10create                                   name MazeP,                                  solid off,                                  visible off;
-1 1785469403 4000 -20300 2800 0 0 900 0 13 0 145 0 mz-a01-lo-st3create                                   name MazeP,                                  solid off,                                  visible off;
-1 1785469403 4800 -20300 2800 0 0 900 0 13 0 145 0 mz-a01-lo-st3create                                   name MazeP,                                  solid off,                                  visible off;
-1 1785469410 0 -20300 4400 0 0 900 0 14 0 145 0 mz-a01-lo-st11create                                   name MazeP,                                  solid off,                                  visible off;
-1 1785469418 4000 -20300 6000 0 0 900 0 13 0 145 0 mz-a01-lo-st6create                                   name MazeP,                                  solid off,                                  visible off;
-1 1785469419 4800 -20300 6000 0 0 900 0 13 0 145 0 mz-a01-lo-st3create                                   name MazeP,                                  solid off,                                  visible off;
-1 1785469420 800 -20300 2000 0 0 900 0 13 0 145 0 mz-a01-lo-st4create                                   name MazeP,                                  solid off,                                  visible off;
-1 1785469420 5600 -20300 6000 0 0 900 0 14 0 145 0 mz-a01-lo-st11create                                   name MazeP,                                  solid off,                                  visible off;
-1 1785469422 2400 -20300 2000 0 0 900 0 13 0 145 0 mz-a01-lo-st4create                                   name MazeP,                                  solid off,                                  visible off;
-1 1785469422 3200 -20300 2000 0 0 900 0 13 0 145 0 mz-a01-lo-st6create                                   name MazeP,                                  solid off,                                  visible off;
-1 1785469423 4800 -20300 6800 0 0 900 0 14 0 145 0 mz-a01-lo-st10create                                   name MazeP,                                  solid off,                                  visible off;
-1 1785469425 3200 -20300 7600 0 0 900 0 14 0 145 0 mz-a01-lo-st11create                                   name MazeP,                                  solid off,                                  visible off;
-1 1785469426 4000 -20300 7600 0 0 900 0 14 0 145 0 mz-a01-lo-st10create                                   name MazeP,                                  solid off,                                  visible off;
-1 1785469435 9800 -20300 8400 0 0 900 0 14 0 56 0 mz-a01-lo-st16create     name MazeGP,    solid off,    visible off;
+1 1786721748 -400 -20400 -400 900 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
+1 1786721748 -400 -20400 400 900 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
+1 1786721748 -400 -20400 1200 900 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
+1 1786721748 -400 -20400 2000 900 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
+1 1786721748 -400 -20400 2800 900 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
+1 1786721748 -400 -20400 3600 900 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
+1 1786721748 -400 -20400 4400 900 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
+1 1786721748 -400 -20400 5200 900 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
+1 1786721748 -400 -20400 6000 900 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
+1 1786721748 -400 -20400 6800 900 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
+1 1786721748 -400 -20400 7600 900 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
+1 1786721748 0 -20400 -800 0 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
+1 1786721748 0 -20400 0 0 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
+1 1786721748 0 -20400 5600 0 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
+1 1786721748 0 -20400 8000 0 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
+1 1786721748 0 -20300 400 0 0 900 0 14 0 190 0 mz-a01-lo-st10create     name MazeP,    solid off,    light radius=50 color=green fx=fire,    corona c_soft1 size=10,    rotate 10 0 0;bump     visible off global,    corona c_soft1 size=0 global;
+1 1786721748 0 -20300 6000 0 0 900 0 13 0 189 0 mz-a01-lo-st4create     name MazeP,    solid off,    light radius=50 color=blue fx=fire,    corona c_soft1 size=15,    rotate 10 0 0;bump     visible off global,    corona c_soft1 size=0 global;
+1 1786721748 0 -20300 6800 0 0 900 0 14 0 190 0 mz-a01-lo-st10create     name MazeP,    solid off,    light radius=50 color=green fx=fire,    corona c_soft1 size=10,    rotate 10 0 0;bump     visible off global,    corona c_soft1 size=0 global;
+1 1786721748 400 -20400 400 900 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
+1 1786721748 400 -20400 1200 900 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
+1 1786721748 400 -20400 2000 900 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
+1 1786721748 400 -20400 3600 900 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
+1 1786721748 400 -20400 4400 900 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
+1 1786721748 400 -20400 6800 900 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
+1 1786721748 800 -20400 -800 0 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
+1 1786721748 800 -20400 0 0 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
+1 1786721748 800 -20400 3200 0 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
+1 1786721748 800 -20400 4800 0 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
+1 1786721748 800 -20400 5600 0 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
+1 1786721748 800 -20400 7200 0 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
+1 1786721748 800 -20400 8000 0 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
+1 1786721748 800 -20300 7600 0 0 900 0 13 0 189 0 mz-a01-lo-st4create     name MazeP,    solid off,    light radius=50 color=blue fx=fire,    corona c_soft1 size=15,    rotate 10 0 0;bump     visible off global,    corona c_soft1 size=0 global;
+1 1786721748 1200 -20400 1200 900 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
+1 1786721748 1200 -20400 2000 900 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
+1 1786721748 1200 -20400 2800 900 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
+1 1786721748 1600 -20400 -800 0 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
+1 1786721748 1600 -20400 800 0 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
+1 1786721748 1600 -20400 4000 0 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
+1 1786721748 1600 -20400 4800 0 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
+1 1786721748 1600 -20400 5600 0 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
+1 1786721748 1600 -20400 6400 0 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
+1 1786721748 1600 -20400 7200 0 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
+1 1786721748 1600 -20400 8000 0 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
+1 1786721748 1600 -20300 4400 0 0 900 0 14 0 190 0 mz-a01-lo-st10create     name MazeP,    solid off,    light radius=50 color=green fx=fire,    corona c_soft1 size=10,    rotate 10 0 0;bump     visible off global,    corona c_soft1 size=0 global;
+1 1786721748 2000 -20400 -400 900 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
+1 1786721748 2000 -20400 400 900 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
+1 1786721748 2000 -20400 1200 900 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
+1 1786721748 2000 -20400 2000 900 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
+1 1786721748 2000 -20400 2800 900 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
+1 1786721748 2000 -20400 4400 900 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
+1 1786721748 2000 -20400 7600 900 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
+1 1786721748 2400 -20400 -800 0 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
+1 1786721748 2400 -20400 3200 0 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
+1 1786721748 2400 -20400 4000 0 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
+1 1786721748 2400 -20400 5600 0 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
+1 1786721748 2400 -20400 6400 0 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
+1 1786721748 2400 -20400 8000 0 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
+1 1786721748 2400 -20300 1200 0 0 900 0 14 0 190 0 mz-a01-lo-st10create     name MazeP,    solid off,    light radius=50 color=green fx=fire,    corona c_soft1 size=10,    rotate 10 0 0;bump     visible off global,    corona c_soft1 size=0 global;
+1 1786721748 2800 -20400 400 900 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
+1 1786721748 2800 -20400 2000 900 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
+1 1786721748 2800 -20400 5200 900 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
+1 1786721748 2800 -20400 6000 900 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
+1 1786721748 2800 -20400 6800 900 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
+1 1786721748 3200 -20400 -800 0 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
+1 1786721748 3200 -20400 800 0 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
+1 1786721748 3200 -20400 2400 0 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
+1 1786721748 3200 -20400 4000 0 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
+1 1786721748 3200 -20400 4800 0 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
+1 1786721748 3200 -20400 7200 0 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
+1 1786721748 3200 -20400 8000 0 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
+1 1786721748 3200 -20300 1200 0 0 900 0 14 0 190 0 mz-a01-lo-st10create     name MazeP,    solid off,    light radius=50 color=green fx=fire,    corona c_soft1 size=10,    rotate 10 0 0;bump     visible off global,    corona c_soft1 size=0 global;
+1 1786721748 3200 -20300 2000 0 0 900 0 13 0 189 0 mz-a01-lo-st3create     name MazeP,    solid off,    light radius=50 color=white fx=fire,    corona c_soft1 size=5,    rotate 10 0 0;bump     visible off global,    corona c_soft1 size=0 global;
+1 1786721748 3200 -20300 2800 0 0 900 0 13 0 189 0 mz-a01-lo-st4create     name MazeP,    solid off,    light radius=50 color=blue fx=fire,    corona c_soft1 size=15,    rotate 10 0 0;bump     visible off global,    corona c_soft1 size=0 global;
+1 1786721748 3600 -20400 -400 900 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
+1 1786721748 3600 -20400 400 900 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
+1 1786721748 3600 -20400 1200 900 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
+1 1786721748 3600 -20400 2800 900 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
+1 1786721748 3600 -20400 3600 900 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
+1 1786721748 3600 -20400 5200 900 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
+1 1786721748 4000 -20400 -800 0 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
+1 1786721748 4000 -20400 1600 0 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
+1 1786721748 4000 -20400 4000 0 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
+1 1786721748 4000 -20400 4800 0 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
+1 1786721748 4000 -20400 6400 0 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
+1 1786721748 4000 -20400 7200 0 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
+1 1786721748 4000 -20400 8000 0 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
+1 1786721748 4000 -20300 400 0 0 900 0 13 0 189 0 mz-a01-lo-st3create     name MazeP,    solid off,    light radius=50 color=white fx=fire,    corona c_soft1 size=5,    rotate 10 0 0;bump     visible off global,    corona c_soft1 size=0 global;
+1 1786721748 4000 -20300 2000 0 0 900 0 13 0 189 0 mz-a01-lo-st3create     name MazeP,    solid off,    light radius=50 color=white fx=fire,    corona c_soft1 size=5,    rotate 10 0 0;bump     visible off global,    corona c_soft1 size=0 global;
+1 1786721748 4400 -20400 400 900 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
+1 1786721748 4400 -20400 2800 900 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
+1 1786721748 4400 -20400 6000 900 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
+1 1786721748 4800 -20400 -800 0 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
+1 1786721748 4800 -20400 0 0 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
+1 1786721748 4800 -20400 1600 0 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
+1 1786721748 4800 -20400 2400 0 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
+1 1786721748 4800 -20400 4000 0 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
+1 1786721748 4800 -20400 5600 0 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
+1 1786721748 4800 -20400 6400 0 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
+1 1786721748 4800 -20400 7200 0 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
+1 1786721748 4800 -20400 8000 0 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
+1 1786721748 5200 -20400 1200 900 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
+1 1786721748 5200 -20400 2000 900 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
+1 1786721748 5200 -20400 4400 900 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
+1 1786721748 5200 -20400 5200 900 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
+1 1786721748 5600 -20400 -800 0 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
+1 1786721748 5600 -20400 0 0 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
+1 1786721748 5600 -20400 3200 0 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
+1 1786721748 5600 -20400 4800 0 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
+1 1786721748 5600 -20400 5600 0 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
+1 1786721748 5600 -20400 7200 0 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
+1 1786721748 5600 -20400 8000 0 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
+1 1786721748 5600 -20300 -400 0 0 900 0 14 0 191 0 mz-a01-lo-st11create     name MazeP,    solid off,    light radius=50 color=orange fx=fire,    corona c_soft1 size=25,    rotate 10 0 0;bump     visible off global,    corona c_soft1 size=0 global;
+1 1786721748 5600 -20300 1200 0 0 900 0 13 0 189 0 mz-a01-lo-st4create     name MazeP,    solid off,    light radius=50 color=blue fx=fire,    corona c_soft1 size=15,    rotate 10 0 0;bump     visible off global,    corona c_soft1 size=0 global;
+1 1786721748 5600 -20300 2800 0 0 900 0 14 0 191 0 mz-a01-lo-st11create     name MazeP,    solid off,    light radius=50 color=orange fx=fire,    corona c_soft1 size=25,    rotate 10 0 0;bump     visible off global,    corona c_soft1 size=0 global;
+1 1786721748 5600 -20300 5200 0 0 900 0 13 0 189 0 mz-a01-lo-st4create     name MazeP,    solid off,    light radius=50 color=blue fx=fire,    corona c_soft1 size=15,    rotate 10 0 0;bump     visible off global,    corona c_soft1 size=0 global;
+1 1786721748 6000 -20400 400 900 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
+1 1786721748 6000 -20400 1200 900 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
+1 1786721748 6000 -20400 2000 900 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
+1 1786721748 6000 -20400 2800 900 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
+1 1786721748 6000 -20400 3600 900 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
+1 1786721748 6000 -20400 6800 900 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
+1 1786721748 6400 -20400 -800 0 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
+1 1786721748 6400 -20400 0 0 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
+1 1786721748 6400 -20400 4000 0 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
+1 1786721748 6400 -20400 5600 0 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
+1 1786721748 6400 -20400 7200 0 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
+1 1786721748 6400 -20300 -400 0 0 900 0 13 0 189 0 mz-a01-lo-st3create     name MazeP,    solid off,    light radius=50 color=white fx=fire,    corona c_soft1 size=5,    rotate 10 0 0;bump     visible off global,    corona c_soft1 size=0 global;
+1 1786721748 6400 -20300 7600 0 0 900 0 13 0 191 0 mz-a01-lo-st6create     name MazeP,    solid off,    light radius=50 color=orchid fx=fire,    corona c_soft1 size=20,    rotate 10 0 0;bump     visible off global,    corona c_soft1 size=0 global;
+1 1786721748 6800 -20400 1200 900 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
+1 1786721748 6800 -20400 2000 900 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
+1 1786721748 6800 -20400 3600 900 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
+1 1786721748 6800 -20400 4400 900 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
+1 1786721748 6800 -20400 6000 900 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
+1 1786721748 7200 -20400 -800 0 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
+1 1786721748 7200 -20400 0 0 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
+1 1786721748 7200 -20400 2400 0 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
+1 1786721748 7200 -20400 6400 0 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
+1 1786721748 7200 -20400 7200 0 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
+1 1786721748 7200 -20400 8000 0 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
+1 1786721748 7200 -20300 400 0 0 900 0 13 0 189 0 mz-a01-lo-st3create     name MazeP,    solid off,    light radius=50 color=white fx=fire,    corona c_soft1 size=5,    rotate 10 0 0;bump     visible off global,    corona c_soft1 size=0 global;
+1 1786721748 7200 -20300 4400 0 0 900 0 13 0 189 0 mz-a01-lo-st3create     name MazeP,    solid off,    light radius=50 color=white fx=fire,    corona c_soft1 size=5,    rotate 10 0 0;bump     visible off global,    corona c_soft1 size=0 global;
+1 1786721748 7200 -20300 5200 0 0 900 0 14 0 190 0 mz-a01-lo-st10create     name MazeP,    solid off,    light radius=50 color=green fx=fire,    corona c_soft1 size=10,    rotate 10 0 0;bump     visible off global,    corona c_soft1 size=0 global;
+1 1786721748 7600 -20400 400 900 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
+1 1786721748 7600 -20400 1200 900 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
+1 1786721748 7600 -20400 2000 900 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
+1 1786721748 7600 -20400 2800 900 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
+1 1786721748 7600 -20400 3600 900 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
+1 1786721748 7600 -20400 4400 900 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
+1 1786721748 7600 -20400 5200 900 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
+1 1786721748 7600 -20400 6000 900 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
+1 1786721748 8000 -20400 -800 0 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
+1 1786721748 8000 -20400 8000 0 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
+1 1786721748 8000 -20300 5200 0 0 900 0 13 0 189 0 mz-a01-lo-st3create     name MazeP,    solid off,    light radius=50 color=white fx=fire,    corona c_soft1 size=5,    rotate 10 0 0;bump     visible off global,    corona c_soft1 size=0 global;
+1 1786721748 8400 -20400 -400 900 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
+1 1786721748 8400 -20400 400 900 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
+1 1786721748 8400 -20400 1200 900 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
+1 1786721748 8400 -20400 2000 900 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
+1 1786721748 8400 -20400 2800 900 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
+1 1786721748 8400 -20400 3600 900 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
+1 1786721748 8400 -20400 4400 900 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
+1 1786721748 8400 -20400 5200 900 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
+1 1786721748 8400 -20400 6000 900 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
+1 1786721748 8400 -20400 6800 900 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
+1 1786721748 8400 -20400 7600 900 0 0 0 16 0 17 0 mz-p01-p-hedge17create name MazeW
+1 1786721748 9800 -20300 8400 0 0 900 0 14 0 189 0 mz-a01-lo-st16create     name MazeGP,    solid off,    light radius=50 color=red fx=fire,    corona c_soft1 size=30,    rotate 10 0 0;bump     visible off global,    corona c_soft1 size=0 global;
+1 1786721753 800 -20300 -400 0 0 900 0 13 0 145 0 mz-a01-lo-st3create                                   name MazeP,                                  solid off,                                  visible off;
+1 1786721756 800 -20300 1200 0 0 900 0 13 0 145 0 mz-a01-lo-st3create                                   name MazeP,                                  solid off,                                  visible off;
+1 1786721763 1600 -20300 5200 0 0 900 0 14 0 145 0 mz-a01-lo-st11create                                   name MazeP,                                  solid off,                                  visible off;
+1 1786721793 5600 -20300 6000 0 0 900 0 13 0 145 0 mz-a01-lo-st3create                                   name MazeP,                                  solid off,                                  visible off;
+1 1786721797 8000 -20300 6800 0 0 900 0 13 0 145 0 mz-a01-lo-st6create                                   name MazeP,                                  solid off,                                  visible off;
+1 1786721798 7200 -20300 7600 0 0 900 0 13 0 145 0 mz-a01-lo-st6create                                   name MazeP,                                  solid off,                                  visible off;
+1 1786721802 5600 -20300 7600 0 0 900 0 14 0 145 0 mz-a01-lo-st10create                                   name MazeP,                                  solid off,                                  visible off;
+1 1786721803 4800 -20300 7600 0 0 900 0 13 0 145 0 mz-a01-lo-st6create                                   name MazeP,                                  solid off,                                  visible off;
+1 1786721804 4000 -20300 7600 0 0 900 0 13 0 145 0 mz-a01-lo-st4create                                   name MazeP,                                  solid off,                                  visible off;
+1 1786721805 2400 -20300 7600 0 0 900 0 14 0 145 0 mz-a01-lo-st10create                                   name MazeP,                                  solid off,                                  visible off;

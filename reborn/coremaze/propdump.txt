@@ -153,178 +153,178 @@ propdump version 4
 1 1165594342 2450 -400 -8350 0 0 0 3 0 0 0 219 0000000000000000000000000000000000000000000000000000000000000000c00000000000000000000000c0000000000000000000000000000000000000000000000000000000000000b44200000000000000000000b442000000000000000000008c42000000000000000000008c420000000000000000000070430000803f00000000000070430000803f00000000820000008200000001005046000000000000e803000088130000544aff00c8c4ff00295c0f3e02010002100000000000000000000000000000635f6d6f6f6e313a635f6d6f6f6e316d00
 1 1752868361 -250 1000 -950 0 0 0 0 2 0 126 0 sbcreate visible off, media url=http://connect.miuchiz.com/objects/sounds/mz_core_maze_SMX139_56.mp3 fx=3d radius=200 loop=99999
 1 1752869356 3800 0 3400 0 0 0 0 7 0 41 0 faces15create name MazeW, visible off, solid off
-1 1785476510 -5350 0 -5450 900 0 0 0 7 0 17 0 leva1sbcreate name MazeW
-1 1785476510 -5350 0 -4650 900 0 0 0 7 0 17 0 leva1sbcreate name MazeW
-1 1785476510 -5350 0 -3850 900 0 0 0 7 0 17 0 leva1sbcreate name MazeW
-1 1785476510 -5350 0 -3050 900 0 0 0 7 0 17 0 leva1sbcreate name MazeW
-1 1785476510 -5350 0 -2250 900 0 0 0 7 0 17 0 leva1sbcreate name MazeW
-1 1785476510 -5350 0 -1450 900 0 0 0 7 0 17 0 leva1sbcreate name MazeW
-1 1785476510 -5350 0 -650 900 0 0 0 7 0 17 0 leva1sbcreate name MazeW
-1 1785476510 -5350 0 150 900 0 0 0 7 0 17 0 leva1sbcreate name MazeW
-1 1785476510 -5350 0 950 900 0 0 0 7 0 17 0 leva1sbcreate name MazeW
-1 1785476510 -5350 0 1750 900 0 0 0 7 0 17 0 leva1sbcreate name MazeW
-1 1785476510 -5350 0 2550 900 0 0 0 7 0 17 0 leva1sbcreate name MazeW
-1 1785476510 -4950 0 -5850 0 0 0 0 7 0 17 0 leva1sbcreate name MazeW
-1 1785476510 -4950 0 -5050 0 0 0 0 7 0 17 0 leva1sbcreate name MazeW
-1 1785476510 -4950 0 -4650 0 0 0 0 3 0 190 0 c1dcreate     name MazeP,    solid off,    light radius=50 color=green fx=fire,    corona c_soft1 size=10,    rotate 0 10 0;bump     visible off global,    corona c_soft1 size=0 global;
-1 1785476510 -4950 0 -1050 0 0 0 0 7 0 17 0 leva1sbcreate name MazeW
-1 1785476510 -4950 0 2550 0 0 0 0 3 0 189 0 c0dcreate     name MazeP,    solid off,    light radius=50 color=white fx=fire,    corona c_soft1 size=5,    rotate 0 10 0;bump     visible off global,    corona c_soft1 size=0 global;
-1 1785476510 -4950 0 2950 0 0 0 0 7 0 17 0 leva1sbcreate name MazeW
-1 1785476510 -4550 0 -4650 900 0 0 0 7 0 17 0 leva1sbcreate name MazeW
-1 1785476510 -4550 0 -3850 900 0 0 0 7 0 17 0 leva1sbcreate name MazeW
-1 1785476510 -4550 0 -3050 900 0 0 0 7 0 17 0 leva1sbcreate name MazeW
-1 1785476510 -4550 0 150 900 0 0 0 7 0 17 0 leva1sbcreate name MazeW
-1 1785476510 -4550 0 1750 900 0 0 0 7 0 17 0 leva1sbcreate name MazeW
-1 1785476510 -4150 0 -5850 0 0 0 0 7 0 17 0 leva1sbcreate name MazeW
-1 1785476510 -4150 0 -5050 0 0 0 0 7 0 17 0 leva1sbcreate name MazeW
-1 1785476510 -4150 0 -1850 0 0 0 0 7 0 17 0 leva1sbcreate name MazeW
-1 1785476510 -4150 0 -1050 0 0 0 0 7 0 17 0 leva1sbcreate name MazeW
-1 1785476510 -4150 0 -650 0 0 0 0 3 0 190 0 c1dcreate     name MazeP,    solid off,    light radius=50 color=green fx=fire,    corona c_soft1 size=10,    rotate 0 10 0;bump     visible off global,    corona c_soft1 size=0 global;
-1 1785476510 -4150 0 -250 0 0 0 0 7 0 17 0 leva1sbcreate name MazeW
-1 1785476510 -4150 0 550 0 0 0 0 7 0 17 0 leva1sbcreate name MazeW
-1 1785476510 -4150 0 2150 0 0 0 0 7 0 17 0 leva1sbcreate name MazeW
-1 1785476510 -4150 0 2550 0 0 0 0 3 0 191 0 c4dcreate     name MazeP,    solid off,    light radius=50 color=orchid fx=fire,    corona c_soft1 size=20,    rotate 0 10 0;bump     visible off global,    corona c_soft1 size=0 global;
-1 1785476510 -4150 0 2950 0 0 0 0 7 0 17 0 leva1sbcreate name MazeW
-1 1785476510 -3750 0 -3850 900 0 0 0 7 0 17 0 leva1sbcreate name MazeW
-1 1785476510 -3750 0 -3050 900 0 0 0 7 0 17 0 leva1sbcreate name MazeW
-1 1785476510 -3750 0 -2250 900 0 0 0 7 0 17 0 leva1sbcreate name MazeW
-1 1785476510 -3750 0 950 900 0 0 0 7 0 17 0 leva1sbcreate name MazeW
-1 1785476510 -3350 0 -5850 0 0 0 0 7 0 17 0 leva1sbcreate name MazeW
-1 1785476510 -3350 0 -4250 0 0 0 0 7 0 17 0 leva1sbcreate name MazeW
-1 1785476510 -3350 0 -1850 0 0 0 0 7 0 17 0 leva1sbcreate name MazeW
-1 1785476510 -3350 0 -1050 0 0 0 0 7 0 17 0 leva1sbcreate name MazeW
-1 1785476510 -3350 0 -250 0 0 0 0 7 0 17 0 leva1sbcreate name MazeW
-1 1785476510 -3350 0 1350 0 0 0 0 7 0 17 0 leva1sbcreate name MazeW
-1 1785476510 -3350 0 2150 0 0 0 0 7 0 17 0 leva1sbcreate name MazeW
-1 1785476510 -3350 0 2550 0 0 0 0 3 0 189 0 c3dcreate     name MazeP,    solid off,    light radius=50 color=blue fx=fire,    corona c_soft1 size=15,    rotate 0 10 0;bump     visible off global,    corona c_soft1 size=0 global;
-1 1785476510 -3350 0 2950 0 0 0 0 7 0 17 0 leva1sbcreate name MazeW
-1 1785476510 -2950 0 -5450 900 0 0 0 7 0 17 0 leva1sbcreate name MazeW
-1 1785476510 -2950 0 -4650 900 0 0 0 7 0 17 0 leva1sbcreate name MazeW
-1 1785476510 -2950 0 -3050 900 0 0 0 7 0 17 0 leva1sbcreate name MazeW
-1 1785476510 -2950 0 -2250 900 0 0 0 7 0 17 0 leva1sbcreate name MazeW
-1 1785476510 -2550 0 -5850 0 0 0 0 7 0 17 0 leva1sbcreate name MazeW
-1 1785476510 -2550 0 -4250 0 0 0 0 7 0 17 0 leva1sbcreate name MazeW
-1 1785476510 -2550 0 -1850 0 0 0 0 7 0 17 0 leva1sbcreate name MazeW
-1 1785476510 -2550 0 -1050 0 0 0 0 7 0 17 0 leva1sbcreate name MazeW
-1 1785476510 -2550 0 550 0 0 0 0 7 0 17 0 leva1sbcreate name MazeW
-1 1785476510 -2550 0 1350 0 0 0 0 7 0 17 0 leva1sbcreate name MazeW
-1 1785476510 -2550 0 2150 0 0 0 0 7 0 17 0 leva1sbcreate name MazeW
-1 1785476510 -2550 0 2550 0 0 0 0 3 0 189 0 c0dcreate     name MazeP,    solid off,    light radius=50 color=white fx=fire,    corona c_soft1 size=5,    rotate 0 10 0;bump     visible off global,    corona c_soft1 size=0 global;
-1 1785476510 -2550 0 2950 0 0 0 0 7 0 17 0 leva1sbcreate name MazeW
-1 1785476510 -2150 0 -3050 900 0 0 0 7 0 17 0 leva1sbcreate name MazeW
-1 1785476510 -2150 0 -650 900 0 0 0 7 0 17 0 leva1sbcreate name MazeW
-1 1785476510 -2150 0 150 900 0 0 0 7 0 17 0 leva1sbcreate name MazeW
-1 1785476510 -2150 0 2550 900 0 0 0 7 0 17 0 leva1sbcreate name MazeW
-1 1785476510 -1750 0 -5850 0 0 0 0 7 0 17 0 leva1sbcreate name MazeW
-1 1785476510 -1750 0 -5050 0 0 0 0 7 0 17 0 leva1sbcreate name MazeW
-1 1785476510 -1750 0 -3450 0 0 0 0 7 0 17 0 leva1sbcreate name MazeW
-1 1785476510 -1750 0 -2650 0 0 0 0 7 0 17 0 leva1sbcreate name MazeW
-1 1785476510 -1750 0 -1850 0 0 0 0 7 0 17 0 leva1sbcreate name MazeW
-1 1785476510 -1750 0 -1050 0 0 0 0 7 0 17 0 leva1sbcreate name MazeW
-1 1785476510 -1750 0 -250 0 0 0 0 7 0 17 0 leva1sbcreate name MazeW
-1 1785476510 -1750 0 1350 0 0 0 0 7 0 17 0 leva1sbcreate name MazeW
-1 1785476510 -1750 0 2550 0 0 0 0 3 0 191 0 c4dcreate     name MazeP,    solid off,    light radius=50 color=orchid fx=fire,    corona c_soft1 size=20,    rotate 0 10 0;bump     visible off global,    corona c_soft1 size=0 global;
-1 1785476510 -1750 0 2950 0 0 0 0 7 0 17 0 leva1sbcreate name MazeW
-1 1785476510 -1350 0 -4650 900 0 0 0 7 0 17 0 leva1sbcreate name MazeW
-1 1785476510 -1350 0 -3850 900 0 0 0 7 0 17 0 leva1sbcreate name MazeW
-1 1785476510 -1350 0 950 900 0 0 0 7 0 17 0 leva1sbcreate name MazeW
-1 1785476510 -1350 0 1750 900 0 0 0 7 0 17 0 leva1sbcreate name MazeW
-1 1785476510 -950 0 -5850 0 0 0 0 7 0 17 0 leva1sbcreate name MazeW
-1 1785476510 -950 0 -4250 0 0 0 0 7 0 17 0 leva1sbcreate name MazeW
-1 1785476510 -950 0 -2650 0 0 0 0 7 0 17 0 leva1sbcreate name MazeW
-1 1785476510 -950 0 -1050 0 0 0 0 7 0 17 0 leva1sbcreate name MazeW
-1 1785476510 -950 0 550 0 0 0 0 7 0 17 0 leva1sbcreate name MazeW
-1 1785476510 -950 0 2950 0 0 0 0 7 0 17 0 leva1sbcreate name MazeW
-1 1785476510 -550 0 -5450 900 0 0 0 7 0 17 0 leva1sbcreate name MazeW
-1 1785476510 -550 0 -2250 900 0 0 0 7 0 17 0 leva1sbcreate name MazeW
-1 1785476510 -550 0 -1450 900 0 0 0 7 0 17 0 leva1sbcreate name MazeW
-1 1785476510 -550 0 150 900 0 0 0 7 0 17 0 leva1sbcreate name MazeW
-1 1785476510 -550 0 1750 900 0 0 0 7 0 17 0 leva1sbcreate name MazeW
-1 1785476510 -550 0 2550 900 0 0 0 7 0 17 0 leva1sbcreate name MazeW
-1 1785476510 -150 0 -5850 0 0 0 0 7 0 17 0 leva1sbcreate name MazeW
-1 1785476510 -150 0 -5050 0 0 0 0 7 0 17 0 leva1sbcreate name MazeW
-1 1785476510 -150 0 -3450 0 0 0 0 7 0 17 0 leva1sbcreate name MazeW
-1 1785476510 -150 0 -2650 0 0 0 0 7 0 17 0 leva1sbcreate name MazeW
-1 1785476510 -150 0 -2250 0 0 0 0 3 0 190 0 c1dcreate     name MazeP,    solid off,    light radius=50 color=green fx=fire,    corona c_soft1 size=10,    rotate 0 10 0;bump     visible off global,    corona c_soft1 size=0 global;
-1 1785476510 -150 0 -1450 0 0 0 0 3 0 189 0 c0dcreate     name MazeP,    solid off,    light radius=50 color=white fx=fire,    corona c_soft1 size=5,    rotate 0 10 0;bump     visible off global,    corona c_soft1 size=0 global;
-1 1785476510 -150 0 150 0 0 0 0 3 0 189 0 c0dcreate     name MazeP,    solid off,    light radius=50 color=white fx=fire,    corona c_soft1 size=5,    rotate 0 10 0;bump     visible off global,    corona c_soft1 size=0 global;
-1 1785476510 -150 0 550 0 0 0 0 7 0 17 0 leva1sbcreate name MazeW
-1 1785476510 -150 0 1750 0 0 0 0 3 0 191 0 c7dcreate     name MazeP,    solid off,    light radius=50 color=orange fx=fire,    corona c_soft1 size=25,    rotate 0 10 0;bump     visible off global,    corona c_soft1 size=0 global;
-1 1785476510 -150 0 2950 0 0 0 0 7 0 17 0 leva1sbcreate name MazeW
-1 1785476510 250 0 -4650 900 0 0 0 7 0 17 0 leva1sbcreate name MazeW
-1 1785476510 250 0 -3850 900 0 0 0 7 0 17 0 leva1sbcreate name MazeW
-1 1785476510 250 0 -1450 900 0 0 0 7 0 17 0 leva1sbcreate name MazeW
-1 1785476510 250 0 -650 900 0 0 0 7 0 17 0 leva1sbcreate name MazeW
-1 1785476510 250 0 150 900 0 0 0 7 0 17 0 leva1sbcreate name MazeW
-1 1785476510 250 0 1750 900 0 0 0 7 0 17 0 leva1sbcreate name MazeW
-1 1785476510 650 0 -5850 0 0 0 0 7 0 17 0 leva1sbcreate name MazeW
-1 1785476510 650 0 -2650 0 0 0 0 7 0 17 0 leva1sbcreate name MazeW
-1 1785476510 650 0 -1850 0 0 0 0 7 0 17 0 leva1sbcreate name MazeW
-1 1785476510 650 0 -1050 0 0 0 0 7 0 17 0 leva1sbcreate name MazeW
-1 1785476510 650 0 550 0 0 0 0 7 0 17 0 leva1sbcreate name MazeW
-1 1785476510 650 0 2150 0 0 0 0 7 0 17 0 leva1sbcreate name MazeW
-1 1785476510 650 0 2950 0 0 0 0 7 0 17 0 leva1sbcreate name MazeW
-1 1785476510 1050 0 -4650 900 0 0 0 7 0 17 0 leva1sbcreate name MazeW
-1 1785476510 1050 0 -3850 900 0 0 0 7 0 17 0 leva1sbcreate name MazeW
-1 1785476510 1050 0 -3050 900 0 0 0 7 0 17 0 leva1sbcreate name MazeW
-1 1785476510 1050 0 1750 900 0 0 0 7 0 17 0 leva1sbcreate name MazeW
-1 1785476510 1450 0 -5850 0 0 0 0 7 0 17 0 leva1sbcreate name MazeW
-1 1785476510 1450 0 -4250 0 0 0 0 7 0 17 0 leva1sbcreate name MazeW
-1 1785476510 1450 0 -3450 0 0 0 0 7 0 17 0 leva1sbcreate name MazeW
-1 1785476510 1450 0 -2250 0 0 0 0 3 0 189 0 c3dcreate     name MazeP,    solid off,    light radius=50 color=blue fx=fire,    corona c_soft1 size=15,    rotate 0 10 0;bump     visible off global,    corona c_soft1 size=0 global;
-1 1785476510 1450 0 -1050 0 0 0 0 7 0 17 0 leva1sbcreate name MazeW
-1 1785476510 1450 0 -250 0 0 0 0 7 0 17 0 leva1sbcreate name MazeW
-1 1785476510 1450 0 550 0 0 0 0 7 0 17 0 leva1sbcreate name MazeW
-1 1785476510 1450 0 950 0 0 0 0 3 0 191 0 c7dcreate     name MazeP,    solid off,    light radius=50 color=orange fx=fire,    corona c_soft1 size=25,    rotate 0 10 0;bump     visible off global,    corona c_soft1 size=0 global;
-1 1785476510 1450 0 1350 0 0 0 0 7 0 17 0 leva1sbcreate name MazeW
-1 1785476510 1450 0 2550 0 0 0 0 3 0 189 0 c0dcreate     name MazeP,    solid off,    light radius=50 color=white fx=fire,    corona c_soft1 size=5,    rotate 0 10 0;bump     visible off global,    corona c_soft1 size=0 global;
-1 1785476510 1450 0 2950 0 0 0 0 7 0 17 0 leva1sbcreate name MazeW
-1 1785476510 1850 0 -5450 900 0 0 0 7 0 17 0 leva1sbcreate name MazeW
-1 1785476510 1850 0 -2250 900 0 0 0 7 0 17 0 leva1sbcreate name MazeW
-1 1785476510 1850 0 -1450 900 0 0 0 7 0 17 0 leva1sbcreate name MazeW
-1 1785476510 1850 0 950 900 0 0 0 7 0 17 0 leva1sbcreate name MazeW
-1 1785476510 1850 0 2550 900 0 0 0 7 0 17 0 leva1sbcreate name MazeW
-1 1785476510 2250 0 -5850 0 0 0 0 7 0 17 0 leva1sbcreate name MazeW
-1 1785476510 2250 0 -5050 0 0 0 0 7 0 17 0 leva1sbcreate name MazeW
-1 1785476510 2250 0 -4250 0 0 0 0 7 0 17 0 leva1sbcreate name MazeW
-1 1785476510 2250 0 -2650 0 0 0 0 7 0 17 0 leva1sbcreate name MazeW
-1 1785476510 2250 0 -250 0 0 0 0 7 0 17 0 leva1sbcreate name MazeW
-1 1785476510 2250 0 1350 0 0 0 0 7 0 17 0 leva1sbcreate name MazeW
-1 1785476510 2650 0 -3850 900 0 0 0 7 0 17 0 leva1sbcreate name MazeW
-1 1785476510 2650 0 -3050 900 0 0 0 7 0 17 0 leva1sbcreate name MazeW
-1 1785476510 2650 0 -1450 900 0 0 0 7 0 17 0 leva1sbcreate name MazeW
-1 1785476510 2650 0 -650 900 0 0 0 7 0 17 0 leva1sbcreate name MazeW
-1 1785476510 2650 0 150 900 0 0 0 7 0 17 0 leva1sbcreate name MazeW
-1 1785476510 2650 0 1750 900 0 0 0 7 0 17 0 leva1sbcreate name MazeW
-1 1785476510 3050 0 -5850 0 0 0 0 7 0 17 0 leva1sbcreate name MazeW
-1 1785476510 3050 0 -5450 0 0 0 0 3 0 190 0 c1dcreate     name MazeP,    solid off,    light radius=50 color=green fx=fire,    corona c_soft1 size=10,    rotate 0 10 0;bump     visible off global,    corona c_soft1 size=0 global;
-1 1785476510 3050 0 -1850 0 0 0 0 7 0 17 0 leva1sbcreate name MazeW
-1 1785476510 3050 0 -650 0 0 0 0 3 0 190 0 c1dcreate     name MazeP,    solid off,    light radius=50 color=green fx=fire,    corona c_soft1 size=10,    rotate 0 10 0;bump     visible off global,    corona c_soft1 size=0 global;
-1 1785476510 3050 0 2950 0 0 0 0 7 0 17 0 leva1sbcreate name MazeW
-1 1785476510 3450 0 -5450 900 0 0 0 7 0 17 0 leva1sbcreate name MazeW
-1 1785476510 3450 0 -4650 900 0 0 0 7 0 17 0 leva1sbcreate name MazeW
-1 1785476510 3450 0 -3850 900 0 0 0 7 0 17 0 leva1sbcreate name MazeW
-1 1785476510 3450 0 -3050 900 0 0 0 7 0 17 0 leva1sbcreate name MazeW
-1 1785476510 3450 0 -2250 900 0 0 0 7 0 17 0 leva1sbcreate name MazeW
-1 1785476510 3450 0 -1450 900 0 0 0 7 0 17 0 leva1sbcreate name MazeW
-1 1785476510 3450 0 -650 900 0 0 0 7 0 17 0 leva1sbcreate name MazeW
-1 1785476510 3450 0 150 900 0 0 0 7 0 17 0 leva1sbcreate name MazeW
-1 1785476510 3450 0 950 900 0 0 0 7 0 17 0 leva1sbcreate name MazeW
-1 1785476510 3450 0 1750 900 0 0 0 7 0 17 0 leva1sbcreate name MazeW
-1 1785476510 3450 0 2550 900 0 0 0 7 0 17 0 leva1sbcreate name MazeW
-1 1785476516 -3350 0 -5450 0 0 0 0 3 0 145 0 c1dcreate                                   name MazeP,                                  solid off,                                  visible off;
-1 1785476517 -3350 0 -4650 0 0 0 0 3 0 145 0 c7dcreate                                   name MazeP,                                  solid off,                                  visible off;
-1 1785476519 -4150 0 -3850 0 0 0 0 3 0 145 0 c4dcreate                                   name MazeP,                                  solid off,                                  visible off;
-1 1785476520 -4150 0 -3050 0 0 0 0 3 0 145 0 c3dcreate                                   name MazeP,                                  solid off,                                  visible off;
-1 1785476522 -4950 0 -1450 0 0 0 0 3 0 145 0 c3dcreate                                   name MazeP,                                  solid off,                                  visible off;
-1 1785476523 -4150 0 -1450 0 0 0 0 3 0 145 0 c0dcreate                                   name MazeP,                                  solid off,                                  visible off;
-1 1785476528 -1750 0 -2250 0 0 0 0 3 0 145 0 c4dcreate                                   name MazeP,                                  solid off,                                  visible off;
-1 1785476529 -2550 0 -2250 0 0 0 0 3 0 145 0 c0dcreate                                   name MazeP,                                  solid off,                                  visible off;
-1 1785476531 -2550 0 -3850 0 0 0 0 3 0 145 0 c0dcreate                                   name MazeP,                                  solid off,                                  visible off;
-1 1785476535 -950 0 -4650 0 0 0 0 3 0 145 0 c1dcreate                                   name MazeP,                                  solid off,                                  visible off;
-1 1785476537 -150 0 -3850 0 0 0 0 3 0 145 0 c0dcreate                                   name MazeP,                                  solid off,                                  visible off;
-1 1785476538 -950 0 -3050 0 0 0 0 3 0 145 0 c0dcreate                                   name MazeP,                                  solid off,                                  visible off;
-1 1785476549 2250 0 -1450 0 0 0 0 3 0 145 0 c3dcreate                                   name MazeP,                                  solid off,                                  visible off;
-1 1785476554 3050 0 1750 0 0 0 0 3 0 145 0 c1dcreate                                   name MazeP,                                  solid off,                                  visible off;
-1 1785476555 -150 0 -5450 0 0 0 0 3 0 145 0 c3dcreate                                   name MazeP,                                  solid off,                                  visible off;
-1 1785476557 3750 0 3400 0 0 0 0 3 0 56 0 c5ecreate     name MazeGP,    solid off,    visible off;
+1 1786438121 -5350 0 -5450 900 0 0 0 7 0 17 0 leva1sbcreate name MazeW
+1 1786438121 -5350 0 -4650 900 0 0 0 7 0 17 0 leva1sbcreate name MazeW
+1 1786438121 -5350 0 -3850 900 0 0 0 7 0 17 0 leva1sbcreate name MazeW
+1 1786438121 -5350 0 -3050 900 0 0 0 7 0 17 0 leva1sbcreate name MazeW
+1 1786438121 -5350 0 -2250 900 0 0 0 7 0 17 0 leva1sbcreate name MazeW
+1 1786438121 -5350 0 -1450 900 0 0 0 7 0 17 0 leva1sbcreate name MazeW
+1 1786438121 -5350 0 -650 900 0 0 0 7 0 17 0 leva1sbcreate name MazeW
+1 1786438121 -5350 0 150 900 0 0 0 7 0 17 0 leva1sbcreate name MazeW
+1 1786438121 -5350 0 950 900 0 0 0 7 0 17 0 leva1sbcreate name MazeW
+1 1786438121 -5350 0 1750 900 0 0 0 7 0 17 0 leva1sbcreate name MazeW
+1 1786438121 -5350 0 2550 900 0 0 0 7 0 17 0 leva1sbcreate name MazeW
+1 1786438121 -4950 0 -5850 0 0 0 0 7 0 17 0 leva1sbcreate name MazeW
+1 1786438121 -4950 0 -5050 0 0 0 0 7 0 17 0 leva1sbcreate name MazeW
+1 1786438121 -4950 0 2150 0 0 0 0 7 0 17 0 leva1sbcreate name MazeW
+1 1786438121 -4950 0 2950 0 0 0 0 7 0 17 0 leva1sbcreate name MazeW
+1 1786438121 -4550 0 -3850 900 0 0 0 7 0 17 0 leva1sbcreate name MazeW
+1 1786438121 -4550 0 -3050 900 0 0 0 7 0 17 0 leva1sbcreate name MazeW
+1 1786438121 -4550 0 -2250 900 0 0 0 7 0 17 0 leva1sbcreate name MazeW
+1 1786438121 -4550 0 -1450 900 0 0 0 7 0 17 0 leva1sbcreate name MazeW
+1 1786438121 -4550 0 150 900 0 0 0 7 0 17 0 leva1sbcreate name MazeW
+1 1786438121 -4550 0 950 900 0 0 0 7 0 17 0 leva1sbcreate name MazeW
+1 1786438121 -4150 0 -5850 0 0 0 0 7 0 17 0 leva1sbcreate name MazeW
+1 1786438121 -4150 0 -5050 0 0 0 0 7 0 17 0 leva1sbcreate name MazeW
+1 1786438121 -4150 0 -3450 0 0 0 0 7 0 17 0 leva1sbcreate name MazeW
+1 1786438121 -4150 0 -1050 0 0 0 0 7 0 17 0 leva1sbcreate name MazeW
+1 1786438121 -4150 0 550 0 0 0 0 7 0 17 0 leva1sbcreate name MazeW
+1 1786438121 -4150 0 1350 0 0 0 0 7 0 17 0 leva1sbcreate name MazeW
+1 1786438121 -4150 0 2950 0 0 0 0 7 0 17 0 leva1sbcreate name MazeW
+1 1786438121 -3750 0 -4650 900 0 0 0 7 0 17 0 leva1sbcreate name MazeW
+1 1786438121 -3750 0 -3850 900 0 0 0 7 0 17 0 leva1sbcreate name MazeW
+1 1786438121 -3750 0 -2250 900 0 0 0 7 0 17 0 leva1sbcreate name MazeW
+1 1786438121 -3750 0 -650 900 0 0 0 7 0 17 0 leva1sbcreate name MazeW
+1 1786438121 -3750 0 1750 900 0 0 0 7 0 17 0 leva1sbcreate name MazeW
+1 1786438121 -3350 0 -5850 0 0 0 0 7 0 17 0 leva1sbcreate name MazeW
+1 1786438121 -3350 0 -5050 0 0 0 0 7 0 17 0 leva1sbcreate name MazeW
+1 1786438121 -3350 0 -2650 0 0 0 0 7 0 17 0 leva1sbcreate name MazeW
+1 1786438121 -3350 0 -1050 0 0 0 0 7 0 17 0 leva1sbcreate name MazeW
+1 1786438121 -3350 0 550 0 0 0 0 7 0 17 0 leva1sbcreate name MazeW
+1 1786438121 -3350 0 2150 0 0 0 0 7 0 17 0 leva1sbcreate name MazeW
+1 1786438121 -3350 0 2950 0 0 0 0 7 0 17 0 leva1sbcreate name MazeW
+1 1786438121 -2950 0 -3850 900 0 0 0 7 0 17 0 leva1sbcreate name MazeW
+1 1786438121 -2950 0 -3050 900 0 0 0 7 0 17 0 leva1sbcreate name MazeW
+1 1786438121 -2950 0 -1450 900 0 0 0 7 0 17 0 leva1sbcreate name MazeW
+1 1786438121 -2950 0 150 900 0 0 0 7 0 17 0 leva1sbcreate name MazeW
+1 1786438121 -2550 0 -5850 0 0 0 0 7 0 17 0 leva1sbcreate name MazeW
+1 1786438121 -2550 0 -4250 0 0 0 0 7 0 17 0 leva1sbcreate name MazeW
+1 1786438121 -2550 0 -1850 0 0 0 0 7 0 17 0 leva1sbcreate name MazeW
+1 1786438121 -2550 0 -250 0 0 0 0 7 0 17 0 leva1sbcreate name MazeW
+1 1786438121 -2550 0 1350 0 0 0 0 7 0 17 0 leva1sbcreate name MazeW
+1 1786438121 -2550 0 2950 0 0 0 0 7 0 17 0 leva1sbcreate name MazeW
+1 1786438121 -2150 0 -5450 900 0 0 0 7 0 17 0 leva1sbcreate name MazeW
+1 1786438121 -2150 0 -4650 900 0 0 0 7 0 17 0 leva1sbcreate name MazeW
+1 1786438121 -2150 0 -3050 900 0 0 0 7 0 17 0 leva1sbcreate name MazeW
+1 1786438121 -2150 0 -2250 900 0 0 0 7 0 17 0 leva1sbcreate name MazeW
+1 1786438121 -2150 0 -650 900 0 0 0 7 0 17 0 leva1sbcreate name MazeW
+1 1786438121 -2150 0 950 900 0 0 0 7 0 17 0 leva1sbcreate name MazeW
+1 1786438121 -2150 0 1750 900 0 0 0 7 0 17 0 leva1sbcreate name MazeW
+1 1786438121 -2150 0 2550 900 0 0 0 7 0 17 0 leva1sbcreate name MazeW
+1 1786438121 -1750 0 -5850 0 0 0 0 7 0 17 0 leva1sbcreate name MazeW
+1 1786438121 -1750 0 -5450 0 0 0 0 3 0 189 0 c0dcreate     name MazeP,    solid off,    light radius=50 color=white fx=fire,    corona c_soft1 size=5,    rotate 0 10 0;bump     visible off global,    corona c_soft1 size=0 global;
+1 1786438121 -1750 0 -4650 0 0 0 0 3 0 191 0 c7dcreate     name MazeP,    solid off,    light radius=50 color=orange fx=fire,    corona c_soft1 size=25,    rotate 0 10 0;bump     visible off global,    corona c_soft1 size=0 global;
+1 1786438121 -1750 0 -4250 0 0 0 0 7 0 17 0 leva1sbcreate name MazeW
+1 1786438121 -1750 0 -3450 0 0 0 0 7 0 17 0 leva1sbcreate name MazeW
+1 1786438121 -1750 0 -1050 0 0 0 0 7 0 17 0 leva1sbcreate name MazeW
+1 1786438121 -1750 0 550 0 0 0 0 7 0 17 0 leva1sbcreate name MazeW
+1 1786438121 -1750 0 2150 0 0 0 0 7 0 17 0 leva1sbcreate name MazeW
+1 1786438121 -1750 0 2550 0 0 0 0 3 0 191 0 c4dcreate     name MazeP,    solid off,    light radius=50 color=orchid fx=fire,    corona c_soft1 size=20,    rotate 0 10 0;bump     visible off global,    corona c_soft1 size=0 global;
+1 1786438121 -1750 0 2950 0 0 0 0 7 0 17 0 leva1sbcreate name MazeW
+1 1786438121 -1350 0 -2250 900 0 0 0 7 0 17 0 leva1sbcreate name MazeW
+1 1786438121 -1350 0 -1450 900 0 0 0 7 0 17 0 leva1sbcreate name MazeW
+1 1786438121 -1350 0 150 900 0 0 0 7 0 17 0 leva1sbcreate name MazeW
+1 1786438121 -950 0 -5850 0 0 0 0 7 0 17 0 leva1sbcreate name MazeW
+1 1786438121 -950 0 -5050 0 0 0 0 7 0 17 0 leva1sbcreate name MazeW
+1 1786438121 -950 0 -4250 0 0 0 0 7 0 17 0 leva1sbcreate name MazeW
+1 1786438121 -950 0 -2650 0 0 0 0 7 0 17 0 leva1sbcreate name MazeW
+1 1786438121 -950 0 -1050 0 0 0 0 7 0 17 0 leva1sbcreate name MazeW
+1 1786438121 -950 0 1350 0 0 0 0 7 0 17 0 leva1sbcreate name MazeW
+1 1786438121 -950 0 2150 0 0 0 0 7 0 17 0 leva1sbcreate name MazeW
+1 1786438121 -950 0 2950 0 0 0 0 7 0 17 0 leva1sbcreate name MazeW
+1 1786438121 -550 0 -3850 900 0 0 0 7 0 17 0 leva1sbcreate name MazeW
+1 1786438121 -550 0 -3050 900 0 0 0 7 0 17 0 leva1sbcreate name MazeW
+1 1786438121 -550 0 -650 900 0 0 0 7 0 17 0 leva1sbcreate name MazeW
+1 1786438121 -550 0 150 900 0 0 0 7 0 17 0 leva1sbcreate name MazeW
+1 1786438121 -550 0 950 900 0 0 0 7 0 17 0 leva1sbcreate name MazeW
+1 1786438121 -150 0 -5850 0 0 0 0 7 0 17 0 leva1sbcreate name MazeW
+1 1786438121 -150 0 -5450 0 0 0 0 3 0 190 0 c1dcreate     name MazeP,    solid off,    light radius=50 color=green fx=fire,    corona c_soft1 size=10,    rotate 0 10 0;bump     visible off global,    corona c_soft1 size=0 global;
+1 1786438121 -150 0 -5050 0 0 0 0 7 0 17 0 leva1sbcreate name MazeW
+1 1786438121 -150 0 -1850 0 0 0 0 7 0 17 0 leva1sbcreate name MazeW
+1 1786438121 -150 0 -250 0 0 0 0 7 0 17 0 leva1sbcreate name MazeW
+1 1786438121 -150 0 2150 0 0 0 0 7 0 17 0 leva1sbcreate name MazeW
+1 1786438121 -150 0 2950 0 0 0 0 7 0 17 0 leva1sbcreate name MazeW
+1 1786438121 250 0 -4650 900 0 0 0 7 0 17 0 leva1sbcreate name MazeW
+1 1786438121 250 0 -3850 900 0 0 0 7 0 17 0 leva1sbcreate name MazeW
+1 1786438121 250 0 -3050 900 0 0 0 7 0 17 0 leva1sbcreate name MazeW
+1 1786438121 250 0 -2250 900 0 0 0 7 0 17 0 leva1sbcreate name MazeW
+1 1786438121 250 0 -1450 900 0 0 0 7 0 17 0 leva1sbcreate name MazeW
+1 1786438121 250 0 -650 900 0 0 0 7 0 17 0 leva1sbcreate name MazeW
+1 1786438121 250 0 950 900 0 0 0 7 0 17 0 leva1sbcreate name MazeW
+1 1786438121 250 0 1750 900 0 0 0 7 0 17 0 leva1sbcreate name MazeW
+1 1786438121 650 0 -5850 0 0 0 0 7 0 17 0 leva1sbcreate name MazeW
+1 1786438121 650 0 -5050 0 0 0 0 7 0 17 0 leva1sbcreate name MazeW
+1 1786438121 650 0 -2650 0 0 0 0 7 0 17 0 leva1sbcreate name MazeW
+1 1786438121 650 0 -250 0 0 0 0 7 0 17 0 leva1sbcreate name MazeW
+1 1786438121 650 0 1350 0 0 0 0 7 0 17 0 leva1sbcreate name MazeW
+1 1786438121 650 0 2550 0 0 0 0 3 0 190 0 c1dcreate     name MazeP,    solid off,    light radius=50 color=green fx=fire,    corona c_soft1 size=10,    rotate 0 10 0;bump     visible off global,    corona c_soft1 size=0 global;
+1 1786438121 650 0 2950 0 0 0 0 7 0 17 0 leva1sbcreate name MazeW
+1 1786438121 1050 0 -3850 900 0 0 0 7 0 17 0 leva1sbcreate name MazeW
+1 1786438121 1050 0 -1450 900 0 0 0 7 0 17 0 leva1sbcreate name MazeW
+1 1786438121 1050 0 150 900 0 0 0 7 0 17 0 leva1sbcreate name MazeW
+1 1786438121 1050 0 2550 900 0 0 0 7 0 17 0 leva1sbcreate name MazeW
+1 1786438121 1450 0 -5850 0 0 0 0 7 0 17 0 leva1sbcreate name MazeW
+1 1786438121 1450 0 -5050 0 0 0 0 7 0 17 0 leva1sbcreate name MazeW
+1 1786438121 1450 0 -4250 0 0 0 0 7 0 17 0 leva1sbcreate name MazeW
+1 1786438121 1450 0 -3050 0 0 0 0 3 0 189 0 c3dcreate     name MazeP,    solid off,    light radius=50 color=blue fx=fire,    corona c_soft1 size=15,    rotate 0 10 0;bump     visible off global,    corona c_soft1 size=0 global;
+1 1786438121 1450 0 -2650 0 0 0 0 7 0 17 0 leva1sbcreate name MazeW
+1 1786438121 1450 0 -2250 0 0 0 0 3 0 189 0 c0dcreate     name MazeP,    solid off,    light radius=50 color=white fx=fire,    corona c_soft1 size=5,    rotate 0 10 0;bump     visible off global,    corona c_soft1 size=0 global;
+1 1786438121 1450 0 -1850 0 0 0 0 7 0 17 0 leva1sbcreate name MazeW
+1 1786438121 1450 0 -1450 0 0 0 0 3 0 191 0 c7dcreate     name MazeP,    solid off,    light radius=50 color=orange fx=fire,    corona c_soft1 size=25,    rotate 0 10 0;bump     visible off global,    corona c_soft1 size=0 global;
+1 1786438121 1450 0 550 0 0 0 0 7 0 17 0 leva1sbcreate name MazeW
+1 1786438121 1450 0 1350 0 0 0 0 7 0 17 0 leva1sbcreate name MazeW
+1 1786438121 1450 0 2950 0 0 0 0 7 0 17 0 leva1sbcreate name MazeW
+1 1786438121 1850 0 -650 900 0 0 0 7 0 17 0 leva1sbcreate name MazeW
+1 1786438121 1850 0 150 900 0 0 0 7 0 17 0 leva1sbcreate name MazeW
+1 1786438121 1850 0 1750 900 0 0 0 7 0 17 0 leva1sbcreate name MazeW
+1 1786438121 2250 0 -5850 0 0 0 0 7 0 17 0 leva1sbcreate name MazeW
+1 1786438121 2250 0 -5050 0 0 0 0 7 0 17 0 leva1sbcreate name MazeW
+1 1786438121 2250 0 -4250 0 0 0 0 7 0 17 0 leva1sbcreate name MazeW
+1 1786438121 2250 0 -3450 0 0 0 0 7 0 17 0 leva1sbcreate name MazeW
+1 1786438121 2250 0 -2650 0 0 0 0 7 0 17 0 leva1sbcreate name MazeW
+1 1786438121 2250 0 -2250 0 0 0 0 3 0 190 0 c1dcreate     name MazeP,    solid off,    light radius=50 color=green fx=fire,    corona c_soft1 size=10,    rotate 0 10 0;bump     visible off global,    corona c_soft1 size=0 global;
+1 1786438121 2250 0 -1850 0 0 0 0 7 0 17 0 leva1sbcreate name MazeW
+1 1786438121 2250 0 -1050 0 0 0 0 7 0 17 0 leva1sbcreate name MazeW
+1 1786438121 2250 0 1350 0 0 0 0 7 0 17 0 leva1sbcreate name MazeW
+1 1786438121 2650 0 -3050 900 0 0 0 7 0 17 0 leva1sbcreate name MazeW
+1 1786438121 2650 0 150 900 0 0 0 7 0 17 0 leva1sbcreate name MazeW
+1 1786438121 2650 0 950 900 0 0 0 7 0 17 0 leva1sbcreate name MazeW
+1 1786438121 3050 0 -5850 0 0 0 0 7 0 17 0 leva1sbcreate name MazeW
+1 1786438121 3050 0 -5450 0 0 0 0 3 0 189 0 c3dcreate     name MazeP,    solid off,    light radius=50 color=blue fx=fire,    corona c_soft1 size=15,    rotate 0 10 0;bump     visible off global,    corona c_soft1 size=0 global;
+1 1786438121 3050 0 -4650 0 0 0 0 3 0 189 0 c0dcreate     name MazeP,    solid off,    light radius=50 color=white fx=fire,    corona c_soft1 size=5,    rotate 0 10 0;bump     visible off global,    corona c_soft1 size=0 global;
+1 1786438121 3050 0 -4250 0 0 0 0 7 0 17 0 leva1sbcreate name MazeW
+1 1786438121 3050 0 -3850 0 0 0 0 3 0 189 0 c0dcreate     name MazeP,    solid off,    light radius=50 color=white fx=fire,    corona c_soft1 size=5,    rotate 0 10 0;bump     visible off global,    corona c_soft1 size=0 global;
+1 1786438121 3050 0 -1850 0 0 0 0 7 0 17 0 leva1sbcreate name MazeW
+1 1786438121 3050 0 2150 0 0 0 0 7 0 17 0 leva1sbcreate name MazeW
+1 1786438121 3050 0 2950 0 0 0 0 7 0 17 0 leva1sbcreate name MazeW
+1 1786438121 3450 0 -5450 900 0 0 0 7 0 17 0 leva1sbcreate name MazeW
+1 1786438121 3450 0 -4650 900 0 0 0 7 0 17 0 leva1sbcreate name MazeW
+1 1786438121 3450 0 -3850 900 0 0 0 7 0 17 0 leva1sbcreate name MazeW
+1 1786438121 3450 0 -3050 900 0 0 0 7 0 17 0 leva1sbcreate name MazeW
+1 1786438121 3450 0 -2250 900 0 0 0 7 0 17 0 leva1sbcreate name MazeW
+1 1786438121 3450 0 -1450 900 0 0 0 7 0 17 0 leva1sbcreate name MazeW
+1 1786438121 3450 0 -650 900 0 0 0 7 0 17 0 leva1sbcreate name MazeW
+1 1786438121 3450 0 150 900 0 0 0 7 0 17 0 leva1sbcreate name MazeW
+1 1786438121 3450 0 950 900 0 0 0 7 0 17 0 leva1sbcreate name MazeW
+1 1786438121 3450 0 1750 900 0 0 0 7 0 17 0 leva1sbcreate name MazeW
+1 1786438121 3450 0 2550 900 0 0 0 7 0 17 0 leva1sbcreate name MazeW
+1 1786438127 -4150 0 -5450 0 0 0 0 3 0 145 0 c0dcreate                                   name MazeP,                                  solid off,                                  visible off;
+1 1786438131 -3350 0 -3050 0 0 0 0 3 0 145 0 c0dcreate                                   name MazeP,                                  solid off,                                  visible off;
+1 1786438132 -4150 0 -2250 0 0 0 0 3 0 145 0 c7dcreate                                   name MazeP,                                  solid off,                                  visible off;
+1 1786438135 -2550 0 -3050 0 0 0 0 3 0 145 0 c1dcreate                                   name MazeP,                                  solid off,                                  visible off;
+1 1786438142 -3350 0 150 0 0 0 0 3 0 145 0 c0dcreate                                   name MazeP,                                  solid off,                                  visible off;
+1 1786438144 -4150 0 -650 0 0 0 0 3 0 145 0 c3dcreate                                   name MazeP,                                  solid off,                                  visible off;
+1 1786438145 -4950 0 -650 0 0 0 0 3 0 145 0 c0dcreate                                   name MazeP,                                  solid off,                                  visible off;
+1 1786438146 -4950 0 150 0 0 0 0 3 0 145 0 c3dcreate                                   name MazeP,                                  solid off,                                  visible off;
+1 1786438148 -4950 0 1750 0 0 0 0 3 0 145 0 c4dcreate                                   name MazeP,                                  solid off,                                  visible off;
+1 1786438150 -3350 0 2550 0 0 0 0 3 0 145 0 c4dcreate                                   name MazeP,                                  solid off,                                  visible off;
+1 1786438151 -2550 0 2550 0 0 0 0 3 0 145 0 c3dcreate                                   name MazeP,                                  solid off,                                  visible off;
+1 1786438153 -3350 0 950 0 0 0 0 3 0 145 0 c1dcreate                                   name MazeP,                                  solid off,                                  visible off;
+1 1786438155 -1750 0 150 0 0 0 0 3 0 145 0 c1dcreate                                   name MazeP,                                  solid off,                                  visible off;
+1 1786438158 -950 0 950 0 0 0 0 3 0 145 0 c0dcreate                                   name MazeP,                                  solid off,                                  visible off;
+1 1786438160 -1750 0 1750 0 0 0 0 3 0 145 0 c3dcreate                                   name MazeP,                                  solid off,                                  visible off;
+1 1786438162 -150 0 950 0 0 0 0 3 0 145 0 c1dcreate                                   name MazeP,                                  solid off,                                  visible off;
+1 1786438164 650 0 150 0 0 0 0 3 0 145 0 c0dcreate                                   name MazeP,                                  solid off,                                  visible off;
+1 1786438166 2250 0 950 0 0 0 0 3 0 145 0 c4dcreate                                   name MazeP,                                  solid off,                                  visible off;
+1 1786438168 3050 0 150 0 0 0 0 3 0 145 0 c1dcreate                                   name MazeP,                                  solid off,                                  visible off;
+1 1786438173 3750 0 3400 0 0 0 0 3 0 56 0 c5ecreate     name MazeGP,    solid off,    visible off;
